@@ -1,0 +1,200 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Rush n&#039; Crush | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/46782/rush-n-crush" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Rush n&#039; Crush">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/zxn2K5ubGtDkacuRb2jULqTNqps=/fit-in/445x445/pic497816.jpg" />
+	<meta property="og:title" content="Rush n&#039; Crush" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/46782/rush-n-crush" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="From the Publisher:
+First the players choose a driver from among six armed and dangerous psychopaths. They hop aboard futuristic, armoured and over-equipped vehicles. And the race begins. The goal is to be the first across the finish line, as only first place counts. No matter the game mode used, Arcade or Overdrive, the race is always a deadly obstacle course around a track made of ten reversible tiles, which can be assembled to build many different racetracks. Fire your engines, buckle your helmet, and be ready for the armed racing game!" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Rush n&#039; Crush" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/EgqKwfx4dgnewG1o02d0Vt0SAII=/fit-in/1200x630/pic497816.jpg" />
+	<meta name="twitter:description" content="From the Publisher:
+First the players choose a driver from among six armed and dangerous psychopaths. They hop aboard futuristic, armoured and over-equipped vehicles. And the race begins. The goal is to be the first across the finish line, as only first place counts. No matter the game mode used, Arcade or Overdrive, the race is always a deadly obstacle course around a track made of ten reversible tiles, which can be assembled to build many different racetracks. Fire your engines, buckle your helmet, and be ready for the armed racing game!" />
+
+
+	<meta name="description" content="From the Publisher:
+First the players choose a driver from among six armed and dangerous psychopaths. They hop aboard futuristic, armoured and over-equipped vehicles. And the race begins. The goal is to be the first across the finish line, as only first place counts. No matter the game mode used, Arcade or Overdrive, the race is always a deadly obstacle course around a track made of ten reversible tiles, which can be assembled to build many different racetracks. Fire your engines, buckle your helmet, and be ready for the armed racing game!">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["46782"],"familyid":["22783","5499","5496","6924"],"companyid":["396","1811"],"temp_co":["hot"],"personid":["2616","2618","29423","29426","29424","29422","2617","10548","29425"],"propertyid":["1017","2072","2011","1031","1016","2015"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"3714","baverage":"5.77848"},{"prettyname":"Thematic Rank","shortprettyname":"Thematic Rank","veryshortprettyname":"Thematic","subdomain":"thematic","rankobjecttype":"family","rankobjectid":5496,"rank":"604","baverage":"5.90723"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"1040","baverage":"5.8364"}],"polls":{"userplayers":{"best":[{"min":6,"max":6}],"recommended":[{"min":3,"max":6}],"totalvotes":"12"},"playerage":"8+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":2.2115384615384617,"votes":"52"}},"stats":{"usersrated":"791","average":"6.31139","baverage":"5.77848","stddev":"1.38021","avgweight":"2.2115","numweights":"52","numgeeklists":"1042","numtrading":"198","numwanting":"23","numwish":"211","numowned":"1772","numprevowned":"480","numcomments":"325","numwishlistcomments":"42","numhasparts":"2","numwantparts":"0","views":"139239","playmonth":"2020-06","numplays":"1163","numplays_month":0,"numfans":67},"relatedcounts":{"news":0,"blogs":6,"weblink":12,"podcast":1},"itemid":112184,"objecttype":"thing","objectid":46782,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/46782\/rush-n-crush","subtype":"boardgame","subtypes":["boardgame","boardgameimplementation"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Rush n' Crush","alternatename":null,"yearpublished":"2009","minplayers":"3","maxplayers":"6","minplaytime":"60","maxplaytime":"60","minage":"12","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":null,"links":{"boardgamedesigner":[{"name":"Guillaume Blossier","objecttype":"person","objectid":"2616","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/2616\/guillaume-blossier"},{"name":"Charly Cazals","objecttype":"person","objectid":"2618","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/2618\/charly-cazals"},{"name":"Fr\u00e9d\u00e9ric Henry","objecttype":"person","objectid":"2617","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/2617\/frederic-henry"}],"boardgameartist":[{"name":"Mauro dal Bo","objecttype":"person","objectid":"29423","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/29423\/mauro-dal-bo"},{"name":"Jean-Baptiste Guiton","objecttype":"person","objectid":"29426","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/29426\/jean-baptiste-guiton"},{"name":"Matthias Haddad","objecttype":"person","objectid":"29424","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/29424\/matthias-haddad"},{"name":"Mathieu Harlaut","objecttype":"person","objectid":"29422","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/29422\/mathieu-harlaut"},{"name":"Paolo Parente","objecttype":"person","objectid":"10548","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/10548\/paolo-parente"},{"name":"Goulven Quentel","objecttype":"person","objectid":"29425","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/29425\/goulven-quentel"}],"boardgamepublisher":[{"name":"Alderac Entertainment Group","objecttype":"company","objectid":"396","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/396\/alderac-entertainment-group"},{"name":"Rackham","objecttype":"company","objectid":"1811","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/1811\/rackham"}],"boardgamehonor":[],"boardgamecategory":[{"name":"Dice","objecttype":"property","objectid":"1017","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1017\/dice"},{"name":"Racing","objecttype":"property","objectid":"1031","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1031\/racing"},{"name":"Science Fiction","objecttype":"property","objectid":"1016","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1016\/science-fiction"}],"boardgamemechanic":[{"name":"Dice Rolling","objecttype":"property","objectid":"2072","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2072\/dice-rolling"},{"name":"Modular Board","objecttype":"property","objectid":"2011","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2011\/modular-board"},{"name":"Variable Player Powers","objecttype":"property","objectid":"2015","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2015\/variable-player-powers"}],"boardgameexpansion":[],"boardgameversion":[{"name":"First edition","objecttype":"version","objectid":"25710","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/25710\/first-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[{"name":"Rush N' Crush","objecttype":"thing","objectid":"7482","primarylink":0,"itemstate":"approved","href":"\/boardgame\/7482\/rush-n-crush"}],"boardgamefamily":[{"name":"Admin: Better Description Needed!","objecttype":"family","objectid":"22783","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/22783\/admin-better-description-needed"},{"name":"Theme: Sci-Fi Sports","objecttype":"family","objectid":"6924","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/6924\/theme-sci-fi-sports"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"},{"name":"Thematic Games","objecttype":"family","objectid":"5496","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5496\/thematic-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":3,"boardgameartist":6,"boardgamepublisher":2,"boardgamehonor":0,"boardgamecategory":3,"boardgamemechanic":3,"boardgameexpansion":0,"boardgameversion":1,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":1,"boardgamefamily":2,"videogamebg":0,"boardgamesubdomain":2,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":0,"primaryname":{"nameid":"125452","name":"Rush n' Crush","sortindex":"1","primaryname":"1","translit":"Rush n' Crush"},"description":"<p>From the Publisher:<br \/>\nFirst the players choose a driver from among six armed and dangerous psychopaths. They hop aboard futuristic, armoured and over-equipped vehicles. And the race begins. The goal is to be the first across the finish line, as only first place counts. No matter the game mode used, Arcade or Overdrive, the race is always a deadly obstacle course around a track made of ten reversible tiles, which can be assembled to build many different racetracks. Fire your engines, buckle your helmet, and be ready for the armed racing game!<\/p>\n\n","wiki":"<p><em>There are two different versions of Rush n' Crush. Go to <a  href=\"\/boardgame\/7482\/rush-n-crush\"   >Rush N' Crush<\/a> for the 2-6 player print n play version.<\/em><\/p>\n\n<p><strong>Game Contents:<\/strong><\/p>\n\n<ul>\n    <li> 10 reversible racetrack tiles to combine into many different racetracks<\/li>\n    <li> 6 dashboards for 6 over-equipped vehicles<\/li>\n    <li> 6 cards for their armed and dangerous drivers<\/li>\n    <li> 6 &quot;Vehicle&quot; tokens<\/li>\n    <li> 6 &quot;Stick Shift&quot; pawns<\/li>\n    <li> 5 White Driving Dice<\/li>\n    <li> 3 Red Damage Dice<\/li>\n    <li> 72 Clear counters to keep an eye on your rides status<\/li>\n    <li> 12 Red &quot;Mine&quot; tokens, to blow up your opponents<\/li>\n    <li> 1 Start and Finish line<\/li>\n    <li> 1 Arcade rulebook, for the fast and merciless<\/li>\n    <li> 1 Overdrive rulebook for refined driver looking for some finesse<\/li>\n<\/ul>\n\n<p><strong>Microbadges:<\/strong><\/p>\n\n<p><a href=\"\/microbadge\/11187\"><img alt='Microbadge: Rush n&#039; Crush fan'  onmouseover=\"return overlib('Rush n\\&#039; Crush fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_11187_0.png\"><\/a> Explosion<br \/>\n<a href=\"\/microbadge\/11188\"><img alt='Microbadge: Rush n&#039; Crush fan'  onmouseover=\"return overlib('Rush n\\&#039; Crush fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_11188_0.png\"><\/a> Rocket Booster<br \/>\n<a href=\"\/microbadge\/11227\"><img alt='Microbadge: Rush n&#039; Crush fan'  onmouseover=\"return overlib('Rush n\\&#039; Crush fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_11227_0.png\"><\/a> Side Bumper Microbadge<br \/>\n<a href=\"\/microbadge\/11175\"><img alt='Microbadge: Rush n&#039; Crush fan'  onmouseover=\"return overlib('Rush n\\&#039; Crush fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_11175_1.png\"><\/a> Machine Gun<br \/>\n<a href=\"\/microbadge\/11264\"><img alt='Microbadge: Rush n&#039; Crush fan'  onmouseover=\"return overlib('Rush n\\&#039; Crush fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_11264_0.png\"><\/a> Fire Extinguisher<br \/>\n<a href=\"\/microbadge\/11265\"><img alt='Microbadge: Rush n&#039; Crush fan'  onmouseover=\"return overlib('Rush n\\&#039; Crush fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_11265_0.png\"><\/a> Flamer<br \/>\n<a href=\"\/microbadge\/11435\"><img alt='Microbadge: Rush n&#039; Crush fan'  onmouseover=\"return overlib('Rush n\\&#039; Crush fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_11435_0.png\"><\/a> Lateral Circular Saw<\/p>\n\n","website":{"url":false},"imageid":"497816","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/gDAHVRN4xhM__g8_9VOhzZ3ANXI=\/fit-in\/200x150\/pic497816.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/mUJuyPvRhzjdODFrUYpPr8c_dWs=\/fit-in\/64x64\/pic497816.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/YeDxCmPob6paXHDa7L9xHOKnNrg=\/75x75\/pic497816.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/2gY3CLKadaRUcM26Gpgk5K_nj1c=\/fit-in\/75x75\/pic497816.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/Ssy2J324cbGFtECxs7fZGipWyQY=\/fit-in\/75x125\/pic497816.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/dFnhpdRaXLJLtODXKEpwSidqujg=\/fit-in\/300x320\/pic497816.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/Pom8FeBRaZuExzZDUqrCe4kqdbw=\/200x200\/pic497816.jpg"},"imagepagehref":"\/image\/497816\/rush-n-crush","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/Bx5cFjYwQogQ2oCGc3oRTsaKnwY=\/fit-in\/246x300\/pic497816.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/sc1nlmddI5J9CmcXLf73hHQ9ssM=\/800x375\/filters:quality(30)\/pic573676.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"20"},"images":{"numitems":163},"videos":{"numitems":7}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.31139",
+        "reviewCount": "791",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/Bx5cFjYwQogQ2oCGc3oRTsaKnwY=/fit-in/246x300/pic497816.jpg",
+    "name": "Rush n' Crush"
+}
+</script>
+
+</body>
+</html>

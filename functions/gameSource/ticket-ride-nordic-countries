@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Ticket to Ride: Nordic Countries | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/31627/ticket-ride-nordic-countries" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Ticket to Ride: Nordic Countries">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/YkpsPLWhjuNYsNnbHmI-z2ZawkY=/fit-in/445x445/pic369616.jpg" />
+	<meta property="og:title" content="Ticket to Ride: Nordic Countries" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/31627/ticket-ride-nordic-countries" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Build railways to connect destinations across Scandinavia, Finland, and Estonia." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Ticket to Ride: Nordic Countries" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/Q6Kr7Rg7PnL2w-X_j8b9pvkLVqI=/fit-in/1200x630/pic369616.jpg" />
+	<meta name="twitter:description" content="Build railways to connect destinations across Scandinavia, Finland, and Estonia." />
+
+
+	<meta name="description" content="Build railways to connect destinations across Scandinavia, Finland, and Estonia.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["31627"],"companyid":["1027","2973","15605","1391","18852","3218","11107","7466"],"propertyid":["2041","2040","2081","2004","1034"],"familyid":["19551","18620","10315","10316","10312","10313","5499","17"],"personid":["12519","11886","9"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"145","baverage":"7.36411"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"15","baverage":"7.44329"}],"polls":{"userplayers":{"best":[{"min":3,"max":3}],"recommended":[{"min":2,"max":3}],"totalvotes":"178"},"playerage":"8+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":1.9815157116451017,"votes":"541"}},"stats":{"usersrated":"10895","average":"7.64337","baverage":"7.36411","stddev":"1.22408","avgweight":"1.9815","numweights":"541","numgeeklists":"1537","numtrading":"121","numwanting":"731","numwish":"2865","numowned":"16083","numprevowned":"897","numcomments":"2138","numwishlistcomments":"350","numhasparts":"6","numwantparts":"5","views":"476133","playmonth":"2020-06","numplays":"35720","numplays_month":"158","numfans":331},"relatedcounts":{"news":0,"blogs":69,"weblink":30,"podcast":1},"itemid":29783,"objecttype":"thing","objectid":31627,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/31627\/ticket-ride-nordic-countries","subtype":"boardgame","subtypes":["boardgame","boardgameimplementation","boardgameintegration"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Ticket to Ride: Nordic Countries","alternatename":null,"yearpublished":"2007","minplayers":"2","maxplayers":"3","minplaytime":"30","maxplaytime":"60","minage":"8","override_rankable":0,"targetco_url":"","walmart_id":"30655987","instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Build railways to connect destinations across Scandinavia, Finland, and Estonia.","links":{"boardgamedesigner":[{"name":"Alan R. Moon","objecttype":"person","objectid":"9","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/9\/alan-r-moon"}],"boardgameartist":[{"name":"Cyrille Daujean","objecttype":"person","objectid":"12519","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12519\/cyrille-daujean"},{"name":"Julien Delval","objecttype":"person","objectid":"11886","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/11886\/julien-delval"}],"boardgamepublisher":[{"name":"Days of Wonder","objecttype":"company","objectid":"1027","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/1027\/days-wonder"},{"name":"Edge Entertainment","objecttype":"company","objectid":"2973","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/2973\/edge-entertainment"},{"name":"Gal\u00e1pagos Jogos","objecttype":"company","objectid":"15605","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/15605\/galapagos-jogos"},{"name":"Hobby Japan","objecttype":"company","objectid":"1391","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/1391\/hobby-japan"},{"name":"Hobby World","objecttype":"company","objectid":"18852","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/18852\/hobby-world"},{"name":"Lautapelit.fi","objecttype":"company","objectid":"3218","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/3218\/lautapelitfi"}],"boardgamehonor":[],"boardgamecategory":[{"name":"Trains","objecttype":"property","objectid":"1034","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1034\/trains"}],"boardgamemechanic":[{"name":"Card Drafting","objecttype":"property","objectid":"2041","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2041\/card-drafting"},{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Network and Route Building","objecttype":"property","objectid":"2081","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2081\/network-and-route-building"},{"name":"Set Collection","objecttype":"property","objectid":"2004","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2004\/set-collection"}],"boardgameexpansion":[{"name":"Indiana (fan expansion to Ticket to Ride)","objecttype":"thing","objectid":"194176","primarylink":0,"itemstate":"approved","href":"\/boardgame\/194176\/indiana-fan-expansion-ticket-ride"},{"name":"Japan (fan expansion to Ticket To Ride)","objecttype":"thing","objectid":"192367","primarylink":0,"itemstate":"approved","href":"\/boardgame\/192367\/japan-fan-expansion-ticket-ride"},{"name":"Komor\u00f3w (fan expansion to Ticket to Ride)","objecttype":"thing","objectid":"127364","primarylink":0,"itemstate":"approved","href":"\/boardgame\/127364\/komorow-fan-expansion-ticket-ride"},{"name":"Ohio (fan expansion to Ticket to Ride)","objecttype":"thing","objectid":"192452","primarylink":0,"itemstate":"approved","href":"\/boardgame\/192452\/ohio-fan-expansion-ticket-ride"},{"name":"Ticket to Ride Map Collection: Volume 2 \u2013 India & Switzerland","objecttype":"thing","objectid":"106645","primarylink":0,"itemstate":"approved","href":"\/boardgame\/106645\/ticket-ride-map-collection-volume-2-india-switzerl"},{"name":"Ticket to Ride Map Collection: Volume 7 \u2013 Japan & Italy","objecttype":"thing","objectid":"288679","primarylink":0,"itemstate":"approved","href":"\/boardgame\/288679\/ticket-ride-map-collection-volume-7-japan-italy"}],"boardgameversion":[{"name":"English first edition","objecttype":"version","objectid":"20606","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/20606\/english-first-edition"},{"name":"English fourth edition","objecttype":"version","objectid":"452576","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/452576\/english-fourth-edition"},{"name":"English second edition","objecttype":"version","objectid":"439800","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/439800\/english-second-edition"},{"name":"English third edition","objecttype":"version","objectid":"455277","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/455277\/english-third-edition"},{"name":"Finnish edition","objecttype":"version","objectid":"25475","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/25475\/finnish-edition"},{"name":"French first edition","objecttype":"version","objectid":"83232","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/83232\/french-first-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[{"name":"Ticket to Ride","objecttype":"thing","objectid":"9209","primarylink":0,"itemstate":"approved","href":"\/boardgame\/9209\/ticket-ride"}],"boardgamefamily":[{"name":"Cities: Copenhagen (Denmark)","objecttype":"family","objectid":"19551","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/19551\/cities-copenhagen-denmark"},{"name":"Cities: Stockholm (Sweden)","objecttype":"family","objectid":"18620","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/18620\/cities-stockholm-sweden"},{"name":"Country: Denmark","objecttype":"family","objectid":"10315","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10315\/country-denmark"},{"name":"Country: Finland","objecttype":"family","objectid":"10316","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10316\/country-finland"},{"name":"Country: Norway","objecttype":"family","objectid":"10312","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10312\/country-norway"},{"name":"Country: Sweden","objecttype":"family","objectid":"10313","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10313\/country-sweden"}],"videogamebg":[{"name":"Ticket to Ride","objecttype":"thing","objectid":"76803","primarylink":0,"itemstate":"approved","href":"\/videogame\/76803\/ticket-ride"},{"name":"Ticket to Ride: Nordic Countries","objecttype":"thing","objectid":"257248","primarylink":0,"itemstate":"approved","href":"\/videogame\/257248\/ticket-ride-nordic-countries"}],"boardgamesubdomain":[{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"}],"boardgameaccessory":[{"name":"Miscellaneous: Premium Wooden Train Token Set","objecttype":"thing","objectid":"139598","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/139598\/miscellaneous-premium-wooden-train-token-set"},{"name":"Miscellaneous: Wooden Train Token Set (50 Pack)","objecttype":"thing","objectid":"139656","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/139656\/miscellaneous-wooden-train-token-set-50-pack"},{"name":"Ticket to Ride: Halloween Freighter","objecttype":"thing","objectid":"138370","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/138370\/ticket-ride-halloween-freighter"}],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":2,"boardgamepublisher":8,"boardgamehonor":0,"boardgamecategory":1,"boardgamemechanic":4,"boardgameexpansion":12,"boardgameversion":16,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":1,"boardgamefamily":7,"videogamebg":2,"boardgamesubdomain":1,"boardgameaccessory":3,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":11,"primaryname":{"nameid":"29783","name":"Ticket to Ride: Nordic Countries","sortindex":"1","primaryname":"1","translit":"Ticket to Ride: Nordic Countries"},"description":"<p><strong>Ticket to Ride: Nordic Countries<\/strong> takes you on a Nordic adventure through Denmark, Finland, Norway, and Sweden as you travel to the great northern cities of Copenhagen, Oslo, Helsinki, and Stockholm. This version was initially available only in the Nordic Countries of Denmark, Norway, Sweden, and Finland; a worldwide limited-edition release occurred in August 2008 and it has since been kept in print again by Days of Wonder.<\/p>\n\n<p>The goal in &quot;Nordic&quot; remains the same as base Ticket to Ride: collect and play cards to place your trains on the board, attempting to connect the different cities on your ticket cards. The map incorporates tunnels from Europe and also has routes containing ferries. Ferries will require a certain number of Locomotives to be played, as well as other cards, in order to be claimed. Locomotives are handled a bit differently as well. On your turn you may take 2 Locomotives if you want, but you can only use them on ferries, tunnels, or the special 9 length route.<\/p>\n\n<p>Unlike the USA or Europe maps, Nordic is designed for 2-3 players only and has a heavier focus on blocking your opponent and more aggressive play.<\/p>\n\n<p>Although not an official expansion for this set, <a  href=\"\/boardgameexpansion\/182078\/ticket-ride-map-collection-volume-5-united-kingdom\"   >Ticket to Ride Map Collection: Volume 5 \u2013 United Kingdom & Pennsylvania<\/a> can be used as an expansion for <em>Nordic Countries<\/em>, although limited to the three players included in this set.  <em>Nordic Countries<\/em> includes three sets of 40 trains, with 5 spare for each colour; the UK map in <a  href=\"\/boardgameexpansion\/182078\/ticket-ride-map-collection-volume-5-united-kingdom\"   >Ticket to Ride Map Collection: Volume 5 \u2013 United Kingdom & Pennsylvania<\/a> requires 35 trains and the Pennsylvania map requires 45 trains.<\/p>\n\n<p>Part of the <a class=\"\" href=\"\/wiki\/page\/Ticket_to_Ride_series#\">Ticket to Ride series<\/a>.<\/p>\n\n","wiki":"<p><strong><a rel=\"nofollow\" href=\"https:\/\/ncdn0.daysofwonder.com\/tickettoride\/en\/img\/tn_rules_2015_en.pdf\" onclick=\"window.open(this.href, '_blank'); return false;\">Rules PDF<\/a><\/strong><\/p>\n\n<p><strong>Components List<\/strong><br \/>\n<ul>\n    <li> 1 Board Map<\/li>\n    <li> 135 Colored Train Cars (45 x 3 Colors; 5 of each are spare)<\/li>\n    <li> 157 Illustrated Cards (56 x 87):<ul>\n        <li> 110 Train Cards:<ul>\n            <li> 12 Box<\/li>\n            <li> 12 Passenger<\/li>\n            <li> 12 Tanker<\/li>\n            <li> 12 Reefer<\/li>\n            <li> 12 Freight<\/li>\n            <li> 12 Hopper<\/li>\n            <li> 12 Coal<\/li>\n            <li> 12 Caboose<\/li>\n            <li> 14 Locomotives<\/li>\n        <\/ul><\/li>\n        <li> 46 Destination Ticket Cards<\/li>\n        <li> 1 Globetrotter Card<\/li>\n    <\/ul><\/li>\n    <li> 3 Wooden Scoring Markers (1 x 3 Colors)<\/li>\n    <li> 1 Rules Booklet<\/li>\n<\/ul>\n\n<\/p>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Awards#\">Awards<\/a><\/strong><\/p>\n\n<ul>\n    <li> 2010 <a rel=\"nofollow\" href=\"http:\/\/www.boardgamer.ru\/\" onclick=\"window.open(this.href, '_blank'); return false;\">BoardGamer.ru<\/a> Best 2-Player Game.<\/li>\n<\/ul>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Microbadges#\">Microbadges<\/a><\/strong><br \/>\n<dl>\n        <dd><a rel=\"nofollow\" href=\"http:\/\/boardgamegeek.com\/browse\/microbadge\/9261\" onclick=\"window.open(this.href, '_blank'); return false;\">Ticket to Ride - Nordic Countries fan:<\/a> <a href=\"\/microbadge\/9261\"><img alt='Microbadge: Ticket to Ride: Nordic Countries fan'  onmouseover=\"return overlib('Ticket to Ride: Nordic Countries fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_9261_0.gif\"><\/a> <a href=\"\/microbadge\/4118\"><img alt='Microbadge: Ticket to Ride: Nordic Countries fan'  onmouseover=\"return overlib('Ticket to Ride: Nordic Countries fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_4118_3.png\"><\/a><\/dd>\n<\/dl>\n\n<\/p>\n\n","website":{"url":"http:\/\/static.ticket2ridegame.com\/lang\/english\/images\/tn_rules_en.pdf","title":"Link to official Ticket to Ride Nordic Countries English Rules"},"imageid":"369616","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/JZf3hCTimfC3TmseSjHIlhmf2oQ=\/fit-in\/200x150\/pic369616.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/qskE6KkGcK7oNZhrxKMMYUCrac0=\/fit-in\/64x64\/pic369616.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/VCp3tcNnZ4LA0H_GcycsJE3iUB0=\/75x75\/pic369616.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/x2mXqplrKCJ8bIkSgd5AssIGMZE=\/fit-in\/75x75\/pic369616.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/05dpo3z-0mNnQc9P8FFiO64VaSg=\/fit-in\/75x125\/pic369616.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/b-v538PnS_2P-pLwhVkBRh1ntOU=\/fit-in\/300x320\/pic369616.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/DPzJQXLZY6h5zHCBbFPcBHrMpCc=\/200x200\/pic369616.jpg"},"imagepagehref":"\/image\/369616\/ticket-ride-nordic-countries","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/VZYjjy3p6FlaLsxpfh8A9im-jII=\/fit-in\/246x300\/pic369616.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/fZGuJy2YHb5uhT1WcRDAHmou-xc=\/800x375\/filters:quality(30)\/pic1006630.jpg","itemstate":"approved","promoted_ad":null,"special_user":null,"walmart_price":"$49.99"},"media":{"files":{"numitems":"22"},"images":{"numitems":196},"videos":{"numitems":17}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.64337",
+        "reviewCount": "10895",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/VZYjjy3p6FlaLsxpfh8A9im-jII=/fit-in/246x300/pic369616.jpg",
+    "name": "Ticket to Ride: Nordic Countries",
+    "description": "Build railways to connect destinations across Scandinavia, Finland, and Estonia."
+}
+</script>
+
+</body>
+</html>

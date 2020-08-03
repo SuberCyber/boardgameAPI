@@ -1,0 +1,305 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>The Red Dragon Inn 3 | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/66510/red-dragon-inn-3" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="The Red Dragon Inn 3">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/M6CoOajUoFKYHdyJyjMI74YL2eM=/fit-in/445x445/pic1022815.jpg" />
+	<meta property="og:title" content="The Red Dragon Inn 3" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/66510/red-dragon-inn-3" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="From the Publisher&#039;s Website:
+
+You and your ever-expanding party of adventuring companions have spent another day slogging through the dungeon, killing monsters and taking their stuff. Now you&#039;re back in town, healed up, cleaned up, and ready once again to party at the Red Dragon Inn.
+
+Drink, gamble, and roughhouse with your friends. But don&#039;t forget to keep an eye on your Gold. If you run out, you&#039;ll have to spend the night in the stables. Oh... and try not to get too beaten up or too drunk. If you black out, your friends will continue the party without you... after they loot your body for Gold of course!
+The Red Dragon Inn 3 
+ The last conscious adventurer with Gold wins the game!
+
+The Red Dragon Inn 3 introduces four new adventurers, each with a unique game mechanic to add new strategies to the original game. The Red Dragon Inn 3 may be played alone or in combination with other versions of The Red Dragon Inn to allow games of up to 12 players!
+
+
+     Wizgille the Tinkerer : Wizgille is a Gnomish Artificer. Her brilliance with gadgets is surpassed only by her enthusiasm for tinkering with them--often with disastrous results. When Wizgille tests a new device, watch out! It could do something impressive, or it could blow up in everyone&#039;s faces!
+
+
+The Good: Many of her creations are legendary among the Gnomish Inventors Guild and have been featured in Adventurer&#039;s Gazette.
+The Bad: She thinks that a crowded tavern is an appropriate place to test new prototypes.
+
+
+     Brewmaster Phrenk : Phrenk is a Troll Alchemist. His skill as a potionmaster is unmatched, but he&#039;s not above using his skills for the &amp;quot;lowly&amp;quot; art of creating specialty drinks for his friends. He is a laid-back, live-and-let-live kind of a guy. But don&#039;t make him angry, because he is, after all, a troll.
+
+
+The Good: He&#039;s more than capable of brewing enough healing potions to keep his companions on their feet.
+The Bad: He&#039;s just as capable of brewing enough drinks to knock them all back down.
+
+
+     Kaylin the Renegade : Kaylin is a tiny Pixie Enchanter with a big chip on her shoulder. The whole cutesy pixie thing didn&#039;t suit her, so she left The Grove and set out on her own. Wulfric is a wolf who is neither tiny, nor has a chip on his shoulder. Between her magical skills and his brute strength, they are a match for any dungeon&#039;s monsters.
+
+
+The Good: Wulfric is a noble companion who always helps his friends.
+The Bad: Kaylin isn&#039;t always so noble.
+
+
+     Serena the Pious : Serena would have died if she hadn&#039;t been such a cute baby. The Paladins who found her could not bring themselves to slay her as they did the other Orcs in her village. Seeing no other option, they took her in and tried to raise her as one of their own. Even with her training, she is always at risk of succumbing to her chaotic Orcish instincts, so she must be ever-vigilant to stay on the righteous path.
+
+
+The Good: With her holy blade at her side, she lives to smite evil.
+The Bad: Carousing in a tavern isn&#039;t exactly the best way for Serena to stay on that righteous path..." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="The Red Dragon Inn 3" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/v3N0V2Sg-t8Q2Ejk9DiT3-hwrG8=/fit-in/1200x630/pic1022815.jpg" />
+	<meta name="twitter:description" content="From the Publisher&#039;s Website:
+
+You and your ever-expanding party of adventuring companions have spent another day slogging through the dungeon, killing monsters and taking their stuff. Now you&#039;re back in town, healed up, cleaned up, and ready once again to party at the Red Dragon Inn.
+
+Drink, gamble, and roughhouse with your friends. But don&#039;t forget to keep an eye on your Gold. If you run out, you&#039;ll have to spend the night in the stables. Oh... and try not to get too beaten up or too drunk. If you black out, your friends will continue the party without you... after they loot your body for Gold of course!
+The Red Dragon Inn 3 
+ The last conscious adventurer with Gold wins the game!
+
+The Red Dragon Inn 3 introduces four new adventurers, each with a unique game mechanic to add new strategies to the original game. The Red Dragon Inn 3 may be played alone or in combination with other versions of The Red Dragon Inn to allow games of up to 12 players!
+
+
+     Wizgille the Tinkerer : Wizgille is a Gnomish Artificer. Her brilliance with gadgets is surpassed only by her enthusiasm for tinkering with them--often with disastrous results. When Wizgille tests a new device, watch out! It could do something impressive, or it could blow up in everyone&#039;s faces!
+
+
+The Good: Many of her creations are legendary among the Gnomish Inventors Guild and have been featured in Adventurer&#039;s Gazette.
+The Bad: She thinks that a crowded tavern is an appropriate place to test new prototypes.
+
+
+     Brewmaster Phrenk : Phrenk is a Troll Alchemist. His skill as a potionmaster is unmatched, but he&#039;s not above using his skills for the &amp;quot;lowly&amp;quot; art of creating specialty drinks for his friends. He is a laid-back, live-and-let-live kind of a guy. But don&#039;t make him angry, because he is, after all, a troll.
+
+
+The Good: He&#039;s more than capable of brewing enough healing potions to keep his companions on their feet.
+The Bad: He&#039;s just as capable of brewing enough drinks to knock them all back down.
+
+
+     Kaylin the Renegade : Kaylin is a tiny Pixie Enchanter with a big chip on her shoulder. The whole cutesy pixie thing didn&#039;t suit her, so she left The Grove and set out on her own. Wulfric is a wolf who is neither tiny, nor has a chip on his shoulder. Between her magical skills and his brute strength, they are a match for any dungeon&#039;s monsters.
+
+
+The Good: Wulfric is a noble companion who always helps his friends.
+The Bad: Kaylin isn&#039;t always so noble.
+
+
+     Serena the Pious : Serena would have died if she hadn&#039;t been such a cute baby. The Paladins who found her could not bring themselves to slay her as they did the other Orcs in her village. Seeing no other option, they took her in and tried to raise her as one of their own. Even with her training, she is always at risk of succumbing to her chaotic Orcish instincts, so she must be ever-vigilant to stay on the righteous path.
+
+
+The Good: With her holy blade at her side, she lives to smite evil.
+The Bad: Carousing in a tavern isn&#039;t exactly the best way for Serena to stay on that righteous path..." />
+
+
+	<meta name="description" content="From the Publisher&#039;s Website:
+
+You and your ever-expanding party of adventuring companions have spent another day slogging through the dungeon, killing monsters and taking their stuff. Now you&#039;re back in town, healed up, cleaned up, and ready once again to party at the Red Dragon Inn.
+
+Drink, gamble, and roughhouse with your friends. But don&#039;t forget to keep an eye on your Gold. If you run out, you&#039;ll have to spend the night in the stables. Oh... and try not to get too beaten up or too drunk. If you black out, your friends will continue the party without you... after they loot your body for Gold of course!
+The Red Dragon Inn 3 
+ The last conscious adventurer with Gold wins the game!
+
+The Red Dragon Inn 3 introduces four new adventurers, each with a unique game mechanic to add new strategies to the original game. The Red Dragon Inn 3 may be played alone or in combination with other versions of The Red Dragon Inn to allow games of up to 12 players!
+
+
+     Wizgille the Tinkerer : Wizgille is a Gnomish Artificer. Her brilliance with gadgets is surpassed only by her enthusiasm for tinkering with them--often with disastrous results. When Wizgille tests a new device, watch out! It could do something impressive, or it could blow up in everyone&#039;s faces!
+
+
+The Good: Many of her creations are legendary among the Gnomish Inventors Guild and have been featured in Adventurer&#039;s Gazette.
+The Bad: She thinks that a crowded tavern is an appropriate place to test new prototypes.
+
+
+     Brewmaster Phrenk : Phrenk is a Troll Alchemist. His skill as a potionmaster is unmatched, but he&#039;s not above using his skills for the &amp;quot;lowly&amp;quot; art of creating specialty drinks for his friends. He is a laid-back, live-and-let-live kind of a guy. But don&#039;t make him angry, because he is, after all, a troll.
+
+
+The Good: He&#039;s more than capable of brewing enough healing potions to keep his companions on their feet.
+The Bad: He&#039;s just as capable of brewing enough drinks to knock them all back down.
+
+
+     Kaylin the Renegade : Kaylin is a tiny Pixie Enchanter with a big chip on her shoulder. The whole cutesy pixie thing didn&#039;t suit her, so she left The Grove and set out on her own. Wulfric is a wolf who is neither tiny, nor has a chip on his shoulder. Between her magical skills and his brute strength, they are a match for any dungeon&#039;s monsters.
+
+
+The Good: Wulfric is a noble companion who always helps his friends.
+The Bad: Kaylin isn&#039;t always so noble.
+
+
+     Serena the Pious : Serena would have died if she hadn&#039;t been such a cute baby. The Paladins who found her could not bring themselves to slay her as they did the other Orcs in her village. Seeing no other option, they took her in and tried to raise her as one of their own. Even with her training, she is always at risk of succumbing to her chaotic Orcish instincts, so she must be ever-vigilant to stay on the righteous path.
+
+
+The Good: With her holy blade at her side, she lives to smite evil.
+The Bad: Carousing in a tavern isn&#039;t exactly the best way for Serena to stay on that righteous path...">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["66510"],"familyid":["20965","5499","5301","5496"],"companyid":["3475","18852","2396"],"personid":["27841","3508","3509","12099","12670","56833","12077"],"propertyid":["2014","1002","1010","2040","1079","1035","1030","2015"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"1454","baverage":"6.27045"},{"prettyname":"Thematic Rank","shortprettyname":"Thematic Rank","veryshortprettyname":"Thematic","subdomain":"thematic","rankobjecttype":"family","rankobjectid":5496,"rank":"301","baverage":"6.48118"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"418","baverage":"6.34796"}],"polls":{"userplayers":{"best":[{"min":4,"max":4},{"min":5,"max":null}],"recommended":[{"min":2,"max":4},{"min":5,"max":null}],"totalvotes":"12"},"playerage":"10+","languagedependence":"Extensive use of text - massive conversion needed to be playable","subdomain":"","boardgameweight":{"averageweight":1.9210526315789473,"votes":"38"}},"stats":{"usersrated":"1451","average":"7.19084","baverage":"6.27045","stddev":"1.57617","avgweight":"1.9211","numweights":"38","numgeeklists":"155","numtrading":"65","numwanting":"90","numwish":"391","numowned":"4127","numprevowned":"222","numcomments":"259","numwishlistcomments":"33","numhasparts":"0","numwantparts":"0","views":"83903","playmonth":"2020-06","numplays":"1317","numplays_month":"2","numfans":75},"relatedcounts":{"news":1,"blogs":2,"weblink":2,"podcast":1},"itemid":187930,"objecttype":"thing","objectid":66510,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/66510\/red-dragon-inn-3","subtype":"boardgame","subtypes":["boardgame","boardgameintegration"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"The Red Dragon Inn 3","alternatename":null,"yearpublished":"2011","minplayers":"2","maxplayers":"4","minplaytime":"30","maxplaytime":"60","minage":"13","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":null,"links":{"boardgamedesigner":[{"name":"Cliff Bohm","objecttype":"person","objectid":"3508","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/3508\/cliff-bohm"},{"name":"Geoff Bottone","objecttype":"person","objectid":"3509","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/3509\/geoff-bottone"},{"name":"Jeff Morrow","objecttype":"person","objectid":"56833","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/56833\/jeff-morrow"}],"boardgameartist":[{"name":"Rose Besch","objecttype":"person","objectid":"27841","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/27841\/rose-besch"},{"name":"Kennon James","objecttype":"person","objectid":"12099","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12099\/kennon-james"},{"name":"Doug Kovacs","objecttype":"person","objectid":"12670","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12670\/doug-kovacs"},{"name":"Beth Trott","objecttype":"person","objectid":"12077","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12077\/beth-trott"}],"boardgamepublisher":[{"name":"Arclight","objecttype":"company","objectid":"3475","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/3475\/arclight"},{"name":"Hobby World","objecttype":"company","objectid":"18852","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/18852\/hobby-world"},{"name":"SlugFest Games","objecttype":"company","objectid":"2396","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/2396\/slugfest-games"}],"boardgamehonor":[{"name":"2011 Origins Awards Best Traditional Card Game Nominee","objecttype":"family","objectid":"20965","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/20965\/2011-origins-awards-best-traditional-card-game-nom"}],"boardgamecategory":[{"name":"Card Game","objecttype":"property","objectid":"1002","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1002\/card-game"},{"name":"Fantasy","objecttype":"property","objectid":"1010","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1010\/fantasy"},{"name":"Humor","objecttype":"property","objectid":"1079","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1079\/humor"},{"name":"Medieval","objecttype":"property","objectid":"1035","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1035\/medieval"},{"name":"Party Game","objecttype":"property","objectid":"1030","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1030\/party-game"}],"boardgamemechanic":[{"name":"Betting and Bluffing","objecttype":"property","objectid":"2014","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2014\/betting-and-bluffing"},{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Variable Player Powers","objecttype":"property","objectid":"2015","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2015\/variable-player-powers"}],"boardgameexpansion":[{"name":"The Red Dragon Inn Smorgasbox","objecttype":"thing","objectid":"273240","primarylink":0,"itemstate":"approved","href":"\/boardgame\/273240\/red-dragon-inn-smorgasbox"},{"name":"The Red Dragon Inn: 2013 SlugCrew Minor Reward","objecttype":"thing","objectid":"181679","primarylink":0,"itemstate":"approved","href":"\/boardgame\/181679\/red-dragon-inn-2013-slugcrew-minor-reward"},{"name":"The Red Dragon Inn: 2014 SlugCrew Minor Reward","objecttype":"thing","objectid":"181681","primarylink":0,"itemstate":"approved","href":"\/boardgame\/181681\/red-dragon-inn-2014-slugcrew-minor-reward"},{"name":"The Red Dragon Inn: 2015 SlugCrew Minor Reward","objecttype":"thing","objectid":"181535","primarylink":0,"itemstate":"approved","href":"\/boardgame\/181535\/red-dragon-inn-2015-slugcrew-minor-reward"},{"name":"The Red Dragon Inn: 2016 SlugCrew Minor Reward","objecttype":"thing","objectid":"217818","primarylink":0,"itemstate":"approved","href":"\/boardgame\/217818\/red-dragon-inn-2016-slugcrew-minor-reward"},{"name":"The Red Dragon Inn: 2017 SlugCrew Minor Reward","objecttype":"thing","objectid":"244756","primarylink":0,"itemstate":"approved","href":"\/boardgame\/244756\/red-dragon-inn-2017-slugcrew-minor-reward"}],"boardgameversion":[{"name":"English first edition","objecttype":"version","objectid":"109972","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/109972\/english-first-edition"},{"name":"English fourth edition","objecttype":"version","objectid":"400350","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/400350\/english-fourth-edition"},{"name":"English third edition","objecttype":"version","objectid":"279093","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/279093\/english-third-edition"},{"name":"Japanese edition","objecttype":"version","objectid":"465251","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/465251\/japanese-edition"},{"name":"Russian edition","objecttype":"version","objectid":"408003","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/408003\/russian-edition"}],"expandsboardgame":[],"boardgameintegration":[{"name":"The Red Dragon Inn","objecttype":"thing","objectid":"24310","primarylink":0,"itemstate":"approved","href":"\/boardgame\/24310\/red-dragon-inn"},{"name":"The Red Dragon Inn 2","objecttype":"thing","objectid":"33451","primarylink":0,"itemstate":"approved","href":"\/boardgame\/33451\/red-dragon-inn-2"},{"name":"The Red Dragon Inn 4","objecttype":"thing","objectid":"142402","primarylink":0,"itemstate":"approved","href":"\/boardgame\/142402\/red-dragon-inn-4"},{"name":"The Red Dragon Inn 5","objecttype":"thing","objectid":"173634","primarylink":0,"itemstate":"approved","href":"\/boardgame\/173634\/red-dragon-inn-5"},{"name":"The Red Dragon Inn: Firewater of the Fire Mage","objecttype":"thing","objectid":"237282","primarylink":0,"itemstate":"approved","href":"\/boardgame\/237282\/red-dragon-inn-firewater-fire-mage"},{"name":"The Red Dragon Inn: Gambling? I'm In!","objecttype":"thing","objectid":"46530","primarylink":0,"itemstate":"approved","href":"\/boardgame\/46530\/red-dragon-inn-gambling-im"}],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[],"boardgamefamily":[{"name":"The Red Dragon Inn","objecttype":"family","objectid":"5301","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/5301\/red-dragon-inn"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"},{"name":"Thematic Games","objecttype":"family","objectid":"5496","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5496\/thematic-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":3,"boardgameartist":4,"boardgamepublisher":3,"boardgamehonor":1,"boardgamecategory":5,"boardgamemechanic":3,"boardgameexpansion":49,"boardgameversion":5,"expandsboardgame":0,"boardgameintegration":7,"contains":0,"containedin":0,"reimplementation":0,"reimplements":0,"boardgamefamily":1,"videogamebg":0,"boardgamesubdomain":2,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":2,"primaryname":{"nameid":"208859","name":"The Red Dragon Inn 3","sortindex":"5","primaryname":"1","translit":"The Red Dragon Inn 3"},"description":"<p><em>From the Publisher's Website:<\/em><\/p>\n\n<p>You and your ever-expanding party of adventuring companions have spent another day slogging through the dungeon, killing monsters and taking their stuff. Now you're back in town, healed up, cleaned up, and ready once again to party at the Red Dragon Inn.<\/p>\n\nDrink, gamble, and roughhouse with your friends. But don't forget to keep an eye on your Gold. If you run out, you'll have to spend the night in the stables. Oh... and try not to get too beaten up or too drunk. If you black out, your friends will continue the party without you... after they loot your body for Gold of course!<br \/>\nThe Red Dragon Inn 3 <br \/>\n <p>The last conscious adventurer with Gold wins the game!<\/p>\n\n<p><em><strong>The Red Dragon Inn 3<\/strong><\/em> introduces four new adventurers, each with a unique game mechanic to add new strategies to the original game. The Red Dragon Inn 3 may be played alone or in combination with other versions of The Red Dragon Inn to allow games of up to 12 players!<\/p>\n\n<ul>\n    <li> Wizgille the Tinkerer : Wizgille is a Gnomish Artificer. Her brilliance with gadgets is surpassed only by her enthusiasm for tinkering with them--often with disastrous results. When Wizgille tests a new device, watch out! It could do something impressive, or it could blow up in everyone's faces!<\/li>\n<\/ul>\n\n<p><em>The Good<\/em>: Many of her creations are legendary among the Gnomish Inventors Guild and have been featured in Adventurer's Gazette.<br \/>\n<em>The Bad<\/em>: She thinks that a crowded tavern is an appropriate place to test new prototypes.<\/p>\n\n<ul>\n    <li> Brewmaster Phrenk : Phrenk is a Troll Alchemist. His skill as a potionmaster is unmatched, but he's not above using his skills for the &quot;lowly&quot; art of creating specialty drinks for his friends. He is a laid-back, live-and-let-live kind of a guy. But don't make him angry, because he is, after all, a troll.<\/li>\n<\/ul>\n\n<p><em>The Good<\/em>: He's more than capable of brewing enough healing potions to keep his companions on their feet.<br \/>\n<em>The Bad<\/em>: He's just as capable of brewing enough drinks to knock them all back down.<\/p>\n\n<ul>\n    <li> Kaylin the Renegade : Kaylin is a tiny Pixie Enchanter with a big chip on her shoulder. The whole cutesy pixie thing didn't suit her, so she left The Grove and set out on her own. Wulfric is a wolf who is neither tiny, nor has a chip on his shoulder. Between her magical skills and his brute strength, they are a match for any dungeon's monsters.<\/li>\n<\/ul>\n\n<p><em>The Good<\/em>: Wulfric is a noble companion who always helps his friends.<br \/>\n<em>The Bad<\/em>: Kaylin isn't always so noble.<\/p>\n\n<ul>\n    <li> Serena the Pious : Serena would have died if she hadn't been such a cute baby. The Paladins who found her could not bring themselves to slay her as they did the other Orcs in her village. Seeing no other option, they took her in and tried to raise her as one of their own. Even with her training, she is always at risk of succumbing to her chaotic Orcish instincts, so she must be ever-vigilant to stay on the righteous path.<\/li>\n<\/ul>\n\n<p><em>The Good<\/em>: With her holy blade at her side, she lives to smite evil.<br \/>\n<em>The Bad:<\/em> Carousing in a tavern isn't exactly the best way for Serena to stay on that righteous path...<\/p>\n\n","wiki":"<p><strong>Contents:<\/strong><br \/>\n<ul>\n    <li> 4 unique 40 card player decks<\/li>\n    <li> Serena's Piety Chart<\/li>\n    <li> 1 Piety marker<\/li>\n    <li> Phrenk's 18 card potion deck<\/li>\n    <li> Wizgille's 18 card gear deck<\/li>\n    <li> Kaylin's 12 card Wulfric deck<\/li>\n    <li> One 30 card Drink deck<\/li>\n    <li> 4 Player Mats<\/li>\n    <li> 4 Fortitude markers<\/li>\n    <li> 4 Alcohol Content markers<\/li>\n    <li> 50 Gold Coin tokens<\/li>\n    <li> Rules for playing The Red Dragon Inn 3<\/li>\n<\/ul>\n\n<\/p>\n\n","website":{"url":"http:\/\/slugfestgames.com\/games\/rdi\/rdi-3\/","title":"The Red Dragon Inn 3: Official Publisher Site"},"imageid":"1022815","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/ODC6csDnCJezlJtRPpIs5jsRyvs=\/fit-in\/200x150\/pic1022815.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/GqhLTERq55L500q2ebWeX2JrgZM=\/fit-in\/64x64\/pic1022815.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/i8dp9bvCQ5lb6OZlprMhAYBFtYg=\/75x75\/pic1022815.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/LGBpxc_-r4zDJ0xlqtl33woz9i8=\/fit-in\/75x75\/pic1022815.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/mLUAlotHI-gRjwTpfmtjq06XAPU=\/fit-in\/75x125\/pic1022815.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/W3R19ZWn1T2SfdFOgWOUmVM41eU=\/fit-in\/300x320\/pic1022815.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/KBcF4uYpbQeXPI7c9Qk2un8VlL0=\/200x200\/pic1022815.jpg"},"imagepagehref":"\/image\/1022815\/red-dragon-inn-3","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/ueU3bH7y_utu1GvxSwxWDGlNoC8=\/fit-in\/246x300\/pic1022815.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/PXsmgeEl6cVlpzjTHxx3jPKbRPA=\/800x375\/filters:quality(30)\/pic1023071.png","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"5"},"images":{"numitems":16},"videos":{"numitems":8}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.19084",
+        "reviewCount": "1451",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/ueU3bH7y_utu1GvxSwxWDGlNoC8=/fit-in/246x300/pic1022815.jpg",
+    "name": "The Red Dragon Inn 3"
+}
+</script>
+
+</body>
+</html>

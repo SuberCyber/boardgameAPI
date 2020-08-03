@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Haggis | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/37628/haggis" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Haggis">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph/img/fQDhdMlXkPcSJh0CCXVDJ0mAEVY=/fit-in/1200x630/pic807564.jpg" />
+	<meta property="og:title" content="Haggis" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/37628/haggis" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Climbing card-game ideal for two or three players." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Haggis" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/fQDhdMlXkPcSJh0CCXVDJ0mAEVY=/fit-in/1200x630/pic807564.jpg" />
+	<meta name="twitter:description" content="Climbing card-game ideal for two or three players." />
+
+
+	<meta name="description" content="Climbing card-game ideal for two or three players.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["37628"],"familyid":["8752","13465","13894","13897","131","8120","98","13105","4705","7958","5497"],"propertyid":["2014","1002","2040","2980","2009"],"personid":["14650","10938","9798"],"companyid":["10290"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"866","baverage":"6.57658"},{"prettyname":"Strategy Game Rank","shortprettyname":"Strategy Rank","veryshortprettyname":"Strategy ","subdomain":"strategygames","rankobjecttype":"family","rankobjectid":5497,"rank":"500","baverage":"6.67096"}],"polls":{"userplayers":{"best":[{"min":2,"max":2}],"recommended":[{"min":2,"max":3}],"totalvotes":"79"},"playerage":"10+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":2.1219512195121952,"votes":"205"}},"stats":{"usersrated":"3803","average":"6.97852","baverage":"6.57658","stddev":"1.3271","avgweight":"2.122","numweights":"205","numgeeklists":"1612","numtrading":"239","numwanting":"157","numwish":"707","numowned":"5759","numprevowned":"987","numcomments":"1226","numwishlistcomments":"148","numhasparts":"2","numwantparts":"3","views":"356880","playmonth":"2020-06","numplays":"15108","numplays_month":"44","numfans":155},"relatedcounts":{"news":2,"blogs":85,"weblink":22,"podcast":10},"itemid":35596,"objecttype":"thing","objectid":37628,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/37628\/haggis","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Haggis","alternatename":null,"yearpublished":"2010","minplayers":"2","maxplayers":"3","minplaytime":"45","maxplaytime":"45","minage":"13","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Climbing card-game ideal for two or three players.","links":{"boardgamedesigner":[{"name":"Sean Ross (I)","objecttype":"person","objectid":"10938","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/10938\/sean-ross-i"}],"boardgameartist":[{"name":"Luis Francisco","objecttype":"person","objectid":"14650","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/14650\/luis-francisco"},{"name":"Gary Simpson","objecttype":"person","objectid":"9798","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/9798\/gary-simpson"}],"boardgamepublisher":[{"name":"Indie Boards & Cards","objecttype":"company","objectid":"10290","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/10290\/indie-boards-cards"}],"boardgamehonor":[{"name":"2010 Golden Geek Best Card Game Nominee","objecttype":"family","objectid":"8752","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/8752\/2010-golden-geek-best-card-game-nominee"},{"name":"2011 Fairplay \u00c0 la carte Winner","objecttype":"family","objectid":"13465","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/13465\/2011-fairplay-la-carte-winner"},{"name":"2011 Golden Geek Best 2-Player Board Game Nominee","objecttype":"family","objectid":"13894","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/13894\/2011-golden-geek-best-2-player-board-game-nominee"},{"name":"2011 Golden Geek Best Card Game Nominee","objecttype":"family","objectid":"13897","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/13897\/2011-golden-geek-best-card-game-nominee"}],"boardgamecategory":[{"name":"Card Game","objecttype":"property","objectid":"1002","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1002\/card-game"}],"boardgamemechanic":[{"name":"Betting and Bluffing","objecttype":"property","objectid":"2014","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2014\/betting-and-bluffing"},{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Ladder Climbing","objecttype":"property","objectid":"2980","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2980\/ladder-climbing"},{"name":"Trick-taking","objecttype":"property","objectid":"2009","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2009\/trick-taking"}],"boardgameexpansion":[],"boardgameversion":[{"name":"English first edition","objecttype":"version","objectid":"75839","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/75839\/english-first-edition"},{"name":"English second edition","objecttype":"version","objectid":"212002","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/212002\/english-second-edition"},{"name":"Multilingual first edition","objecttype":"version","objectid":"40270","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/40270\/multilingual-first-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[],"boardgamefamily":[{"name":"Card Games: Climbing","objecttype":"family","objectid":"131","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/131\/card-games-climbing"},{"name":"Card Games: Shedding \/ Stops","objecttype":"family","objectid":"8120","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/8120\/card-games-shedding-stops"},{"name":"Components: Traditional Playing Cards","objecttype":"family","objectid":"98","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/98\/components-traditional-playing-cards"},{"name":"Country: Scotland","objecttype":"family","objectid":"13105","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/13105\/country-scotland"},{"name":"Organizations: The Game Artisans of Canada","objecttype":"family","objectid":"4705","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/4705\/organizations-game-artisans-canada"},{"name":"Series: Postcard Box Games (Indie Boards and Cards)","objecttype":"family","objectid":"7958","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/7958\/series-postcard-box-games-indie-boards-and-cards"}],"videogamebg":[{"name":"Haggis","objecttype":"thing","objectid":"135307","primarylink":0,"itemstate":"approved","href":"\/videogame\/135307\/haggis"}],"boardgamesubdomain":[{"name":"Strategy Games","objecttype":"family","objectid":"5497","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5497\/strategy-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":2,"boardgamepublisher":1,"boardgamehonor":4,"boardgamecategory":1,"boardgamemechanic":4,"boardgameexpansion":0,"boardgameversion":3,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":0,"boardgamefamily":6,"videogamebg":1,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":1,"primaryname":{"nameid":"35596","name":"Haggis","sortindex":"1","primaryname":"1","translit":"Haggis"},"description":"<p><strong>Haggis<\/strong> is a <a  href=\"\/boardgamefamily\/131\/card-games-climbing\"   >climbing game<\/a> in the same family as <a  href=\"\/boardgame\/70451\/zheng-fen\"   >Zheng Fen<\/a> and <a  href=\"\/boardgame\/13597\/big-two\"   >Big Two<\/a>. It borrows and recombines elements from its parent games - card combinations, bombs, scoring for cards in hand, scoring for cards collected in tricks - and it mixes in equally distributed wild cards and betting that you'll be the first to empty your hand of cards.<\/p>\n\n","wiki":"<p><strong>Zhubu Shengji<\/strong> was the name given to the two-player version for traditional playing cards, later developed into the commercial two- or three-player version, <strong>Haggis<\/strong>.<\/p>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Microbadges#\">Microbadges<\/a><\/strong>: <a href=\"\/microbadge\/18651\"><img alt='Microbadge: Haggis fan'  onmouseover=\"return overlib('Haggis fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_18651_1.png\"><\/a> <a href=\"\/microbadge\/15123\"><img alt='Microbadge: Haggis fan'  onmouseover=\"return overlib('Haggis fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_15123_1.png\"><\/a><\/p>\n\n","website":{"url":"http:\/\/www.indieboardsandcards.com\/index.php\/games\/haggis\/","title":"Home page at Indie Boards and Cards"},"imageid":"807564","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/yaxZBMXHZ2KdBFskl8DvB8T6l-U=\/fit-in\/200x150\/pic807564.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/Nw1jsFEE9KB_fC9WoUUOxxtfttI=\/fit-in\/64x64\/pic807564.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/ZTs9xaCxE5s8jsU49LFwUH3IrTo=\/75x75\/pic807564.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/zgULre6yH4FLZAbIQV0NdIm2aJM=\/fit-in\/75x75\/pic807564.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/ZOcNc5NEWe3JgYdCK8CoE72q3pQ=\/fit-in\/75x125\/pic807564.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/aIqDYYDs6zTAR-X23tUqBpdpizs=\/fit-in\/300x320\/pic807564.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/dS-OVQ8-2AJVc6s7Ju8O_JbZnDw=\/200x200\/pic807564.jpg"},"imagepagehref":"\/image\/807564\/haggis","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/m0vGTjBpC_BcY3S43ZJE2Msfvh0=\/fit-in\/246x300\/pic807564.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/tPCPLp_r_2hgBYUOnu2BQZ33_lg=\/800x375\/filters:quality(30)\/pic1691296.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"19"},"images":{"numitems":133},"videos":{"numitems":9}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.97852",
+        "reviewCount": "3803",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/m0vGTjBpC_BcY3S43ZJE2Msfvh0=/fit-in/246x300/pic807564.jpg",
+    "name": "Haggis",
+    "description": "Climbing card-game ideal for two or three players."
+}
+</script>
+
+</body>
+</html>

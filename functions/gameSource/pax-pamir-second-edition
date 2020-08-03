@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Pax Pamir (Second Edition) | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Pax Pamir (Second Edition)">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_letterbox/img/-Dq_T2QJgtYgFkB_URruMrCgWCE=/fit-in/1200x630/filters:fill(auto)/pic4503733.png" />
+	<meta property="og:title" content="Pax Pamir (Second Edition)" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/256960/pax-pamir-second-edition" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Swing the tides of the &amp;quot;Great Game&amp;quot; as countries vie for control of the region." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Pax Pamir (Second Edition)" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/AMfMdCWybOvc_P08E1DLASrN_Pc=/fit-in/1200x630/pic4503733.png" />
+	<meta name="twitter:description" content="Swing the tides of the &amp;quot;Great Game&amp;quot; as countries vie for control of the region." />
+
+
+	<meta name="description" content="Swing the tides of the &amp;quot;Great Game&amp;quot; as countries vie for control of the region.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["256960"],"familyid":["60665","61350","61426","61433","61434","61431","61424","10632","8374","58172","56858","5666","44079","5497","27646"],"companyid":["30571","7251","15108","39814","8147"],"propertyid":["2001","2080","2046","2041","1021","1094","2040","2914","1026","1001","2710","2070","2819","1081"],"temp_co":["hot"],"personid":["35585","35585"],"temp_ppl":["hot","hot"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"223","baverage":"7.21332"},{"prettyname":"Strategy Game Rank","shortprettyname":"Strategy Rank","veryshortprettyname":"Strategy ","subdomain":"strategygames","rankobjecttype":"family","rankobjectid":5497,"rank":"101","baverage":"7.43693"}],"polls":{"userplayers":{"best":[{"min":4,"max":4}],"recommended":[{"min":1,"max":5}],"totalvotes":"111"},"playerage":"14+","languagedependence":"Moderate in-game text - needs crib sheet or paste ups","subdomain":"","boardgameweight":{"averageweight":3.6959459459459461,"votes":"148"}},"stats":{"usersrated":"2258","average":"8.36857","baverage":"7.21332","stddev":"1.46041","avgweight":"3.6959","numweights":"148","numgeeklists":"454","numtrading":"12","numwanting":"504","numwish":"2064","numowned":"3690","numprevowned":"123","numcomments":"678","numwishlistcomments":"195","numhasparts":"2","numwantparts":"2","views":"450088","playmonth":"2020-06","numplays":"7870","numplays_month":"119","numfans":365},"relatedcounts":{"news":2,"blogs":83,"weblink":7,"podcast":12},"itemid":2041507,"objecttype":"thing","objectid":256960,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/256960\/pax-pamir-second-edition","subtype":"boardgame","subtypes":["boardgame","boardgameimplementation"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Pax Pamir (Second Edition)","alternatename":null,"yearpublished":"2019","minplayers":"1","maxplayers":"5","minplaytime":"45","maxplaytime":"120","minage":"13","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Swing the tides of the \"Great Game\" as countries vie for control of the region.","links":{"boardgamedesigner":[{"name":"Cole Wehrle","objecttype":"person","objectid":"35585","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/35585\/cole-wehrle"}],"boardgameartist":[{"name":"Cole Wehrle","objecttype":"person","objectid":"35585","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/35585\/cole-wehrle"}],"boardgamepublisher":[{"name":"2Tomatoes","objecttype":"company","objectid":"30571","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/30571\/2tomatoes"},{"name":"Giochix.it","objecttype":"company","objectid":"7251","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/7251\/giochixit"},{"name":"Spielworxx","objecttype":"company","objectid":"15108","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/15108\/spielworxx"},{"name":"Wehrlegig Games","objecttype":"company","objectid":"39814","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/39814\/wehrlegig-games"},{"name":"YOKA Games","objecttype":"company","objectid":"8147","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/8147\/yoka-games"}],"boardgamehonor":[{"name":"2019 Cardboard Republic Daredevil Laurel Nominee","objecttype":"family","objectid":"60665","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/60665\/2019-cardboard-republic-daredevil-laurel-nominee"},{"name":"2019 Cardboard Republic Daredevil Laurel Winner","objecttype":"family","objectid":"61350","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/61350\/2019-cardboard-republic-daredevil-laurel-winner"},{"name":"2019 Golden Geek Best Board Game Artwork & Presentation Nominee","objecttype":"family","objectid":"61426","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/61426\/2019-golden-geek-best-board-game-artwork-presentat"},{"name":"2019 Golden Geek Best Solo Board Game Nominee","objecttype":"family","objectid":"61433","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/61433\/2019-golden-geek-best-solo-board-game-nominee"},{"name":"2019 Golden Geek Best Strategy Board Game Nominee","objecttype":"family","objectid":"61434","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/61434\/2019-golden-geek-best-strategy-board-game-nominee"},{"name":"2019 Golden Geek Board Game of the Year Nominee","objecttype":"family","objectid":"61431","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/61431\/2019-golden-geek-board-game-year-nominee"}],"boardgamecategory":[{"name":"Economic","objecttype":"property","objectid":"1021","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1021\/economic"},{"name":"Educational","objecttype":"property","objectid":"1094","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1094\/educational"},{"name":"Negotiation","objecttype":"property","objectid":"1026","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1026\/negotiation"},{"name":"Political","objecttype":"property","objectid":"1001","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1001\/political"},{"name":"Post-Napoleonic","objecttype":"property","objectid":"2710","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/2710\/post-napoleonic"},{"name":"Spies\/Secret Agents","objecttype":"property","objectid":"1081","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1081\/spiessecret-agents"}],"boardgamemechanic":[{"name":"Action Points","objecttype":"property","objectid":"2001","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2001\/action-points"},{"name":"Area Majority \/ Influence","objecttype":"property","objectid":"2080","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2080\/area-majority-influence"},{"name":"Area Movement","objecttype":"property","objectid":"2046","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2046\/area-movement"},{"name":"Card Drafting","objecttype":"property","objectid":"2041","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2041\/card-drafting"},{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Increase Value of Unchosen Resources","objecttype":"property","objectid":"2914","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2914\/increase-value-unchosen-resources"}],"boardgameexpansion":[],"boardgameversion":[{"name":"Chinese edition","objecttype":"version","objectid":"489103","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/489103\/chinese-edition"},{"name":"English edition","objecttype":"version","objectid":"413850","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/413850\/english-edition"},{"name":"French edition","objecttype":"version","objectid":"493119","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/493119\/french-edition"},{"name":"German edition","objecttype":"version","objectid":"486738","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/486738\/german-edition"},{"name":"Italian edition","objecttype":"version","objectid":"500016","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/500016\/italian-edition"},{"name":"Spanish edition","objecttype":"version","objectid":"493120","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/493120\/spanish-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[{"name":"Pax Pamir","objecttype":"thing","objectid":"155255","primarylink":0,"itemstate":"approved","href":"\/boardgame\/155255\/pax-pamir"},{"name":"Pax Pamir: Khyber Knives","objecttype":"thing","objectid":"198843","primarylink":0,"itemstate":"approved","href":"\/boardgame\/198843\/pax-pamir-khyber-knives"}],"boardgamefamily":[{"name":"Country: Afghanistan","objecttype":"family","objectid":"10632","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10632\/country-afghanistan"},{"name":"Crowdfunding: Kickstarter","objecttype":"family","objectid":"8374","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/8374\/crowdfunding-kickstarter"},{"name":"History: Anglo-Afghan Wars","objecttype":"family","objectid":"58172","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/58172\/history-anglo-afghan-wars"},{"name":"Pax Pamir","objecttype":"family","objectid":"56858","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/56858\/pax-pamir"},{"name":"Players: Games with Solitaire Rules","objecttype":"family","objectid":"5666","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/5666\/players-games-solitaire-rules"},{"name":"Series: Pax (Sierra Madre Games)","objecttype":"family","objectid":"44079","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/44079\/series-pax-sierra-madre-games"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Strategy Games","objecttype":"family","objectid":"5497","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5497\/strategy-games"}],"boardgameaccessory":[{"name":"Pax Pamir (Second Edition): Metal Coins & Cloth Bag","objecttype":"thing","objectid":"284305","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/284305\/pax-pamir-second-edition-metal-coins-cloth-bag"},{"name":"Pax Pamir (Second Edition): Ruler Tokens Upgrade Pack","objecttype":"thing","objectid":"305851","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/305851\/pax-pamir-second-edition-ruler-tokens-upgrade-pack"}],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":1,"boardgamepublisher":5,"boardgamehonor":7,"boardgamecategory":6,"boardgamemechanic":8,"boardgameexpansion":0,"boardgameversion":6,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":2,"boardgamefamily":7,"videogamebg":0,"boardgamesubdomain":1,"boardgameaccessory":2,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":0,"primaryname":{"nameid":"1471937","name":"Pax Pamir (Second Edition)","sortindex":"1","primaryname":"1","translit":"Pax Pamir (Second Edition)"},"description":"<p>In <em><strong>Pax Pamir<\/strong><\/em>, players assume the role of nineteenth century Afghan leaders attempting to forge a new state after the collapse of the Durrani Empire. Western histories often call this period &quot;The Great Game&quot; because of the role played by the Europeans who attempted to use central Asia as a theater for their own rivalries. In this game, those empires are viewed strictly from the perspective of the Afghans who sought to manipulate the interloping ferengi (foreigners) for their own purposes.<\/p>\n\n<p>In terms of game play, <em>Pax Pamir<\/em> is a pretty straightforward tableau builder. Players spend most of their turns purchasing cards from a central market, then playing those cards in front of them in a single row called a court. Playing cards adds units to the game's map and grants access to additional actions that can be taken to disrupt other players and influence the course of the game. That last point is worth emphasizing. Though everyone is building their own row of cards, the game offers many ways for players to interfere with each other directly and indirectly.<\/p>\n\n<p>To survive, players will organize into coalitions. Throughout the game, the dominance of the different coalitions will be evaluated by the players when a special card, called a &quot;Dominance Check&quot;, is resolved. If a single coalition has a commanding lead during one of these checks, those players loyal to that coalition will receive victory points based on their influence in their coalition. However, if Afghanistan remains fragmented during one of these checks, players instead will receive victory points based on their personal power base.<\/p>\n\n<p>After each Dominance Check, victory is checked and the game will be partially reset, offering players a fresh attempt to realize their ambitions. The game ends when a single player is able to achieve a lead of four or more victory points  or after the fourth and final Dominance Check is resolved.<\/p>\n\n","wiki":"<p>Components:<br \/>\n-1 fabric map<br \/>\n-1 market board<br \/>\n-36 coalition blocks (12 in each of 3 colors)<br \/>\n-55 regular cylinder (10 in each player color)<br \/>\n-5 VP tracker cylinder with gold markings (1 in each player color) <br \/>\n-40 coins worth 1 rupee each<br \/>\n-6 ruler tokens<br \/>\n-5 player boards<br \/>\n-5 loyalty dials<br \/>\n-1 favored suit marker<br \/>\n-142 cards (16 events, 100 court cards, 24 Wakhan cards)<br \/>\n-2 turn structure &amp; how to win aids<\/p>\n\n","website":{"url":"https:\/\/wehrlegig.com\/collections\/frontpage\/products\/pax-pamir-second-edition","title":"Pax Pamir Official Site"},"imageid":"4503733","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/0T4A8S68ujSEjPMrQvShYqop2e0=\/fit-in\/200x150\/pic4503733.png","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/alz-iHyOGKtZM6ySpsoE2v8a0LQ=\/fit-in\/64x64\/pic4503733.png","square":"https:\/\/cf.geekdo-images.com\/square\/img\/RhWalJBqtuaigz-sQB0xsLdO_2k=\/75x75\/pic4503733.png","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/gQTptAMdWdcryniYzKVYF7FnwLc=\/fit-in\/75x75\/pic4503733.png","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/vm6OR59-_TG5yz9xcYYUNfqI7K4=\/fit-in\/75x125\/pic4503733.png","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/WmZKFVThl7YlCzPmoAYGEmXnnPY=\/fit-in\/300x320\/pic4503733.png","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/MX6oPxwvj-DxmN_-kScNNkN25BM=\/200x200\/pic4503733.png"},"imagepagehref":"\/image\/4503733\/pax-pamir-second-edition","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/NjcHrBWrb99ByjeAEBQv0n1RnUU=\/fit-in\/246x300\/pic4503733.png","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/yp4ZsWyE84OewYVcXEyjravMmp0=\/800x375\/filters:quality(30)\/pic4706132.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"38"},"images":{"numitems":203},"videos":{"numitems":40}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "8.36857",
+        "reviewCount": "2258",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/NjcHrBWrb99ByjeAEBQv0n1RnUU=/fit-in/246x300/pic4503733.png",
+    "name": "Pax Pamir (Second Edition)",
+    "description": "Swing the tides of the \"Great Game\" as countries vie for control of the region."
+}
+</script>
+
+</body>
+</html>

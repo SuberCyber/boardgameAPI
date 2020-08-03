@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Anomia | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/67877/anomia" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Anomia">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_letterbox/img/moAstxCgt0AB7-B6TfRE1CvMRqU=/fit-in/1200x630/filters:fill(auto)/pic2527529.jpg" />
+	<meta property="og:title" content="Anomia" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/67877/anomia" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Card matching with words on the tip of your tongue..." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Anomia" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/4S3YDvmy8s4-BXyDZLeeHH7BiEI=/fit-in/1200x630/pic2527529.jpg" />
+	<meta name="twitter:description" content="Card matching with words on the tip of your tongue..." />
+
+
+	<meta name="description" content="Card matching with words on the tip of your tongue...">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["67877"],"familyid":["12294","25798","25816","37704","6485","5498"],"companyid":["11805","157","9068","2691","27221","4335","8439","37","23031","34627","22"],"temp_co":["hot","hot"],"personid":["36192","3030","37840","109053","39902"],"propertyid":["1030","2060","1037","2991","1027","1025"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"1791","baverage":"6.15239"},{"prettyname":"Party Game Rank","shortprettyname":"Party Rank","veryshortprettyname":"Party ","subdomain":"partygames","rankobjecttype":"family","rankobjectid":5498,"rank":"125","baverage":"6.31143"}],"polls":{"userplayers":{"best":[{"min":5,"max":5}],"recommended":[{"min":3,"max":6},{"min":7,"max":null}],"totalvotes":"28"},"playerage":"10+","languagedependence":"Unplayable in another language","subdomain":"","boardgameweight":{"averageweight":1.0612244897959184,"votes":"98"}},"stats":{"usersrated":"2565","average":"6.57798","baverage":"6.15239","stddev":"1.3959","avgweight":"1.0612","numweights":"98","numgeeklists":"447","numtrading":"103","numwanting":"53","numwish":"381","numowned":"4326","numprevowned":"247","numcomments":"599","numwishlistcomments":"50","numhasparts":"0","numwantparts":"4","views":"267353","playmonth":"2020-06","numplays":"9427","numplays_month":"25","numfans":60},"relatedcounts":{"news":1,"blogs":38,"weblink":21,"podcast":10},"itemid":195916,"objecttype":"thing","objectid":67877,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/67877\/anomia","subtype":"boardgame","subtypes":["boardgame","boardgameintegration"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Anomia","alternatename":null,"yearpublished":"2010","minplayers":"3","maxplayers":"6","minplaytime":"30","maxplaytime":"30","minage":"10","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Card matching with words on the tip of your tongue...","links":{"boardgamedesigner":[{"name":"Andrew Innes","objecttype":"person","objectid":"36192","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/36192\/andrew-innes"}],"boardgameartist":[{"name":"Kinetic","objecttype":"person","objectid":"3030","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/3030\/kinetic"},{"name":"Paul Laane","objecttype":"person","objectid":"37840","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/37840\/paul-laane"},{"name":"Cezary Szulc","objecttype":"person","objectid":"109053","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/109053\/cezary-szulc"},{"name":"Peter Wocken","objecttype":"person","objectid":"39902","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/39902\/peter-wocken"}],"boardgamepublisher":[{"name":"Anomia Press","objecttype":"company","objectid":"11805","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/11805\/anomia-press"},{"name":"Asmodee","objecttype":"company","objectid":"157","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/157\/asmodee"},{"name":"Broadway Toys LTD","objecttype":"company","objectid":"9068","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/9068\/broadway-toys-ltd"},{"name":"Cocktail Games","objecttype":"company","objectid":"2691","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/2691\/cocktail-games"},{"name":"Coiledspring Games","objecttype":"company","objectid":"27221","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/27221\/coiledspring-games"},{"name":"Competo \/ Marektoy","objecttype":"company","objectid":"4335","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/4335\/competo-marektoy"}],"boardgamehonor":[{"name":"2010 Mensa Select Winner","objecttype":"family","objectid":"12294","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/12294\/2010-mensa-select-winner"},{"name":"2014 Guldbrikken Best Parlor Game Nominee","objecttype":"family","objectid":"25798","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/25798\/2014-guldbrikken-best-parlor-game-nominee"},{"name":"2014 Guldbrikken Best Parlor Game Winner","objecttype":"family","objectid":"25816","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/25816\/2014-guldbrikken-best-parlor-game-winner"},{"name":"2016 \u00c5rets Spel Best Adult Game Nominee","objecttype":"family","objectid":"37704","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/37704\/2016-arets-spel-best-adult-game-nominee"}],"boardgamecategory":[{"name":"Party Game","objecttype":"property","objectid":"1030","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1030\/party-game"},{"name":"Real-time","objecttype":"property","objectid":"1037","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1037\/real-time"},{"name":"Trivia","objecttype":"property","objectid":"1027","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1027\/trivia"},{"name":"Word Game","objecttype":"property","objectid":"1025","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1025\/word-game"}],"boardgamemechanic":[{"name":"Pattern Recognition","objecttype":"property","objectid":"2060","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2060\/pattern-recognition"},{"name":"Speed Matching","objecttype":"property","objectid":"2991","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2991\/speed-matching"}],"boardgameexpansion":[],"boardgameversion":[{"name":"Chinese\/English edition","objecttype":"version","objectid":"335729","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/335729\/chineseenglish-edition"},{"name":"Danish edition","objecttype":"version","objectid":"251995","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/251995\/danish-edition"},{"name":"English edition 2014","objecttype":"version","objectid":"243960","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/243960\/english-edition-2014"},{"name":"English edition 2018","objecttype":"version","objectid":"431714","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/431714\/english-edition-2018"},{"name":"English first edition","objecttype":"version","objectid":"21014","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/21014\/english-first-edition"},{"name":"English second edition","objecttype":"version","objectid":"240395","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/240395\/english-second-edition"}],"expandsboardgame":[],"boardgameintegration":[{"name":"Anomia: Party Edition","objecttype":"thing","objectid":"142271","primarylink":0,"itemstate":"approved","href":"\/boardgame\/142271\/anomia-party-edition"}],"contains":[],"containedin":[],"reimplementation":[{"name":"Anomia Kids","objecttype":"thing","objectid":"250834","primarylink":0,"itemstate":"approved","href":"\/boardgame\/250834\/anomia-kids"},{"name":"Anomia X","objecttype":"thing","objectid":"225062","primarylink":0,"itemstate":"approved","href":"\/boardgame\/225062\/anomia-x"},{"name":"Anomia: Party Edition","objecttype":"thing","objectid":"142271","primarylink":0,"itemstate":"approved","href":"\/boardgame\/142271\/anomia-party-edition"}],"reimplements":[],"boardgamefamily":[{"name":"Mensa Select","objecttype":"family","objectid":"6485","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/6485\/mensa-select"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Party Games","objecttype":"family","objectid":"5498","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5498\/party-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":4,"boardgamepublisher":11,"boardgamehonor":4,"boardgamecategory":4,"boardgamemechanic":2,"boardgameexpansion":0,"boardgameversion":16,"expandsboardgame":0,"boardgameintegration":1,"contains":0,"containedin":0,"reimplementation":3,"reimplements":0,"boardgamefamily":1,"videogamebg":0,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":2,"alternatenamescount":8,"primaryname":{"nameid":"214908","name":"Anomia","sortindex":"1","primaryname":"1","translit":"Anomia"},"secondarynames":[{"nameid":"1223752","name":"Anomia \u5b57\u5b57\u8f49\u6a5f","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"934079","name":"Duplex","sortindex":"1","primaryname":"0","secondaryname":true}],"description":"<p><em><strong>Anomia<\/strong><\/em> plays off the fact that our minds are positively brimming with all sorts of random information: things to eat, pop songs, websites, etc... Sure, under normal circumstances, it's easy to give an example of a frozen food or a dog breed, but you'll find that your brain works a little differently under pressure!<\/p>\n\n<p>To play, draw and reveal a card from the center pile. Does the symbol on your card match one on another player's card? If so, you must quickly face-off with the other player by giving an example of the person, place, or thing on their card before they can do the same for yours. If you blurt out a correct answer first, you win their card and the drawing continues.<\/p>\n\n<p>Sounds simple, right? Wrong! Wild cards allow non-matching symbols to match, increasing the number of things to which you must pay attention. Cascading face-offs can occur when you hand over a lost card, thereby revealing a new top card on your play pile.<\/p>\n\n","wiki":"<p><strong>Microbadge<\/strong><br \/>\n<a href=\"\/microbadge\/34316\"><img alt='Microbadge: Anomia fan'  onmouseover=\"return overlib('Anomia fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_34316_0.png\"><\/a> - <a rel=\"nofollow\" href=\"http:\/\/boardgamegeek.com\/microbadge\/34316\" onclick=\"window.open(this.href, '_blank'); return false;\">Anomia fan<\/a><\/p>\n\n","website":{"url":"https:\/\/www.anomiapress.com\/anomia.html","title":"Anomia Press: Official Page"},"imageid":"2527529","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/b5FRGYQrTT6_veVDF7FJI36jpDI=\/fit-in\/200x150\/pic2527529.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/x2SUyNlempziJd8n6lqjvxACVmQ=\/fit-in\/64x64\/pic2527529.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/Qv-Qavb-uXLO5kkRQZNRk13KFr0=\/75x75\/pic2527529.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/EdM-VIe-_t4csoYRkL5if5ijrGo=\/fit-in\/75x75\/pic2527529.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/3wGDTX9tTbcWJ-6XP3QnISSPZj8=\/fit-in\/75x125\/pic2527529.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/tXK9sfiCo8Gjaxx2dYUKDpMK9uY=\/fit-in\/300x320\/pic2527529.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/uolnpMIwy6PHplEN3TL3bJonbiE=\/200x200\/pic2527529.jpg"},"imagepagehref":"\/image\/2527529\/anomia","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/mAxXEOluj_rXnOql0Y0b8jLysqY=\/fit-in\/246x300\/pic2527529.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/-lwDj0wLJhOE7L3uDJPVISsEtGY=\/800x375\/filters:quality(30)\/pic3290858.png","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"3"},"images":{"numitems":34},"videos":{"numitems":21}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.57798",
+        "reviewCount": "2565",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/mAxXEOluj_rXnOql0Y0b8jLysqY=/fit-in/246x300/pic2527529.jpg",
+    "name": "Anomia",
+    "description": "Card matching with words on the tip of your tongue..."
+}
+</script>
+
+</body>
+</html>

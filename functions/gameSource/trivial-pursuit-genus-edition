@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Trivial Pursuit: Genus Edition | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/2952/trivial-pursuit-genus-edition" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Trivial Pursuit: Genus Edition">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/zdfyBr_zzk1TPAMdTliVUiInvLE=/fit-in/445x445/pic387612.jpg" />
+	<meta property="og:title" content="Trivial Pursuit: Genus Edition" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/2952/trivial-pursuit-genus-edition" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Prove you are the master of all things trivia, rolling and moving to collect pies." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Trivial Pursuit: Genus Edition" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/ajCqGmtK0HqT1-7Ff01zYV5eauA=/fit-in/1200x630/pic387612.jpg" />
+	<meta name="twitter:description" content="Prove you are the master of all things trivia, rolling and moving to collect pies." />
+
+
+	<meta name="description" content="Prove you are the master of all things trivia, rolling and moving to collect pies.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["2952"],"personid":["3","2053","2052","124796"],"familyid":["9082","12386","5499","6485","5498","101"],"companyid":["1299","12573","51","5789","7216","328","28","3994","359","11953"],"propertyid":["1030","2035","2004","1027"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"18979","baverage":"5.20087"},{"prettyname":"Party Game Rank","shortprettyname":"Party Rank","veryshortprettyname":"Party ","subdomain":"partygames","rankobjecttype":"family","rankobjectid":5498,"rank":"561","baverage":"5.00349"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"1959","baverage":"5.13997"}],"polls":{"userplayers":{"best":[{"min":4,"max":4}],"recommended":[{"min":2,"max":6},{"min":8,"max":8}],"totalvotes":"47"},"playerage":"12+","languagedependence":"Unplayable in another language","subdomain":"","boardgameweight":{"averageweight":1.6519337016574585,"votes":"543"}},"stats":{"usersrated":"7226","average":"5.22181","baverage":"5.20087","stddev":"1.77898","avgweight":"1.6519","numweights":"543","numgeeklists":"873","numtrading":"237","numwanting":"6","numwish":"101","numowned":"9370","numprevowned":"1257","numcomments":"1867","numwishlistcomments":"15","numhasparts":"7","numwantparts":"6","views":"303020","playmonth":"2020-06","numplays":"9266","numplays_month":"21","numfans":91},"relatedcounts":{"news":0,"blogs":38,"weblink":11,"podcast":8},"itemid":2663,"objecttype":"thing","objectid":2952,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/2952\/trivial-pursuit-genus-edition","subtype":"boardgame","subtypes":["boardgame","boardgameintegration"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Trivial Pursuit: Genus Edition","alternatename":null,"yearpublished":"1981","minplayers":"2","maxplayers":"24","minplaytime":"90","maxplaytime":"90","minage":"12","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Prove you are the master of all things trivia, rolling and moving to collect pies.","links":{"boardgamedesigner":[{"name":"Scott Abbot","objecttype":"person","objectid":"2053","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/2053\/scott-abbot"},{"name":"Chris Haney","objecttype":"person","objectid":"2052","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/2052\/chris-haney"}],"boardgameartist":[{"name":"(Uncredited)","objecttype":"person","objectid":"3","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/3\/uncredited"},{"name":"Michael Wurstlin","objecttype":"person","objectid":"124796","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/124796\/michael-wurstlin"}],"boardgamepublisher":[{"name":"Diset S. A.","objecttype":"company","objectid":"1299","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/1299\/diset-s"},{"name":"Eskifell hf.","objecttype":"company","objectid":"12573","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/12573\/eskifell-hf"},{"name":"Hasbro","objecttype":"company","objectid":"51","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/51\/hasbro"},{"name":"Hobby","objecttype":"company","objectid":"5789","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/5789\/hobby"},{"name":"Horn Abbot International","objecttype":"company","objectid":"7216","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/7216\/horn-abbot-international"},{"name":"Horn Abbot Ltd.","objecttype":"company","objectid":"328","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/328\/horn-abbot-ltd"}],"boardgamehonor":[{"name":"1985 \u00c5rets Spel Best Family Game Winner","objecttype":"family","objectid":"9082","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/9082\/1985-arets-spel-best-family-game-winner"},{"name":"1990 Mensa Select Winner","objecttype":"family","objectid":"12386","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/12386\/1990-mensa-select-winner"}],"boardgamecategory":[{"name":"Party Game","objecttype":"property","objectid":"1030","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1030\/party-game"},{"name":"Trivia","objecttype":"property","objectid":"1027","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1027\/trivia"}],"boardgamemechanic":[{"name":"Roll \/ Spin and Move","objecttype":"property","objectid":"2035","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2035\/roll-spin-and-move"},{"name":"Set Collection","objecttype":"property","objectid":"2004","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2004\/set-collection"}],"boardgameexpansion":[{"name":"1650 more Questions & Answers for use with Trivial Pursuit: Set I, Group I","objecttype":"thing","objectid":"30316","primarylink":0,"itemstate":"approved","href":"\/boardgame\/30316\/1650-more-questions-answers-use-trivial-pursuit-se"},{"name":"1650 more Questions & Answers for use with Trivial Pursuit: Set I, Group II","objecttype":"thing","objectid":"26654","primarylink":0,"itemstate":"approved","href":"\/boardgame\/26654\/1650-more-questions-answers-use-trivial-pursuit-se"},{"name":"1650 more Questions & Answers for use with Trivial Pursuit: Set I, Group III","objecttype":"thing","objectid":"28994","primarylink":0,"itemstate":"approved","href":"\/boardgame\/28994\/1650-more-questions-answers-use-trivial-pursuit-se"},{"name":"1650 more Questions & Answers for use with Trivial Pursuit: Set I, Group IV","objecttype":"thing","objectid":"28993","primarylink":0,"itemstate":"approved","href":"\/boardgame\/28993\/1650-more-questions-answers-use-trivial-pursuit-se"},{"name":"Continuation Trivia: Set One","objecttype":"thing","objectid":"241385","primarylink":0,"itemstate":"approved","href":"\/boardgame\/241385\/continuation-trivia-set-one"},{"name":"Even More! Trivial Pursuit Questions","objecttype":"thing","objectid":"285179","primarylink":0,"itemstate":"approved","href":"\/boardgame\/285179\/even-more-trivial-pursuit-questions"}],"boardgameversion":[{"name":"Danish edition 1985","objecttype":"version","objectid":"287225","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/287225\/danish-edition-1985"},{"name":"Dutch (Belgian) edition 1988","objecttype":"version","objectid":"166235","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/166235\/dutch-belgian-edition-1988"},{"name":"Dutch (Belgian) edition 1996","objecttype":"version","objectid":"121922","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/121922\/dutch-belgian-edition-1996"},{"name":"Dutch second edition","objecttype":"version","objectid":"265505","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/265505\/dutch-second-edition"},{"name":"English (Australian) edition 1981","objecttype":"version","objectid":"184487","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/184487\/english-australian-edition-1981"},{"name":"English (British) edition 1983","objecttype":"version","objectid":"410965","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/410965\/english-british-edition-1983"}],"expandsboardgame":[],"boardgameintegration":[{"name":"Lawyer's Edition Technicality Cards","objecttype":"thing","objectid":"289517","primarylink":0,"itemstate":"approved","href":"\/boardgame\/289517\/lawyers-edition-technicality-cards"},{"name":"Trivial Pursuit The Music Master Game: Family Pop & Rock Edition","objecttype":"thing","objectid":"29338","primarylink":0,"itemstate":"approved","href":"\/boardgame\/29338\/trivial-pursuit-music-master-game-family-pop-rock"},{"name":"Trivial Pursuit The Music Master Game: The '60s Edition","objecttype":"thing","objectid":"21459","primarylink":0,"itemstate":"approved","href":"\/boardgame\/21459\/trivial-pursuit-music-master-game-60s-edition"},{"name":"Trivial Pursuit The Music Master Game: TV Edition","objecttype":"thing","objectid":"275452","primarylink":0,"itemstate":"approved","href":"\/boardgame\/275452\/trivial-pursuit-music-master-game-tv-edition"},{"name":"Trivial Pursuit: Dinosaurs","objecttype":"thing","objectid":"216557","primarylink":0,"itemstate":"approved","href":"\/boardgame\/216557\/trivial-pursuit-dinosaurs"},{"name":"The Woman's Game Trivia Card Set","objecttype":"thing","objectid":"302337","primarylink":0,"itemstate":"approved","href":"\/boardgame\/302337\/womans-game-trivia-card-set"}],"contains":[],"containedin":[],"reimplementation":[{"name":"Trivial Pursuit: Classic Edition","objecttype":"thing","objectid":"248702","primarylink":0,"itemstate":"approved","href":"\/boardgame\/248702\/trivial-pursuit-classic-edition"},{"name":"Trivial Pursuit: Party","objecttype":"thing","objectid":"149328","primarylink":0,"itemstate":"approved","href":"\/boardgame\/149328\/trivial-pursuit-party"}],"reimplements":[],"boardgamefamily":[{"name":"Mensa Select","objecttype":"family","objectid":"6485","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/6485\/mensa-select"},{"name":"Trivial Pursuit","objecttype":"family","objectid":"101","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/101\/trivial-pursuit"}],"videogamebg":[{"name":"Trivial Pursuit (2009)","objecttype":"thing","objectid":"76848","primarylink":0,"itemstate":"approved","href":"\/videogame\/76848\/trivial-pursuit-2009"}],"boardgamesubdomain":[{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"},{"name":"Party Games","objecttype":"family","objectid":"5498","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5498\/party-games"}],"boardgameaccessory":[{"name":"Trivial Pursuit: Deluxe Playing Pieces","objecttype":"thing","objectid":"258811","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/258811\/trivial-pursuit-deluxe-playing-pieces"}],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":2,"boardgameartist":2,"boardgamepublisher":10,"boardgamehonor":2,"boardgamecategory":2,"boardgamemechanic":2,"boardgameexpansion":58,"boardgameversion":30,"expandsboardgame":0,"boardgameintegration":6,"contains":0,"containedin":0,"reimplementation":2,"reimplements":0,"boardgamefamily":2,"videogamebg":1,"boardgamesubdomain":2,"boardgameaccessory":1,"commerceweblink":0},"secondarynamescount":2,"alternatenamescount":15,"secondarynames":[{"nameid":"2663","name":"Trivial Pursuit","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"729566","name":"Trivial Pursuit: Master Game \u2013 Genus Edition","sortindex":"1","primaryname":"0","secondaryname":true}],"primaryname":{"nameid":"695478","name":"Trivial Pursuit: Genus Edition","sortindex":"1","primaryname":"1","translit":"Trivial Pursuit: Genus Edition"},"description":"<p><strong>Trivial Pursuit<\/strong> is the original trivia game that started it all.<\/p>\n\n<p>Each player has a circular playing piece with six pie-shaped holes. The goal of the game is to collect a pie in each color. The colors correspond to different question categories.<\/p>\n\n<p>The board consists of a circular track with spaces in seven different colors. Six of the colors correspond to question categories while the last color gives a new dice roll. Six spaces along the track are &quot;pie spaces&quot;, and from these there are &quot;spokes&quot; of track leading to the middle of the board.<\/p>\n\n<p>Players roll a die and move along the track in any direction they like. When a player stops on a color they get a question of the appropriate category. If the player answers a question correctly while on a pie space, they get a pie of that color (assuming they don't already have it). A correct answer on another square allows the player to roll again.<\/p>\n\n<p>Once the player has one pie in each color, she can move along the spokes to the middle of the board to win the game.<\/p>\n\n","wiki":"<p><strong>Awards:<\/strong><br \/>\n<ul>\n    <li> 1990 <a class=\"\" href=\"\/wiki\/page\/Mensa_Select#\">Mensa Select<\/a><\/li>\n    <li> 1986 <a class=\"\" href=\"\/wiki\/page\/%C3%85rets_Spel#\"> \u00c5rets Spel<\/a>, Winner, Best Family Game<\/li>\n    <li> <a class=\"\" href=\"\/wiki\/page\/Games_Magazine_Hall_of_Fame#\">Games Magazine Hall of Fame<\/a> Inductee.<\/li>\n<\/ul>\n\n<\/p>\n\n<p><strong>Components:<\/strong><br \/>\n<ul>\n    <li> One Playing Board<\/li>\n    <li> One Die<\/li>\n    <li> 1000 Question-and-Answer Cards<\/li>\n    <li> Two Card Boxes<\/li>\n    <li> Six Player Tokens (1 x 6 Colors)<\/li>\n    <li> 36 Scoring Wedges (6 x 6 Colors)<\/li>\n    <li> Code Card<\/li>\n    <li> Rules of Play<\/li>\n<\/ul>\n\n<\/p>\n\n","website":{"url":false},"imageid":"387612","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/loQGM2aMlfK4qTZA7pQiACnrSPY=\/fit-in\/200x150\/pic387612.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/UNDazUGSzdmfPt4V7MWWDbk3EKM=\/fit-in\/64x64\/pic387612.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/XPyzO4slv0LfV2lxZ2dv6TNdE1Y=\/75x75\/pic387612.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/WyeF9EYNkmUNVpCiFk81Zhw99NU=\/fit-in\/75x75\/pic387612.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/wlxxrcEVzSZlJVF6L9E1EAMAnss=\/fit-in\/75x125\/pic387612.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/24uQqPDC6Dno_FVP8l3QI9QiLdU=\/fit-in\/300x320\/pic387612.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/3D15Tf0oxmvbsOY9D9IC4C6rSOI=\/200x200\/pic387612.jpg"},"imagepagehref":"\/image\/387612\/trivial-pursuit-genus-edition","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/mINTvj-psGjiMlFt40EkAfFLz-c=\/fit-in\/246x300\/pic387612.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/DjLwOjBjamJlrICEueWPki43Zgs=\/800x375\/filters:quality(30)\/pic141782.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"0"},"images":{"numitems":163},"videos":{"numitems":30}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.22181",
+        "reviewCount": "7226",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/mINTvj-psGjiMlFt40EkAfFLz-c=/fit-in/246x300/pic387612.jpg",
+    "name": "Trivial Pursuit: Genus Edition",
+    "description": "Prove you are the master of all things trivia, rolling and moving to collect pies."
+}
+</script>
+
+</body>
+</html>

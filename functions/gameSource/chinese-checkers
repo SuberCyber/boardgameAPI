@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Chinese Checkers | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/2386/chinese-checkers" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Chinese Checkers">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_letterbox/img/jhN0oU86QQj6aRU9PaYQ4taU5_U=/fit-in/1200x630/filters:fill(auto)/pic113974.jpg" />
+	<meta property="og:title" content="Chinese Checkers" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/2386/chinese-checkers" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Hop your marbles as far as you can in this race to cross the hexagram board." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Chinese Checkers" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/P5xLKmD9BNbKfbdzdreQhI2rJWw=/fit-in/1200x630/pic113974.jpg" />
+	<meta name="twitter:description" content="Hop your marbles as far as you can in this race to cross the hexagram board." />
+
+
+	<meta name="description" content="Hop your marbles as far as you can in this race to cross the hexagram board.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["2386"],"companyid":["171","3320","30499","404","3417","74","43403","7757","690","4680","389","35302","2028","225","5314","507","2401","2407","6582","586","17388","2018","485","2919","11320","24954","16838","3082","5018","24593","6021","390","200","607","2456","103","155","247","13103","858","384","4417","51","4721","1758","1195","4742","8402","520","661"],"personid":["3"],"familyid":["4666","26432","5902","10072"],"propertyid":["1009","2043","2676","2008"],"temp_co":["hot"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"18986","baverage":"5.18497"},{"prettyname":"Abstract Game Rank","shortprettyname":"Abstract Rank","veryshortprettyname":"Abstract ","subdomain":"abstracts","rankobjecttype":"family","rankobjectid":4666,"rank":"1011","baverage":"4.9863"}],"polls":{"userplayers":{"best":[],"recommended":[{"min":2,"max":4},{"min":6,"max":6}],"totalvotes":"70"},"playerage":"6+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":1.5935672514619883,"votes":"342"}},"stats":{"usersrated":"3944","average":"5.12286","baverage":"5.18497","stddev":"1.54846","avgweight":"1.5936","numweights":"342","numgeeklists":"471","numtrading":"48","numwanting":"5","numwish":"83","numowned":"4876","numprevowned":"767","numcomments":"1100","numwishlistcomments":"15","numhasparts":"5","numwantparts":"4","views":"124912","playmonth":"2020-06","numplays":"5240","numplays_month":"33","numfans":49},"relatedcounts":{"news":0,"blogs":12,"weblink":13,"podcast":2},"itemid":2139,"objecttype":"thing","objectid":2386,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/2386\/chinese-checkers","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Chinese Checkers","alternatename":null,"yearpublished":"1893","minplayers":"2","maxplayers":"6","minplaytime":"30","maxplaytime":"30","minage":"7","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Hop your marbles as far as you can in this race to cross the hexagram board.","links":{"boardgamedesigner":[{"name":"(Uncredited)","objecttype":"person","objectid":"3","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/3\/uncredited"}],"boardgameartist":[],"boardgamepublisher":[{"name":"(Public Domain)","objecttype":"company","objectid":"171","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/171\/public-domain"},{"name":"(Unknown)","objecttype":"company","objectid":"3320","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/3320\/unknown"},{"name":"A. & G. Manufacturing Company","objecttype":"company","objectid":"30499","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/30499\/g-manufacturing-company"},{"name":"Alga","objecttype":"company","objectid":"404","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/404\/alga"},{"name":"Aristospel","objecttype":"company","objectid":"3417","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/3417\/aristospel"},{"name":"ASS Altenburger Spielkarten","objecttype":"company","objectid":"74","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/74\/ass-altenburger-spielkarten"}],"boardgamehonor":[],"boardgamecategory":[{"name":"Abstract Strategy","objecttype":"property","objectid":"1009","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1009\/abstract-strategy"}],"boardgamemechanic":[{"name":"Enclosure","objecttype":"property","objectid":"2043","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2043\/enclosure"},{"name":"Grid Movement","objecttype":"property","objectid":"2676","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2676\/grid-movement"},{"name":"Trading","objecttype":"property","objectid":"2008","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2008\/trading"}],"boardgameexpansion":[{"name":"Dragon Checkers","objecttype":"thing","objectid":"36189","primarylink":0,"itemstate":"approved","href":"\/boardgame\/36189\/dragon-checkers"}],"boardgameversion":[{"name":"A. & G. Manufacturing edition","objecttype":"version","objectid":"284224","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/284224\/g-manufacturing-edition"},{"name":"Alga Swedish edition","objecttype":"version","objectid":"105461","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/105461\/alga-swedish-edition"},{"name":"ASS blue pawn edition","objecttype":"version","objectid":"284170","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/284170\/ass-blue-pawn-edition"},{"name":"Bengt D. Bengtsson Swedish edition","objecttype":"version","objectid":"470920","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/470920\/bengt-d-bengtsson-swedish-edition"},{"name":"Berea College Crafts Walnut Edition","objecttype":"version","objectid":"282023","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/282023\/berea-college-crafts-walnut-edition"},{"name":"Berwick red surround edition","objecttype":"version","objectid":"233952","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/233952\/berwick-red-surround-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[{"name":"The Boardgame Book","objecttype":"thing","objectid":"7159","primarylink":0,"itemstate":"approved","href":"\/boardgame\/7159\/boardgame-book"},{"name":"Miscellaneous Game Compilation","objecttype":"thing","objectid":"96628","primarylink":0,"itemstate":"approved","href":"\/boardgame\/96628\/miscellaneous-game-compilation"}],"reimplementation":[],"reimplements":[],"boardgamefamily":[{"name":"Combinatorial","objecttype":"family","objectid":"26432","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/26432\/combinatorial"},{"name":"Components: Marbles","objecttype":"family","objectid":"5902","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/5902\/components-marbles"},{"name":"Traditional Games: Halma","objecttype":"family","objectid":"10072","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10072\/traditional-games-halma"}],"videogamebg":[{"name":"Chinese Checkers (1991)","objecttype":"thing","objectid":"137198","primarylink":0,"itemstate":"approved","href":"\/videogame\/137198\/chinese-checkers-1991"},{"name":"Chinese Checkers (2017)","objecttype":"thing","objectid":"266153","primarylink":0,"itemstate":"approved","href":"\/videogame\/266153\/chinese-checkers-2017"}],"boardgamesubdomain":[{"name":"Abstract Games","objecttype":"family","objectid":"4666","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/4666\/abstract-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":0,"boardgamepublisher":113,"boardgamehonor":0,"boardgamecategory":1,"boardgamemechanic":3,"boardgameexpansion":1,"boardgameversion":107,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":2,"reimplementation":0,"reimplements":0,"boardgamefamily":3,"videogamebg":2,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":22,"alternatenamescount":58,"secondarynames":[{"nameid":"539063","name":"Chinese Checker Board","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"760990","name":"Chinese Checkers and Hong Kong","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"602205","name":"Chinese Checquers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"205439","name":"Chinese Chequers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"544548","name":"Chinese Star Checkers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"1044984","name":"Ching Chess","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"858515","name":"Ching Gong for Two","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"912066","name":"Diamond Game","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"544501","name":"Dragon Chinese Checkers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"39260","name":"Halma","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"803160","name":"Hex Halma","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"535445","name":"Hop Ching","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"42575","name":"Kinaskak","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"605692","name":"Magnetic Chinese Checkers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"538979","name":"Mickey's Chinese Checkers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"544587","name":"Pagoda Chinese Checkers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"44546","name":"Pengus","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"606338","name":"Pocket Chinese Chequers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"462695","name":"San Loo","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"43485","name":"Star Checkers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"685190","name":"Travel Games: Chinese Chequers","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"1727006","name":"Wooden Chinese Checkers","sortindex":"1","primaryname":"0","secondaryname":true}],"primaryname":{"nameid":"2139","name":"Chinese Checkers","sortindex":"1","primaryname":"1","translit":"Chinese Checkers"},"description":"<p><strong>Chinese Checkers<\/strong>, or <strong>Stern-Halma<\/strong>, is a version of <a  href=\"\/boardgame\/38950\/halma\"   >Halma<\/a> supporting up to six players. Parenthetically, it is neither Chinese nor is it <a  href=\"\/boardgame\/2083\/checkers\"   >Checkers<\/a>. In many countries, it's known as <strong>Chinese Chess<\/strong> or <strong>China-Chess<\/strong> which is even less accurate and definitely shouldn't be confused with <a  href=\"\/boardgame\/2393\/xiangqi\"   >Xiangqi<\/a> which is the true <a  href=\"\/boardgame\/171\/chess\"   >Chess<\/a> variant from China.<\/p>\n\n<p>Players jump over their own and\/or their opponents' pieces with the objective of being the first to move all their pieces from one side to the opposing side.<\/p>\n\n<p><strong>Re-implements<\/strong><br \/>\n<ul>\n    <li><a  href=\"\/boardgame\/38950\/halma\"   >Halma<\/a><\/li>\n<\/ul>\n\n<\/p>\n\n","wiki":"<p><strong><a class=\"\" href=\"\/wiki\/page\/Microbadge#\">Microbadge<\/a><\/strong><\/p>\n\n<p><img src=\"https:\/\/cf.geekdo-static.com\/images\/microbadges\/mb_ChineseCheck.gif\" alt=\"http:\/\/files.boardgamegeek.com\/images\/microbadges\/mb_ChineseCheck.gif\" title=\"http:\/\/files.boardgamegeek.com\/images\/microbadges\/mb_ChineseCheck.gif\" \/><!-- http:\/\/files.boardgamegeek.com\/images\/microbadges\/mb_ChineseCheck.gif --> <a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/geekmicrobadge.php?action=view&amp;badgeid=8254\" onclick=\"window.open(this.href, '_blank'); return false;\">Chinese Checkers fan<\/a><\/p>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Online_Play#\">Online Play<\/a><\/strong><\/p>\n\n<ul>\n    <li> <a class=\"\" href=\"\/wiki\/page\/YourturnMyturn#\">YourturnMyturn<\/a> (turn based 2 player halma)<\/li>\n<\/ul>\n\n<p><strong>Variant:<\/strong><\/p>\n\n<p>In the standard way of playing this game, to hop a piece, your piece must be beside it, and jumps to the vacant space immediately past the piece you have hopped (and, of course, you can move in a chain of hops).<\/p>\n\n<p>To make the game much more interesting, adjust the rule so that you can move over any number of empty spaces, then over the piece, provided that you then move over the same number of spaces on the other before you land. Of course, your move must be in a straight line. So if you jumped one vacant space then a piece, you move over one more vacant space before you land. You are only allowed to jump one piece, so if there is a vacant space, and a piece, and another vacant space, then another piece, your move is blocked, likewise if there is a vacant space, two pieces, and another vacant space. You could also jump two vacant spaces, three vacant spaces, and so on. The rule about a chain of hops still holds.<\/p>\n\n<p>This form of jumping is used by Eric Solomon in his enticing Billabong (<a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/game\/464)\" onclick=\"window.open(this.href, '_blank'); return false;\">http:\/\/www.boardgamegeek.com\/game\/464)<\/a>.<\/p>\n\n<p>I wish I could say that I invented this form of moving myself, but I think I read it in the '80s in an issue of &quot;Jeux et Strategie&quot; (and if not there, in &quot;Games and Puzzles&quot;).<\/p>\n\n<p><strong>Contents:<\/strong><br \/>\n<ul>\n    <li> Chinese Checkers Board<\/li>\n    <li> 60 Playing Pieces (10 x 6 Colors)<ul>\n        <li> (Some have 15 x 6 Colors with 90 Pieces)<\/li>\n    <\/ul><\/li>\n<\/ul>\n\n<\/p>\n\n","website":{"url":"http:\/\/en.wikipedia.org\/wiki\/Chinese_Checkers","title":"Wikipedia page for Chinese checkers"},"imageid":"113974","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/q4q6P3viQQSXlARfAM82tdAYh7Y=\/fit-in\/200x150\/pic113974.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/sI5hIPeXWk5DojeuniigCm_nURc=\/fit-in\/64x64\/pic113974.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/_Zpe-o8E8kONIWX2WEBmiiimbrc=\/75x75\/pic113974.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/-CSY0PtVssG2TS681r8YTn6SBwg=\/fit-in\/75x75\/pic113974.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/Vu5Rxti_75B3EKeZ9mkaPh3djfs=\/fit-in\/75x125\/pic113974.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/2JHIezmbjpz40a4rd-Qw5e0Bdy8=\/fit-in\/300x320\/pic113974.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/Pjgbo_7-CL28ZHcGSAwFHQzaUzM=\/200x200\/pic113974.jpg"},"imagepagehref":"\/image\/113974\/chinese-checkers","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/D-m1o58T4W_lnHvMisbCAWuCat4=\/fit-in\/246x300\/pic113974.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/eM25vR1UHrUWve3jnolXkwjMCvQ=\/800x375\/filters:quality(30)\/pic285691.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"4"},"images":{"numitems":305},"videos":{"numitems":11}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.12286",
+        "reviewCount": "3944",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/D-m1o58T4W_lnHvMisbCAWuCat4=/fit-in/246x300/pic113974.jpg",
+    "name": "Chinese Checkers",
+    "description": "Hop your marbles as far as you can in this race to cross the hexagram board."
+}
+</script>
+
+</body>
+</html>

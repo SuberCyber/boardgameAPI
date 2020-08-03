@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Ticket to Ride: Märklin | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/21348/ticket-ride-marklin" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Ticket to Ride: Märklin">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/hCtvk-ED4fjOLCGpkG7anzVVT54=/fit-in/445x445/pic162026.jpg" />
+	<meta property="og:title" content="Ticket to Ride: Märklin" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/21348/ticket-ride-marklin" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Build railroad routes across Germany to try to connect valuable destinations." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Ticket to Ride: Märklin" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/CGz8egep7L4NzZGkiNwgfhuSyKI=/fit-in/1200x630/pic162026.jpg" />
+	<meta name="twitter:description" content="Build railroad routes across Germany to try to connect valuable destinations." />
+
+
+	<meta name="description" content="Build railroad routes across Germany to try to connect valuable destinations.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["21348"],"familyid":["8859","8854","8849","13165","21445","10643","5499","17","5497"],"propertyid":["2041","2040","2081","2078","2004","1034","1011"],"personid":["12519","11886","9"],"companyid":["1027"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"294","baverage":"7.10821"},{"prettyname":"Strategy Game Rank","shortprettyname":"Strategy Rank","veryshortprettyname":"Strategy ","subdomain":"strategygames","rankobjecttype":"family","rankobjectid":5497,"rank":"207","baverage":"7.15196"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"44","baverage":"7.18261"}],"polls":{"userplayers":{"best":[{"min":4,"max":4}],"recommended":[{"min":2,"max":5}],"totalvotes":"97"},"playerage":"8+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":2.2440476190476191,"votes":"840"}},"stats":{"usersrated":"8564","average":"7.40881","baverage":"7.10821","stddev":"1.25026","avgweight":"2.244","numweights":"840","numgeeklists":"1628","numtrading":"183","numwanting":"442","numwish":"1586","numowned":"10755","numprevowned":"1184","numcomments":"2089","numwishlistcomments":"201","numhasparts":"9","numwantparts":"12","views":"389393","playmonth":"2020-06","numplays":"15263","numplays_month":"15","numfans":177},"relatedcounts":{"news":1,"blogs":30,"weblink":35,"podcast":8},"itemid":19944,"objecttype":"thing","objectid":21348,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/21348\/ticket-ride-marklin","subtype":"boardgame","subtypes":["boardgame","boardgameimplementation","boardgameintegration"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Ticket to Ride: M\u00e4rklin","alternatename":null,"yearpublished":"2006","minplayers":"2","maxplayers":"5","minplaytime":"30","maxplaytime":"60","minage":"8","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Build railroad routes across Germany to try to connect valuable destinations.","links":{"boardgamedesigner":[{"name":"Alan R. Moon","objecttype":"person","objectid":"9","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/9\/alan-r-moon"}],"boardgameartist":[{"name":"Cyrille Daujean","objecttype":"person","objectid":"12519","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12519\/cyrille-daujean"},{"name":"Julien Delval","objecttype":"person","objectid":"11886","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/11886\/julien-delval"}],"boardgamepublisher":[{"name":"Days of Wonder","objecttype":"company","objectid":"1027","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/1027\/days-wonder"}],"boardgamehonor":[{"name":"2006 Golden Geek Best Family Board Game Nominee","objecttype":"family","objectid":"8859","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/8859\/2006-golden-geek-best-family-board-game-nominee"},{"name":"2006 Golden Geek Best Gamer's Board Game Nominee","objecttype":"family","objectid":"8854","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/8854\/2006-golden-geek-best-gamers-board-game-nominee"},{"name":"2007 Golden Geek Best Family Board Game Nominee","objecttype":"family","objectid":"8849","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/8849\/2007-golden-geek-best-family-board-game-nominee"},{"name":"2009 Hra roku Nominee","objecttype":"family","objectid":"13165","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/13165\/2009-hra-roku-nominee"},{"name":"2009 Juego del A\u00f1o Tico Nominee","objecttype":"family","objectid":"21445","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/21445\/2009-juego-del-ano-tico-nominee"}],"boardgamecategory":[{"name":"Trains","objecttype":"property","objectid":"1034","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1034\/trains"},{"name":"Transportation","objecttype":"property","objectid":"1011","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1011\/transportation"}],"boardgamemechanic":[{"name":"Card Drafting","objecttype":"property","objectid":"2041","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2041\/card-drafting"},{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Network and Route Building","objecttype":"property","objectid":"2081","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2081\/network-and-route-building"},{"name":"Point to Point Movement","objecttype":"property","objectid":"2078","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2078\/point-point-movement"},{"name":"Set Collection","objecttype":"property","objectid":"2004","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2004\/set-collection"}],"boardgameexpansion":[{"name":"Les Aventuriers du rail \u00e0 Lyon (fan expansion to Ticket to Ride)","objecttype":"thing","objectid":"108422","primarylink":0,"itemstate":"approved","href":"\/boardgame\/108422\/les-aventuriers-du-rail-lyon-fan-expansion-ticket"},{"name":"Les Aventuriers du rail en Belgique (fan expansion to Ticket to Ride)","objecttype":"thing","objectid":"120034","primarylink":0,"itemstate":"approved","href":"\/boardgame\/120034\/les-aventuriers-du-rail-en-belgique-fan-expansion"},{"name":"Bretagne (fan expansion for Ticket to Ride)","objecttype":"thing","objectid":"130427","primarylink":0,"itemstate":"approved","href":"\/boardgame\/130427\/bretagne-fan-expansion-ticket-ride"},{"name":"Britain & Ireland (fan expansion to Ticket To Ride: Europe)","objecttype":"thing","objectid":"114528","primarylink":0,"itemstate":"approved","href":"\/boardgame\/114528\/britain-ireland-fan-expansion-ticket-ride-europe"},{"name":"Canada (fan expansion to Ticket to Ride)","objecttype":"thing","objectid":"123300","primarylink":0,"itemstate":"approved","href":"\/boardgame\/123300\/canada-fan-expansion-ticket-ride"},{"name":"Castilla y Le\u00f3n (fan expansion for Ticket to Ride)","objecttype":"thing","objectid":"70712","primarylink":0,"itemstate":"approved","href":"\/boardgame\/70712\/castilla-y-leon-fan-expansion-ticket-ride"}],"boardgameversion":[{"name":"English first edition","objecttype":"version","objectid":"25625","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/25625\/english-first-edition"},{"name":"English second edition","objecttype":"version","objectid":"323210","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/323210\/english-second-edition"},{"name":"French edition","objecttype":"version","objectid":"30399","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/30399\/french-edition"},{"name":"German edition","objecttype":"version","objectid":"26480","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/26480\/german-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[{"name":"Zug um Zug: Deutschland","objecttype":"thing","objectid":"119637","primarylink":0,"itemstate":"approved","href":"\/boardgame\/119637\/zug-um-zug-deutschland"}],"reimplements":[{"name":"Ticket to Ride","objecttype":"thing","objectid":"9209","primarylink":0,"itemstate":"approved","href":"\/boardgame\/9209\/ticket-ride"}],"boardgamefamily":[{"name":"Country: Germany","objecttype":"family","objectid":"10643","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10643\/country-germany"},{"name":"Game: Ticket to Ride","objecttype":"family","objectid":"17","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/17\/game-ticket-ride"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"},{"name":"Strategy Games","objecttype":"family","objectid":"5497","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5497\/strategy-games"}],"boardgameaccessory":[{"name":"Miscellaneous: Premium Wooden Train Token Set","objecttype":"thing","objectid":"139598","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/139598\/miscellaneous-premium-wooden-train-token-set"},{"name":"Miscellaneous: Wooden Train Token Set (50 Pack)","objecttype":"thing","objectid":"139656","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/139656\/miscellaneous-wooden-train-token-set-50-pack"},{"name":"Ticket to Ride: Halloween Freighter","objecttype":"thing","objectid":"138370","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/138370\/ticket-ride-halloween-freighter"}],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":2,"boardgamepublisher":1,"boardgamehonor":5,"boardgamecategory":2,"boardgamemechanic":5,"boardgameexpansion":49,"boardgameversion":4,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":1,"reimplements":1,"boardgamefamily":2,"videogamebg":0,"boardgamesubdomain":2,"boardgameaccessory":3,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":3,"primaryname":{"nameid":"19944","name":"Ticket to Ride: M\u00e4rklin","sortindex":"1","primaryname":"1","translit":"Ticket to Ride: Marklin"},"description":"<p><em><strong>Ticket to Ride: M&auml;rklin<\/strong><\/em> is the third installment in Days of Wonder's best-selling <a class=\"\" href=\"\/wiki\/page\/Ticket_to_Ride_series#\">Ticket to Ride series<\/a>.  The board for <em>M&auml;rklin<\/em> is based on a map of Germany and each individual card in the deck depicts a different M&auml;rklin Trains model.  A DVD introducing players to the M&auml;rklin line of model trains is included [Edit: DVD no longer included in recent runs.]<\/p>\n\n<p><em>M&auml;rklin<\/em> is a heavier version in the <em>TTR<\/em> series, allowing players to not only travel from city to city but also from cities to countries. A new mechanic is also introduced in the form of passengers and merchandise tokens. When the game is set-up a series of merchandise values worth victory points are placed on nominated cities. The values of these tokens diminish when multiple tokens are present within a single city, requiring players to move quickly to capture the higher valued tokens.<\/p>\n\n<p>These tokens can be collected by the players by placing their Passengers (3 per player), which can be achieved at the end of a turn in which a player lays trains to enter the city in question. Once a passenger is in play a player can forfeit their regular turn to move a passenger. Moving along a player's own train network comes at no cost and allows a player to take the top merchandise token from each city that is passed through. A passenger can also move along sections of track featuring other players trains but a passenger card must be paid each time this occurs to do so.<\/p>\n\n<p>The player who completes the most destination tickets receives a 10 point bonus (instead of the base game's longest route bonus).<\/p>\n\n","wiki":"<p><strong><a rel=\"nofollow\" href=\"http:\/\/cdn1.daysofwonder.com\/tickettoride\/en\/img\/tm_rules_en.pdf\" onclick=\"window.open(this.href, '_blank'); return false;\">Rules PDF Link<\/a><\/strong><\/p>\n\n<p><strong>Components:<\/strong><br \/>\n<ul>\n    <li> 1 Board map of Germany with train routes<\/li>\n    <li> 240 Colored Train Cars (45 each in Black, Purple, Red, White and Yellow, plus 3 extra &quot;replacement&quot; cars in each color)<\/li>\n    <li> 15 Passengers (3 each in Black, Purple, Red, White and Yellow)<\/li>\n    <li> 5 Scoring Markers (1 each in Black, Purple, Red, White and Yellow)<\/li>\n    <li> 165 Illustrated cards:<ul>\n        <li> 118 Train Car cards <ul>\n            <li> 88 Regular Train Cards (11 each of Black, Blue, Green, Orange, Purple, Red, White and Yellow<\/li>\n            <li> 14 Locomotives<\/li>\n            <li> 6 Locomotives (+4)<\/li>\n            <li> 10 Passenger Cards <\/li>\n        <\/ul><\/li>\n        <li> 46 Destination Ticket Cards<ul>\n            <li> 23 Short Destination Ticket Cards (Value of 5 to 11)<\/li>\n            <li> 23 Long Destination Ticket Cards (Value of 12 to 22)<\/li>\n        <\/ul><\/li>\n    <\/ul><\/li>\n    <li> 74 Merchandise Tokens:<ul>\n        <li> 16 White Tokens (all numbered 2) <\/li>\n        <li> 36 Yellow Tokens (12 of each numbered 3,2,1)<\/li>\n        <li> 18 Red Tokens (6 of each numbered 4,3,2)<\/li>\n        <li> 4 Black Tokens, numbered 7, 6, 5, 4<\/li>\n    <\/ul><\/li>\n    <li> 1 Most Completed Tickets Bonus Tile (Value of 10)<\/li>\n    <li> 1 Rules Booklet<\/li>\n    <li> 1 Days of Wonder Online Access Number (located on back of Rules)<\/li>\n<\/ul>\n\n<\/p>\n\n<p><strong>History<\/strong><br \/>\n<dl>\n        <dd>2007: Dragonflight Champion Mike Swailes<\/dd>\n<\/dl>\n\n<\/p>\n\n<p><strong>Awards<\/strong><br \/>\n<dl>\n        <dd>2009: <a rel=\"nofollow\" href=\"http:\/\/www.juegosdemesacr.com\/cms\/index.php?option=com_content&amp;task=view&amp;id=205&amp;Itemid=1\" onclick=\"window.open(this.href, '_blank'); return false;\">Juego del A\u00f1o Tico Nominee<\/a>.<\/dd>\n<\/dl>\n\n<\/p>\n\n<p><strong>Microbadges<\/strong><br \/>\n<a href=\"\/microbadge\/5148\"><img alt='Microbadge: Ticket to Ride: M\u00e4rklin Edition fan'  onmouseover=\"return overlib('Ticket to Ride: M\u00e4rklin Edition fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_5148_0.gif\"><\/a> <a href=\"\/microbadge\/5150\"><img alt='Microbadge: Ticket to Ride: M\u00e4rklin Edition fan'  onmouseover=\"return overlib('Ticket to Ride: M\u00e4rklin Edition fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_5150_0.gif\"><\/a> <a href=\"\/microbadge\/23685\"><img alt='Microbadge: Ticket to Ride: M\u00e4rklin Edition fan'  onmouseover=\"return overlib('Ticket to Ride: M\u00e4rklin Edition fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_23685_0.png\"><\/a><\/p>\n\n","website":{"url":false},"imageid":"162026","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/qlKaveJbkaWE1lgIW-ekK8eXGPI=\/fit-in\/200x150\/pic162026.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/q2ZzPAJz7TvPQPQAX8LI7IpQQY4=\/fit-in\/64x64\/pic162026.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/fMFrsBizGbi4bNu4GGat9vZfIXI=\/75x75\/pic162026.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/xHoH9ag1QwhGPPaNayJ2bpXdBJI=\/fit-in\/75x75\/pic162026.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/Pc3wiZgfBsHYV53MP3Q--lbNVD0=\/fit-in\/75x125\/pic162026.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/gchcV8fnQqH3K2U_E583MmcGYtU=\/fit-in\/300x320\/pic162026.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/PylP12IN0-Pjxlfpjf2br-E1W00=\/200x200\/pic162026.jpg"},"imagepagehref":"\/image\/162026\/ticket-ride-marklin","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/yGPIT6AhGTdwS8IzZv1Ryy40ZqY=\/fit-in\/246x300\/pic162026.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/4p-cz-3DeZNZ5gXZerD6O82R_e4=\/800x375\/filters:quality(30)\/pic123709.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"39"},"images":{"numitems":274},"videos":{"numitems":11}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.40881",
+        "reviewCount": "8564",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/yGPIT6AhGTdwS8IzZv1Ryy40ZqY=/fit-in/246x300/pic162026.jpg",
+    "name": "Ticket to Ride: M\u00e4rklin",
+    "description": "Build railroad routes across Germany to try to connect valuable destinations."
+}
+</script>
+
+</body>
+</html>

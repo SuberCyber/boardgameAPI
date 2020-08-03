@@ -1,0 +1,344 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Stratego | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/1917/stratego" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Stratego">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_letterbox/img/usZlm4O1L5EAI4S10RICiGnflNQ=/fit-in/1200x630/filters:fill(auto)/pic25644.jpg" />
+	<meta property="og:title" content="Stratego" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/1917/stratego" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="From the box:
+
+The gameboard is your battlefield.  You have an army of men at your disposal and six bombs.  Your mission--protect your flag and capture your opponent&#039;s flag.
+
+Secretly place your men, bombs, and flag on the gameboard with these objectives in mind.  But remember your opponent is doing the same thing, so you must plan a defense as well as an offense.
+
+Once the armies are in place, advance your men.  When you&#039;re one space away from an enemy, attack.  You and your opponent declare ranks.  The lower-ranking man is captured and out of play.
+
+You control your pieces and risk your men in battles where the strength of your enemy is unknown. The suspense builds as your men move deeper into enemy territory. Move with caution and courage. The next piece you attack could be a bomb.  And when attacked, it could &amp;quot;blast&amp;quot; your man off the board and out of play.
+
+The first to capture an enemy flag is the winner!
+
+This game is similar to, and almost certainly derived directly from, the H.P. Gibsons (UK) game L&#039;Attaque (1909). It is not exactly the same, but not far from it (numbered pieces, spy (same name) can kill the strongest piece but only when attacking, flag, bombs, etc.) This game in turn almost certainly drew on the classic Chinese children&#039;s game Jungle.
+
+Re-implemented by:
+
+     Stratego (Revised Edition) (aka Stratego Fire &amp;amp; Ice)
+     The Generals
+     Stratego Legends
+     Stratego: Star Wars
+     Stratego: Lord of the Rings Trilogy Edition
+     Ultimate Stratego
+     Electronic Stratego
+     Stratego: Marvel Heroes
+     Stratego: Star Wars Saga Edition
+     Stratego: The Chronicles of Narnia
+
+
+
+
+and numerous others.
+
+Similar to:
+
+    Admirals
+    Lu Zhan Jun Qi
+    L&#039;Attaque
+    Attack
+    Batalj
+    Sharpe&#039;s Attack
+
+
+
+
+Different Edition Complications
+When first produced in Europe, the most powerful pieces had higher numbers.  I.e. the Marshall (most powerful piece) was a 10, the General was a 9, and so on.  The higher the rank, the higher the number.
+When they introduced Stratego in the USA, the numbering was reversed, so the Marshall was a 1, the General 2, and so on.  The 1st rank (most powerful) was 1, the second most powerful was 2, 3rd most powerful was 3....
+Then, in 2000s Hasbro re-imagined Stratego in the USA and made a few changes.  They reduced the number of pieces per side (from 40 to 30), added additional powers, and changed the numbering to reflect the European system.
+This caused extreme consternation with many faithful American Stratego fans who preferred the &#039;old way&#039;.  (Actually the second oldest way, but whatever.)  Many of these insist on playing Stratego with the &#039;Marshall 1 system&#039;.
+This wouldn&#039;t be a problem, except any and all discussions of Stratego are fraught with misunderstandings by those who are unaware of dual numbering systems!  Keep this in mind when reading information about Stratego." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Stratego" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/FuHeszG1YklDLaBzHZn9inbO-Tw=/fit-in/1200x630/pic25644.jpg" />
+	<meta name="twitter:description" content="From the box:
+
+The gameboard is your battlefield.  You have an army of men at your disposal and six bombs.  Your mission--protect your flag and capture your opponent&#039;s flag.
+
+Secretly place your men, bombs, and flag on the gameboard with these objectives in mind.  But remember your opponent is doing the same thing, so you must plan a defense as well as an offense.
+
+Once the armies are in place, advance your men.  When you&#039;re one space away from an enemy, attack.  You and your opponent declare ranks.  The lower-ranking man is captured and out of play.
+
+You control your pieces and risk your men in battles where the strength of your enemy is unknown. The suspense builds as your men move deeper into enemy territory. Move with caution and courage. The next piece you attack could be a bomb.  And when attacked, it could &amp;quot;blast&amp;quot; your man off the board and out of play.
+
+The first to capture an enemy flag is the winner!
+
+This game is similar to, and almost certainly derived directly from, the H.P. Gibsons (UK) game L&#039;Attaque (1909). It is not exactly the same, but not far from it (numbered pieces, spy (same name) can kill the strongest piece but only when attacking, flag, bombs, etc.) This game in turn almost certainly drew on the classic Chinese children&#039;s game Jungle.
+
+Re-implemented by:
+
+     Stratego (Revised Edition) (aka Stratego Fire &amp;amp; Ice)
+     The Generals
+     Stratego Legends
+     Stratego: Star Wars
+     Stratego: Lord of the Rings Trilogy Edition
+     Ultimate Stratego
+     Electronic Stratego
+     Stratego: Marvel Heroes
+     Stratego: Star Wars Saga Edition
+     Stratego: The Chronicles of Narnia
+
+
+
+
+and numerous others.
+
+Similar to:
+
+    Admirals
+    Lu Zhan Jun Qi
+    L&#039;Attaque
+    Attack
+    Batalj
+    Sharpe&#039;s Attack
+
+
+
+
+Different Edition Complications
+When first produced in Europe, the most powerful pieces had higher numbers.  I.e. the Marshall (most powerful piece) was a 10, the General was a 9, and so on.  The higher the rank, the higher the number.
+When they introduced Stratego in the USA, the numbering was reversed, so the Marshall was a 1, the General 2, and so on.  The 1st rank (most powerful) was 1, the second most powerful was 2, 3rd most powerful was 3....
+Then, in 2000s Hasbro re-imagined Stratego in the USA and made a few changes.  They reduced the number of pieces per side (from 40 to 30), added additional powers, and changed the numbering to reflect the European system.
+This caused extreme consternation with many faithful American Stratego fans who preferred the &#039;old way&#039;.  (Actually the second oldest way, but whatever.)  Many of these insist on playing Stratego with the &#039;Marshall 1 system&#039;.
+This wouldn&#039;t be a problem, except any and all discussions of Stratego are fraught with misunderstandings by those who are unaware of dual numbering systems!  Keep this in mind when reading information about Stratego." />
+
+
+	<meta name="description" content="From the box:
+
+The gameboard is your battlefield.  You have an army of men at your disposal and six bombs.  Your mission--protect your flag and capture your opponent&#039;s flag.
+
+Secretly place your men, bombs, and flag on the gameboard with these objectives in mind.  But remember your opponent is doing the same thing, so you must plan a defense as well as an offense.
+
+Once the armies are in place, advance your men.  When you&#039;re one space away from an enemy, attack.  You and your opponent declare ranks.  The lower-ranking man is captured and out of play.
+
+You control your pieces and risk your men in battles where the strength of your enemy is unknown. The suspense builds as your men move deeper into enemy territory. Move with caution and courage. The next piece you attack could be a bomb.  And when attacked, it could &amp;quot;blast&amp;quot; your man off the board and out of play.
+
+The first to capture an enemy flag is the winner!
+
+This game is similar to, and almost certainly derived directly from, the H.P. Gibsons (UK) game L&#039;Attaque (1909). It is not exactly the same, but not far from it (numbered pieces, spy (same name) can kill the strongest piece but only when attacking, flag, bombs, etc.) This game in turn almost certainly drew on the classic Chinese children&#039;s game Jungle.
+
+Re-implemented by:
+
+     Stratego (Revised Edition) (aka Stratego Fire &amp;amp; Ice)
+     The Generals
+     Stratego Legends
+     Stratego: Star Wars
+     Stratego: Lord of the Rings Trilogy Edition
+     Ultimate Stratego
+     Electronic Stratego
+     Stratego: Marvel Heroes
+     Stratego: Star Wars Saga Edition
+     Stratego: The Chronicles of Narnia
+
+
+
+
+and numerous others.
+
+Similar to:
+
+    Admirals
+    Lu Zhan Jun Qi
+    L&#039;Attaque
+    Attack
+    Batalj
+    Sharpe&#039;s Attack
+
+
+
+
+Different Edition Complications
+When first produced in Europe, the most powerful pieces had higher numbers.  I.e. the Marshall (most powerful piece) was a 10, the General was a 9, and so on.  The higher the rank, the higher the number.
+When they introduced Stratego in the USA, the numbering was reversed, so the Marshall was a 1, the General 2, and so on.  The 1st rank (most powerful) was 1, the second most powerful was 2, 3rd most powerful was 3....
+Then, in 2000s Hasbro re-imagined Stratego in the USA and made a few changes.  They reduced the number of pieces per side (from 40 to 30), added additional powers, and changed the numbering to reflect the European system.
+This caused extreme consternation with many faithful American Stratego fans who preferred the &#039;old way&#039;.  (Actually the second oldest way, but whatever.)  Many of these insist on playing Stratego with the &#039;Marshall 1 system&#039;.
+This wouldn&#039;t be a problem, except any and all discussions of Stratego are fraught with misunderstandings by those who are unaware of dual numbering systems!  Keep this in mind when reading information about Stratego.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["1917"],"companyid":["1935","3320","5186","14318","4922","847","792","2919","496","1765","1299","1731","7633","51","8505","661","335","5244","2721","20","11107","28","209","22","34882","5086","11720","4933","6492","288","1905","18665","1390","5268","9466","5117","24955"],"familyid":["4666","5499","10149","153"],"propertyid":["1009","1023","1039","1046","2676","2047","1045","1051","2016","2940","1019"],"personid":["17517","46983","11483","56361"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"2515","baverage":"5.96241"},{"prettyname":"Abstract Game Rank","shortprettyname":"Abstract Rank","veryshortprettyname":"Abstract ","subdomain":"abstracts","rankobjecttype":"family","rankobjectid":4666,"rank":"342","baverage":"5.84282"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"869","baverage":"5.94007"}],"polls":{"userplayers":{"best":[{"min":2,"max":2}],"recommended":[{"min":2,"max":2}],"totalvotes":"107"},"playerage":"8+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":1.8534675615212528,"votes":"894"}},"stats":{"usersrated":"13110","average":"6.08274","baverage":"5.96241","stddev":"1.37657","avgweight":"1.8535","numweights":"894","numgeeklists":"2434","numtrading":"539","numwanting":"28","numwish":"394","numowned":"22341","numprevowned":"2256","numcomments":"3277","numwishlistcomments":"57","numhasparts":"25","numwantparts":"30","views":"517429","playmonth":"2020-06","numplays":"17481","numplays_month":"61","numfans":271},"relatedcounts":{"news":1,"blogs":45,"weblink":39,"podcast":3},"itemid":1699,"objecttype":"thing","objectid":1917,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/1917\/stratego","subtype":"boardgame","subtypes":["boardgame","boardgameimplementation"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Stratego","alternatename":null,"yearpublished":"1946","minplayers":"2","maxplayers":"2","minplaytime":"45","maxplaytime":"45","minage":"8","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":null,"links":{"boardgamedesigner":[{"name":"Jacques Johan Mogendorff","objecttype":"person","objectid":"11483","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/11483\/jacques-johan-mogendorff"}],"boardgameartist":[{"name":"Donato Giancola","objecttype":"person","objectid":"17517","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/17517\/donato-giancola"},{"name":"Michael Graves","objecttype":"person","objectid":"46983","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/46983\/michael-graves"},{"name":"Paul Windle","objecttype":"person","objectid":"56361","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/56361\/paul-windle"}],"boardgamepublisher":[{"name":"Carlit","objecttype":"company","objectid":"1935","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/1935\/carlit"},{"name":"(Unknown)","objecttype":"company","objectid":"3320","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/3320\/unknown"},{"name":"4Kidz, Inc.","objecttype":"company","objectid":"5186","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/5186\/4kidz-inc"},{"name":"AS Company","objecttype":"company","objectid":"14318","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/14318\/company"},{"name":"Barnes & Noble","objecttype":"company","objectid":"4922","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/4922\/barnes-noble"},{"name":"Chieftain Products","objecttype":"company","objectid":"847","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/847\/chieftain-products"}],"boardgamehonor":[],"boardgamecategory":[{"name":"Abstract Strategy","objecttype":"property","objectid":"1009","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1009\/abstract-strategy"},{"name":"Bluffing","objecttype":"property","objectid":"1023","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1023\/bluffing"},{"name":"Deduction","objecttype":"property","objectid":"1039","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1039\/deduction"},{"name":"Fighting","objecttype":"property","objectid":"1046","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1046\/fighting"},{"name":"Memory","objecttype":"property","objectid":"1045","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1045\/memory"},{"name":"Napoleonic","objecttype":"property","objectid":"1051","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1051\/napoleonic"}],"boardgamemechanic":[{"name":"Grid Movement","objecttype":"property","objectid":"2676","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2676\/grid-movement"},{"name":"Memory","objecttype":"property","objectid":"2047","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2047\/memory"},{"name":"Secret Unit Deployment","objecttype":"property","objectid":"2016","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2016\/secret-unit-deployment"},{"name":"Square Grid","objecttype":"property","objectid":"2940","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2940\/square-grid"}],"boardgameexpansion":[],"boardgameversion":[{"name":"AS Company\/Jumbo deluxe edition","objecttype":"version","objectid":"220394","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/220394\/companyjumbo-deluxe-edition"},{"name":"Chieftain English-French edition","objecttype":"version","objectid":"256691","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/256691\/chieftain-english-french-edition"},{"name":"Crown & Andrews Australian edition","objecttype":"version","objectid":"149730","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/149730\/crown-andrews-australian-edition"},{"name":"Damm\/Egmont Norwegian edition","objecttype":"version","objectid":"377052","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/377052\/dammegmont-norwegian-edition"},{"name":"danspil Nordic edition","objecttype":"version","objectid":"289066","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/289066\/danspil-nordic-edition"},{"name":"Deluxe 50th anniversary edition","objecttype":"version","objectid":"410473","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/410473\/deluxe-50th-anniversary-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[{"name":"Verkade spel","objecttype":"thing","objectid":"130775","primarylink":0,"itemstate":"approved","href":"\/boardgame\/130775\/verkade-spel"}],"reimplementation":[{"name":"Junior Stratego","objecttype":"thing","objectid":"6272","primarylink":0,"itemstate":"approved","href":"\/boardgame\/6272\/junior-stratego"},{"name":"Pirates! Stratego","objecttype":"thing","objectid":"215227","primarylink":0,"itemstate":"approved","href":"\/boardgame\/215227\/pirates-stratego"},{"name":"Stratego (Revised Edition)","objecttype":"thing","objectid":"40432","primarylink":0,"itemstate":"approved","href":"\/boardgame\/40432\/stratego-revised-edition"},{"name":"Stratego Legends","objecttype":"thing","objectid":"484","primarylink":0,"itemstate":"approved","href":"\/boardgame\/484\/stratego-legends"},{"name":"Stratego Quick Battle","objecttype":"thing","objectid":"197108","primarylink":0,"itemstate":"approved","href":"\/boardgame\/197108\/stratego-quick-battle"},{"name":"Stratego Waterloo","objecttype":"thing","objectid":"174064","primarylink":0,"itemstate":"approved","href":"\/boardgame\/174064\/stratego-waterloo"}],"reimplements":[{"name":"L'Attaque","objecttype":"thing","objectid":"9246","primarylink":0,"itemstate":"approved","href":"\/boardgame\/9246\/lattaque"}],"boardgamefamily":[{"name":"Game: Stratego","objecttype":"family","objectid":"153","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/153\/game-stratego"},{"name":"Series: Nostalgia (Hasbro)","objecttype":"family","objectid":"10149","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10149\/series-nostalgia-hasbro"}],"videogamebg":[{"name":"Stratac","objecttype":"thing","objectid":"300032","primarylink":0,"itemstate":"approved","href":"\/videogame\/300032\/stratac"},{"name":"Stratego","objecttype":"thing","objectid":"94814","primarylink":0,"itemstate":"approved","href":"\/videogame\/94814\/stratego"},{"name":"Stratego Multiplayer Premium","objecttype":"thing","objectid":"240861","primarylink":0,"itemstate":"approved","href":"\/videogame\/240861\/stratego-multiplayer-premium"},{"name":"Stratego Single Player","objecttype":"thing","objectid":"240862","primarylink":0,"itemstate":"approved","href":"\/videogame\/240862\/stratego-single-player"}],"boardgamesubdomain":[{"name":"Abstract Games","objecttype":"family","objectid":"4666","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/4666\/abstract-games"},{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":3,"boardgamepublisher":37,"boardgamehonor":0,"boardgamecategory":7,"boardgamemechanic":4,"boardgameexpansion":0,"boardgameversion":102,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":1,"reimplementation":7,"reimplements":1,"boardgamefamily":2,"videogamebg":4,"boardgamesubdomain":2,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":7,"alternatenamescount":22,"secondarynames":[{"nameid":"20521","name":"Excalibur","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"476218","name":"Mini Stratego","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"41497","name":"Original Stratego","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"734592","name":"Royal Stratego","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"763405","name":"Stratego 50th Anniversary Edition","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"1245198","name":"Stratego Classic","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"524383","name":"Stratego Original","sortindex":"1","primaryname":"0","secondaryname":true}],"primaryname":{"nameid":"1699","name":"Stratego","sortindex":"1","primaryname":"1","translit":"Stratego"},"description":"<p>From the box:<\/p>\n\n<p>The gameboard is your battlefield.  You have an army of men at your disposal and six bombs.  Your mission--protect your flag and capture your opponent's flag.<\/p>\n\n<p>Secretly place your men, bombs, and flag on the gameboard with these objectives in mind.  But remember your opponent is doing the same thing, so you must plan a defense as well as an offense.<\/p>\n\n<p>Once the armies are in place, advance your men.  When you're one space away from an enemy, attack.  You and your opponent declare ranks.  The lower-ranking man is captured and out of play.<\/p>\n\n<p>You control your pieces and risk your men in battles where the strength of your enemy is unknown. The suspense builds as your men move deeper into enemy territory. Move with caution and courage. The next piece you attack could be a bomb.  And when attacked, it could &quot;blast&quot; your man off the board and out of play.<\/p>\n\n<p>The first to capture an enemy flag is the winner!<\/p>\n\n<p>This game is similar to, and almost certainly derived directly from, the H.P. Gibsons (UK) game L'Attaque (1909). It is not exactly the same, but not far from it (numbered pieces, spy (same name) can kill the strongest piece but only when attacking, flag, bombs, etc.) This game in turn almost certainly drew on the classic Chinese children's game <a  href=\"\/boardgame\/4031\/jungle\"   >Jungle<\/a>.<\/p>\n\n<p><strong>Re-implemented by:<\/strong><br \/>\n<ul>\n    <li> <a  href=\"\/boardgame\/40432\/stratego-revised-edition\"   >Stratego (Revised Edition)<\/a> (aka <strong>Stratego Fire &amp; Ice<\/strong>)<\/li>\n    <li> <a  href=\"\/boardgame\/2728\/generals\"   >The Generals<\/a><\/li>\n    <li> <a  href=\"\/boardgame\/484\/stratego-legends\"   >Stratego Legends<\/a><\/li>\n    <li> <a  href=\"\/boardgame\/3385\/stratego-star-wars\"   >Stratego: Star Wars<\/a><\/li>\n    <li> <a  href=\"\/boardgame\/11385\/stratego-lord-rings-trilogy-edition\"   >Stratego: Lord of the Rings Trilogy Edition<\/a><\/li>\n    <li> <a  href=\"\/boardgame\/2265\/ultimate-stratego\"   >Ultimate Stratego<\/a><\/li>\n    <li> <a  href=\"\/boardgame\/3513\/electronic-stratego\"   >Electronic Stratego<\/a><\/li>\n    <li> <a  href=\"\/boardgame\/24704\/stratego-marvel-heroes\"   >Stratego: Marvel Heroes<\/a><\/li>\n    <li> <a  href=\"\/boardgame\/21036\/stratego-star-wars-saga-edition\"   >Stratego: Star Wars Saga Edition<\/a><\/li>\n    <li> <a  href=\"\/boardgame\/20848\/stratego-chronicles-narnia\"   >Stratego: The Chronicles of Narnia<\/a><\/li>\n<\/ul>\n\n<\/p>\n\n<p>and <a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/geeksearch.php?action=search&amp;objecttype=boardgame&amp;q=stratego&amp;B1=Go\" onclick=\"window.open(this.href, '_blank'); return false;\">numerous others<\/a>.<\/p>\n\n<p><strong>Similar to:<\/strong><br \/>\n<ul>\n    <li><a  href=\"\/boardgame\/2942\/admirals\"   >Admirals<\/a><\/li>\n    <li><a  href=\"\/boardgame\/8909\/lu-zhan-jun-qi\"   >Lu Zhan Jun Qi<\/a><\/li>\n    <li><a  href=\"\/boardgame\/9246\/lattaque\"   >L'Attaque<\/a><\/li>\n    <li><a  href=\"\/boardgame\/247944\/attack\"   >Attack<\/a><\/li>\n    <li><a  href=\"\/boardgame\/66586\/batalj\"   >Batalj<\/a><\/li>\n    <li><a  href=\"\/boardgame\/3382\/sharpes-attack\"   >Sharpe's Attack<\/a><\/li>\n<\/ul>\n\n<\/p>\n\n<p><strong>Different Edition Complications<\/strong><br \/>\nWhen first produced in Europe, the most powerful pieces had higher numbers.  I.e. the Marshall (most powerful piece) was a 10, the General was a 9, and so on.  The higher the rank, the higher the number.<br \/>\nWhen they introduced Stratego in the USA, the numbering was reversed, so the Marshall was a 1, the General 2, and so on.  The 1st rank (most powerful) was 1, the second most powerful was 2, 3rd most powerful was 3....<br \/>\nThen, in 2000s Hasbro re-imagined Stratego in the USA and made a few changes.  They reduced the number of pieces per side (from 40 to 30), added additional powers, and changed the numbering to reflect the European system.<br \/>\nThis caused extreme consternation with many faithful American Stratego fans who preferred the 'old way'.  (Actually the second oldest way, but whatever.)  Many of these insist on playing Stratego with the 'Marshall 1 system'.<br \/>\nThis wouldn't be a problem, except any and all discussions of Stratego are fraught with misunderstandings by those who are unaware of dual numbering systems!  Keep this in mind when reading information about Stratego.<\/p>\n\n","wiki":"<p><strong>Awards<\/strong><br \/>\n<ul>\n    <li> <a class=\"\" href=\"\/wiki\/page\/Games_Magazine_Hall_of_Fame#\">Games Magazine Hall of Fame<\/a> Inductee.<\/li>\n<\/ul>\n\n<\/p>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Online_Play#\">Online Play<\/a><\/strong><br \/>\n<ul>\n    <li> <a class=\"\" href=\"\/wiki\/page\/Metaforge#\">Metaforge<\/a> (real-time vs. humans or computer)<\/li>\n    <li> <a class=\"\" href=\"\/wiki\/page\/Gravon#\">Gravon<\/a> (real-time)<\/li>\n    <li> <a rel=\"nofollow\" href=\"http:\/\/www.windowsgames.co.uk\/thegeneral.html\" onclick=\"window.open(this.href, '_blank'); return false;\">http:\/\/www.windowsgames.co.uk\/thegeneral.html<\/a> (download, play versus computer)<\/li>\n    <li> <a rel=\"nofollow\" href=\"http:\/\/www.stratego.com\/play\/\" onclick=\"window.open(this.href, '_blank'); return false;\">http:\/\/www.stratego.com\/play\/<\/a> (real-time vs. humans or computer)<\/li>\n<\/ul>\n\n<\/p>\n\n<p><strong>Contents:<\/strong><br \/>\n<ul>\n    <li> Gameboard<\/li>\n    <li> 40 Red Army Pieces<\/li>\n    <li> 40 Blue Army Pieces<\/li>\n    <li> Display Tray<\/li>\n    <li> Instructions<\/li>\n    <li> Assembly Items:<ul>\n        <li> Label Sheet<\/li>\n    <\/ul><\/li>\n<\/ul>\n\n<\/p>\n\n<hr \/>\n<p><strong>Magazine References:<\/strong><br \/>\n<a class=\"\" href=\"\/wiki\/page\/BattlePlan_Index#\">BattlePlan Index<\/a>  Article List:<br \/>\n<ul>\n    <li><a class=\"\" href=\"\/wiki\/page\/Battleplan%2CNo.2#\">Battleplan,No.2<\/a> November-December 1987<ul>\n        <li><a  href=\"\/boardgame\/1917\/stratego\"   >Stratego<\/a> - &quot;<a  href=\"\/boardgame\/1917\/stratego\"   >Stratego<\/a> Strategy&quot;, Bob McClean<\/li>\n    <\/ul><\/li>\n<\/ul>\n\n<\/p>\n\n<hr \/>\n<p><strong>Microbadges:<\/strong><br \/>\n<a href=\"\/microbadge\/4210\"><img alt='Microbadge: Stratego fan'  onmouseover=\"return overlib('Stratego fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_4210_0.gif\"><\/a> <a href=\"\/microbadge\/4211\"><img alt='Microbadge: Stratego fan'  onmouseover=\"return overlib('Stratego fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_4211_0.gif\"><\/a> <a href=\"\/microbadge\/5057\"><img alt='Microbadge: Stratego fan'  onmouseover=\"return overlib('Stratego fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_5057_0.gif\"><\/a><\/p>\n\n","website":{"url":false},"imageid":"25644","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/pZuKRJQyavk2AFTdUsGSp8vDWfo=\/fit-in\/200x150\/pic25644.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/n-a3D1scBjHQkQ54OyeX5x0Wv1c=\/fit-in\/64x64\/pic25644.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/8qigP8c7unGHB_bnZjgLvftciIw=\/75x75\/pic25644.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/BqsgXbiteYNHmbYLaLh01kar2wo=\/fit-in\/75x75\/pic25644.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/EPqtmK8tfXNwbhDoutq75QEwLMY=\/fit-in\/75x125\/pic25644.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/fUDMPRHZ5JwTi1gHDrJKikCRsL8=\/fit-in\/300x320\/pic25644.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/Pt7fB_0D3ZU_qvA297PZrtWKuL4=\/200x200\/pic25644.jpg"},"imagepagehref":"\/image\/25644\/stratego","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/3Y4N5DV0fF6H9g_Rqw_eiQfKJps=\/fit-in\/246x300\/pic25644.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/K6KWka3IsbWf-0bbs3CZauZyqiQ=\/800x375\/filters:quality(30)\/pic216056.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"3"},"images":{"numitems":690},"videos":{"numitems":43}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.08274",
+        "reviewCount": "13110",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/3Y4N5DV0fF6H9g_Rqw_eiQfKJps=/fit-in/246x300/pic25644.jpg",
+    "name": "Stratego"
+}
+</script>
+
+</body>
+</html>

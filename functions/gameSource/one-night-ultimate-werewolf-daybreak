@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>One Night Ultimate Werewolf Daybreak | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/163166/one-night-ultimate-werewolf-daybreak" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="One Night Ultimate Werewolf Daybreak">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_letterbox/img/uZfhBDkIzHA_s2i6yJ61LT3D8XY=/fit-in/1200x630/filters:fill(auto)/pic2225958.jpg" />
+	<meta property="og:title" content="One Night Ultimate Werewolf Daybreak" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/163166/one-night-ultimate-werewolf-daybreak" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="No ordinary game of Werewolf as now everyone has special roles. Werewolves beware!" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="One Night Ultimate Werewolf Daybreak" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/uA7ko8LBeB10ISnZNKlMtY_Gvq8=/fit-in/1200x630/pic2225958.jpg" />
+	<meta name="twitter:description" content="No ordinary game of Werewolf as now everyone has special roles. Werewolves beware!" />
+
+
+	<meta name="description" content="No ordinary game of Werewolf as now everyone has special roles. Werewolves beware!">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["163166"],"familyid":["34507","8374","27945","5498","2989"],"personid":["6046","70607","69462"],"companyid":["5774","23756","41167","34","33998","4932"],"propertyid":["1023","1002","1039","1024","1030","2028","2814","2015","2017"],"temp_co":["hot"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"481","baverage":"6.89296"},{"prettyname":"Party Game Rank","shortprettyname":"Party Rank","veryshortprettyname":"Party ","subdomain":"partygames","rankobjecttype":"family","rankobjectid":5498,"rank":"18","baverage":"7.16012"}],"polls":{"userplayers":{"best":[{"min":5,"max":7},{"min":8,"max":null}],"recommended":[{"min":4,"max":7},{"min":8,"max":null}],"totalvotes":"23"},"playerage":"8+","languagedependence":"Some necessary text - easily memorized or small crib sheet","subdomain":"","boardgameweight":{"averageweight":1.4395604395604396,"votes":"91"}},"stats":{"usersrated":"4510","average":"7.39471","baverage":"6.89296","stddev":"1.53216","avgweight":"1.4396","numweights":"91","numgeeklists":"412","numtrading":"178","numwanting":"88","numwish":"799","numowned":"11226","numprevowned":"486","numcomments":"789","numwishlistcomments":"115","numhasparts":"2","numwantparts":"5","views":"274494","playmonth":"2020-06","numplays":"12866","numplays_month":"16","numfans":153},"relatedcounts":{"news":2,"blogs":29,"weblink":7,"podcast":9},"itemid":1201777,"objecttype":"thing","objectid":163166,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/163166\/one-night-ultimate-werewolf-daybreak","subtype":"boardgame","subtypes":["boardgame","boardgameintegration"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"One Night Ultimate Werewolf Daybreak","alternatename":null,"yearpublished":"2015","minplayers":"3","maxplayers":"7","minplaytime":"10","maxplaytime":"10","minage":"8","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":"56144","playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"No ordinary game of Werewolf as now everyone has special roles. Werewolves beware!","links":{"boardgamedesigner":[{"name":"Ted Alspach","objecttype":"person","objectid":"6046","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/6046\/ted-alspach"},{"name":"Akihisa Okui","objecttype":"person","objectid":"69462","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/69462\/akihisa-okui"}],"boardgameartist":[{"name":"Gus Batts","objecttype":"person","objectid":"70607","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/70607\/gus-batts"}],"boardgamepublisher":[{"name":"B\u00e9zier Games","objecttype":"company","objectid":"5774","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/5774\/bezier-games"},{"name":"MYBG Co., Ltd.","objecttype":"company","objectid":"23756","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/23756\/mybg-co-ltd"},{"name":"Popcorn Games","objecttype":"company","objectid":"41167","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/41167\/popcorn-games"},{"name":"Ravensburger Spieleverlag GmbH","objecttype":"company","objectid":"34","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/34\/ravensburger-spieleverlag-gmbh"},{"name":"Siam Board Games","objecttype":"company","objectid":"33998","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/33998\/siam-board-games"},{"name":"White Goblin Games","objecttype":"company","objectid":"4932","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/4932\/white-goblin-games"}],"boardgamehonor":[{"name":"2015 Golden Geek Best Party Board Game Nominee","objecttype":"family","objectid":"34507","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/34507\/2015-golden-geek-best-party-board-game-nominee"}],"boardgamecategory":[{"name":"Bluffing","objecttype":"property","objectid":"1023","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1023\/bluffing"},{"name":"Card Game","objecttype":"property","objectid":"1002","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1002\/card-game"},{"name":"Deduction","objecttype":"property","objectid":"1039","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1039\/deduction"},{"name":"Horror","objecttype":"property","objectid":"1024","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1024\/horror"},{"name":"Party Game","objecttype":"property","objectid":"1030","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1030\/party-game"}],"boardgamemechanic":[{"name":"Role Playing","objecttype":"property","objectid":"2028","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2028\/role-playing"},{"name":"Traitor Game","objecttype":"property","objectid":"2814","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2814\/traitor-game"},{"name":"Variable Player Powers","objecttype":"property","objectid":"2015","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2015\/variable-player-powers"},{"name":"Voting","objecttype":"property","objectid":"2017","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2017\/voting"}],"boardgameexpansion":[{"name":"One Night Ultimate Werewolf: Bonus Pack 1","objecttype":"thing","objectid":"168633","primarylink":0,"itemstate":"approved","href":"\/boardgame\/168633\/one-night-ultimate-werewolf-bonus-pack-1"},{"name":"One Night Ultimate Werewolf: Bonus Pack 2","objecttype":"thing","objectid":"184075","primarylink":0,"itemstate":"approved","href":"\/boardgame\/184075\/one-night-ultimate-werewolf-bonus-pack-2"},{"name":"One Night Ultimate Werewolf: Bonus Pack 3","objecttype":"thing","objectid":"228578","primarylink":0,"itemstate":"approved","href":"\/boardgame\/228578\/one-night-ultimate-werewolf-bonus-pack-3"},{"name":"One Night Ultimate: Bonus Roles","objecttype":"thing","objectid":"287145","primarylink":0,"itemstate":"approved","href":"\/boardgame\/287145\/one-night-ultimate-bonus-roles"},{"name":"Werw\u00f6lfe Vollmondnacht: Der Prinz","objecttype":"thing","objectid":"186273","primarylink":0,"itemstate":"approved","href":"\/boardgame\/186273\/werwolfe-vollmondnacht-der-prinz"},{"name":"Werw\u00f6lfe Vollmondnacht: Nachwuchs-Gerber","objecttype":"thing","objectid":"267734","primarylink":0,"itemstate":"approved","href":"\/boardgame\/267734\/werwolfe-vollmondnacht-nachwuchs-gerber"}],"boardgameversion":[{"name":"Chinese edition","objecttype":"version","objectid":"454055","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/454055\/chinese-edition"},{"name":"Dutch edition","objecttype":"version","objectid":"281359","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/281359\/dutch-edition"},{"name":"English first edition","objecttype":"version","objectid":"247207","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/247207\/english-first-edition"},{"name":"English fourth edition","objecttype":"version","objectid":"485991","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/485991\/english-fourth-edition"},{"name":"English second edition","objecttype":"version","objectid":"412132","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/412132\/english-second-edition"},{"name":"French edition","objecttype":"version","objectid":"330105","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/330105\/french-edition"}],"expandsboardgame":[],"boardgameintegration":[{"name":"One Night Ultimate Alien","objecttype":"thing","objectid":"204431","primarylink":0,"itemstate":"approved","href":"\/boardgame\/204431\/one-night-ultimate-alien"},{"name":"One Night Ultimate Super Heroes","objecttype":"thing","objectid":"286927","primarylink":0,"itemstate":"approved","href":"\/boardgame\/286927\/one-night-ultimate-super-heroes"},{"name":"One Night Ultimate Super Villains","objecttype":"thing","objectid":"255293","primarylink":0,"itemstate":"approved","href":"\/boardgame\/255293\/one-night-ultimate-super-villains"},{"name":"One Night Ultimate Vampire","objecttype":"thing","objectid":"180956","primarylink":0,"itemstate":"approved","href":"\/boardgame\/180956\/one-night-ultimate-vampire"},{"name":"One Night Ultimate Werewolf","objecttype":"thing","objectid":"147949","primarylink":0,"itemstate":"approved","href":"\/boardgame\/147949\/one-night-ultimate-werewolf"}],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[],"boardgamefamily":[{"name":"Crowdfunding: Kickstarter","objecttype":"family","objectid":"8374","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/8374\/crowdfunding-kickstarter"},{"name":"Game: Werewolf \/ Mafia","objecttype":"family","objectid":"2989","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/2989\/game-werewolf-mafia"},{"name":"One Night","objecttype":"family","objectid":"27945","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/27945\/one-night"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Party Games","objecttype":"family","objectid":"5498","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5498\/party-games"}],"boardgameaccessory":[{"name":"One Night Ultimate Werewolf Daybreak: Playmat","objecttype":"thing","objectid":"170112","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/170112\/one-night-ultimate-werewolf-daybreak-playmat"},{"name":"One Night Ultimate Werewolf: One Night Collection Game Crate","objecttype":"thing","objectid":"272843","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/272843\/one-night-ultimate-werewolf-one-night-collection-g"},{"name":"One Night Ultimate Werewolf: One Night Collection Game Crate \u2013 Extra Dividers","objecttype":"thing","objectid":"274772","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/274772\/one-night-ultimate-werewolf-one-night-collection-g"}],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":2,"boardgameartist":1,"boardgamepublisher":6,"boardgamehonor":1,"boardgamecategory":5,"boardgamemechanic":4,"boardgameexpansion":6,"boardgameversion":9,"expandsboardgame":0,"boardgameintegration":5,"contains":0,"containedin":0,"reimplementation":0,"reimplements":0,"boardgamefamily":3,"videogamebg":0,"boardgamesubdomain":1,"boardgameaccessory":3,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":6,"primaryname":{"nameid":"903555","name":"One Night Ultimate Werewolf Daybreak","sortindex":"1","primaryname":"1","translit":"One Night Ultimate Werewolf Daybreak"},"description":"<p><em><strong>One Night Ultimate Werewolf Daybreak<\/strong><\/em> is a fast game for 3-7 players in which everyone gets a hidden role, each with a special ability. (No plain &quot;villagers&quot; here!) In the course of a single morning, your village will decide who among them is a werewolf...because all it takes is finding one werewolf to win!<\/p>\n\n<p><em>Daybreak<\/em> includes eleven new roles, and it can be played on its own or combined with the original <a  href=\"\/boardgame\/147949\/one-night-ultimate-werewolf\"   >One Night Ultimate Werewolf<\/a> game; when combined, you can have up to ten players in a single game.<\/p>\n\n","wiki":"<p><strong><a class=\"\" href=\"\/wiki\/page\/Microbadge#\">Microbadge<\/a><\/strong><\/p>\n\n<p><a href=\"\/microbadge\/33021\"><img alt='Microbadge: One Night Ultimate Werewolf Daybreak fan'  onmouseover=\"return overlib('One Night Ultimate Werewolf Daybreak fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_33021_0.png\"><\/a> - <em>One Night Ultimate Werewolf Daybreak<\/em> fan<\/p>\n\n<p><strong>Sleeves<\/strong><br \/>\nThe card backs of various printings of this game and One Night Ultimate Werewolf are all distinct, and therefore it is highly encouraged for people to sleeve their game with opaque sleeves.  For ONUW and Daybreak, you want 59 x 92 mm sleeves then trim the tops.  Mayday happens to sell black-colored opaque sleeves in this size: MDG-7042, &quot;Euro Card Sleeves - Black&quot;. <a rel=\"nofollow\" href=\"https:\/\/maydaygames.com\/euro-card-sleeves-black.html\" onclick=\"window.open(this.href, '_blank'); return false;\">https:\/\/maydaygames.com\/euro-card-sleeves-black.html<\/a><\/p>\n\n<p><a class='anchor-target' name=\"Contents\"><\/a>\t\t\t\t<a class=\"anchor-target\" id=\"toc0\"><\/a>\n\t\t\t\t<div>\n\t\t\t\t\t<h3>Contents:<\/h3><\/p>\n\n<ul>\n    <li>11 Character Cards<\/li>\n    <li>11 Character Tokens<\/li>\n    <li>2 Sentinel Tokens<\/li>\n    <li>6 Artifact Tokens<\/li>\n    <li>1 Rulebook<\/li>\n    <li>1 Getting Started Guide<\/li>\n<\/ul>\n\n<\/div><\/div>","website":{"url":"https:\/\/beziergames.com\/collections\/one-night-ultimate-werewolf\/products\/daybreak","title":"Bezier Games - One Night Ultimate Werewolf Daybreak"},"imageid":"2225958","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/Eanbyzhr7UKIu2k-rg9Nah4ebrs=\/fit-in\/200x150\/pic2225958.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/qGCAfKaeH-sgsaoQlCQ3mJQ-l1A=\/fit-in\/64x64\/pic2225958.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/hW4fFxwXil_X-a8ngsxzyxpL3m4=\/75x75\/pic2225958.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/TsX2vTIxq0AsJH1H9GNB-caUY3Q=\/fit-in\/75x75\/pic2225958.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/BFGDo5P8Z8qCNV7g7uHikNfz2wE=\/fit-in\/75x125\/pic2225958.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/shxOb-L5Y8l-cWIpCmPPe9-BDlI=\/fit-in\/300x320\/pic2225958.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/ywJ9DcK5DtGdjtAvl8Ig0-XKIBk=\/200x200\/pic2225958.jpg"},"imagepagehref":"\/image\/2225958\/one-night-ultimate-werewolf-daybreak","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/TgmjAXTdHU-Q4BLZkhIStix2nPI=\/fit-in\/246x300\/pic2225958.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/zVKafV5twfOOsaOFYPDtin_42Fg=\/800x375\/filters:quality(30)\/pic2225959.jpg","itemstate":"approved","promoted_ad":null,"special_user":null,"summary_video":{"id":"56144","type":"videos","videoid":56144,"title":"Overview of One Night Ultimate Werewolf Daybreak from designer Ted Alspach at Spiel 2014","description":"Overview of [b][i]One Night Ultimate Werewolf Daybreak[\/i][\/b] from designer Ted Alspach in the BGG booth at Spiel 2014.","descriptionXml":"<?xml version=\"1.0\"?>\n<xml><safehtml>Overview of &lt;strong&gt;&lt;em&gt;One Night Ultimate Werewolf Daybreak&lt;\/em&gt;&lt;\/strong&gt; from designer Ted Alspach in the BGG booth at Spiel 2014.<\/safehtml><\/xml>\n","postdate":"2014-10-27T13:48:40+00:00","gallery":"interview","submitter":15734,"hidden":false,"blocks_ads":false,"language":{"name":"English","id":"eng","type":"languages"},"source":{"type":"things","id":"163166"},"video":{"host":"youtube","id":"IzSRPAmSIbw"},"href":"\/video\/56144\/one-night-ultimate-werewolf-daybreak\/overview-one-night-ultimate-werewolf-daybreak-desi","canonical_link":"https:\/\/boardgamegeek.com\/video\/56144\/one-night-ultimate-werewolf-daybreak\/overview-one-night-ultimate-werewolf-daybreak-desi","browse_href":"\/boardgame\/163166\/one-night-ultimate-werewolf-daybreak\/videos\/all","links":[{"rel":"self","uri":"\/api\/videos\/56144"},{"rel":"thumbs.total","uri":"\/api\/videos\/56144\/reactions?totalonly=1"},{"rel":"thumbs","uri":"\/api\/videos\/56144\/reactions"},{"rel":"tips","uri":"\/api\/videos\/56144\/tips"},{"rel":"tips.total","uri":"\/api\/videos\/56144\/tips?totalonly=1"},{"rel":"comments","uri":"\/api\/videos\/56144\/comments"}]}},"media":{"files":{"numitems":"13"},"images":{"numitems":51},"videos":{"numitems":23}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.39471",
+        "reviewCount": "4510",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/TgmjAXTdHU-Q4BLZkhIStix2nPI=/fit-in/246x300/pic2225958.jpg",
+    "name": "One Night Ultimate Werewolf Daybreak",
+    "description": "No ordinary game of Werewolf as now everyone has special roles. Werewolves beware!"
+}
+</script>
+
+</body>
+</html>

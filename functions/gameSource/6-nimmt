@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>6 nimmt! | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/432/6-nimmt" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="6 nimmt!">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph/img/oL1d_-VJSSOIWaf3drqniEFa5Vc=/fit-in/1200x630/pic2602138.jpg" />
+	<meta property="og:title" content="6 nimmt!" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/432/6-nimmt" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Choose sequential cards for rows simultaneously, but avoid adding the 6th card!" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="6 nimmt!" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/oL1d_-VJSSOIWaf3drqniEFa5Vc=/fit-in/1200x630/pic2602138.jpg" />
+	<meta name="twitter:description" content="Choose sequential cards for rows simultaneously, but avoid adding the 6th card!" />
+
+
+	<meta name="description" content="Choose sequential cards for rows simultaneously, but avoid adding the 6th card!">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["432"],"companyid":["8","267","4304","157","7162","26638","2378","485","4819","562","33618","8845","155","6214","405","5640","8291","3218","9325","10","7772","3395","3504","5320","2891","22","2956","9234","55","38709"],"personid":["3","102034","44835","35690","7","65231","11883"],"familyid":["19837","8954","8681","12343","13157","19191","19923","7530","5499","6485","5012"],"temp_co":["hot"],"propertyid":["1002","2040","2871","2823","2020"],"temp_ppl":["hot"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"606","baverage":"6.77798"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"160","baverage":"6.80202"}],"polls":{"userplayers":{"best":[{"min":5,"max":6}],"recommended":[{"min":4,"max":10}],"totalvotes":"357"},"playerage":"8+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":1.2146974063400577,"votes":"1388"}},"stats":{"usersrated":"18488","average":"6.90601","baverage":"6.77798","stddev":"1.25193","avgweight":"1.2147","numweights":"1388","numgeeklists":"3130","numtrading":"285","numwanting":"273","numwish":"1397","numowned":"25372","numprevowned":"1118","numcomments":"4315","numwishlistcomments":"293","numhasparts":"13","numwantparts":"5","views":"593815","playmonth":"2020-06","numplays":"125825","numplays_month":"1423","numfans":274},"relatedcounts":{"news":6,"blogs":219,"weblink":73,"podcast":20},"itemid":390,"objecttype":"thing","objectid":432,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/432\/6-nimmt","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"6 nimmt!","alternatename":null,"yearpublished":"1994","minplayers":"2","maxplayers":"10","minplaytime":"45","maxplaytime":"45","minage":"8","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Choose sequential cards for rows simultaneously, but avoid adding the 6th card!","links":{"boardgamedesigner":[{"name":"Wolfgang Kramer","objecttype":"person","objectid":"7","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/7\/wolfgang-kramer"}],"boardgameartist":[{"name":"(Uncredited)","objecttype":"person","objectid":"3","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/3\/uncredited"},{"name":"Timur Baskakov","objecttype":"person","objectid":"102034","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/102034\/timur-baskakov"},{"name":"Design Edge","objecttype":"person","objectid":"44835","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/44835\/design-edge"},{"name":"Bill Herrin","objecttype":"person","objectid":"35690","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/35690\/bill-herrin"},{"name":"Gatis Sluka","objecttype":"person","objectid":"65231","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/65231\/gatis-sluka"},{"name":"Franz Vohwinkel","objecttype":"person","objectid":"11883","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/11883\/franz-vohwinkel"}],"boardgamepublisher":[{"name":"AMIGO","objecttype":"company","objectid":"8","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/8\/amigo"},{"name":"999 Games","objecttype":"company","objectid":"267","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/267\/999-games"},{"name":"Albi","objecttype":"company","objectid":"4304","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/4304\/albi"},{"name":"Asmodee","objecttype":"company","objectid":"157","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/157\/asmodee"},{"name":"Brain Games","objecttype":"company","objectid":"7162","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/7162\/brain-games"},{"name":"Bureau De Juegos","objecttype":"company","objectid":"26638","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/26638\/bureau-de-juegos"}],"boardgamehonor":[{"name":"1994 Deutscher Spiele Preis Best Family\/Adult Game Winner","objecttype":"family","objectid":"19837","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/19837\/1994-deutscher-spiele-preis-best-familyadult-game"},{"name":"1994 Fairplay \u00c0 la carte Winner","objecttype":"family","objectid":"8954","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/8954\/1994-fairplay-la-carte-winner"},{"name":"1994 Spiel des Jahres Recommended","objecttype":"family","objectid":"8681","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/8681\/1994-spiel-des-jahres-recommended"},{"name":"1996 Mensa Select Winner","objecttype":"family","objectid":"12343","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/12343\/1996-mensa-select-winner"},{"name":"2005 Hra roku Nominee","objecttype":"family","objectid":"13157","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/13157\/2005-hra-roku-nominee"},{"name":"2006 Japan Boardgame Prize Best Japanese Game Nominee","objecttype":"family","objectid":"19191","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/19191\/2006-japan-boardgame-prize-best-japanese-game-nomi"}],"boardgamecategory":[{"name":"Card Game","objecttype":"property","objectid":"1002","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1002\/card-game"}],"boardgamemechanic":[{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Kill Steal","objecttype":"property","objectid":"2871","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2871\/kill-steal"},{"name":"Score-and-Reset Game","objecttype":"property","objectid":"2823","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2823\/score-and-reset-game"},{"name":"Simultaneous Action Selection","objecttype":"property","objectid":"2020","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2020\/simultaneous-action-selection"}],"boardgameexpansion":[{"name":"6 nimmt! Plus","objecttype":"thing","objectid":"20030","primarylink":0,"itemstate":"approved","href":"\/boardgame\/20030\/6-nimmt-plus"},{"name":"6 nimmt!: Luggage Promo Card","objecttype":"thing","objectid":"163187","primarylink":0,"itemstate":"approved","href":"\/boardgame\/163187\/6-nimmt-luggage-promo-card"},{"name":"6 qui prend!: L'extension vachement bien","objecttype":"thing","objectid":"228784","primarylink":0,"itemstate":"approved","href":"\/boardgame\/228784\/6-qui-prend-lextension-vachement-bien"}],"boardgameversion":[{"name":"999 Dutch edition 2016","objecttype":"version","objectid":"390930","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/390930\/999-dutch-edition-2016"},{"name":"999 Games Dutch edition 2002","objecttype":"version","objectid":"25269","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/25269\/999-games-dutch-edition-2002"},{"name":"999 Games Dutch edition with SpielePreis logo","objecttype":"version","objectid":"216067","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/216067\/999-games-dutch-edition-spielepreis-logo"},{"name":"999 Games Dutch second edition","objecttype":"version","objectid":"242467","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/242467\/999-games-dutch-second-edition"},{"name":"Albi Czech edition","objecttype":"version","objectid":"20531","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/20531\/albi-czech-edition"},{"name":"AMIGO Chinese edition","objecttype":"version","objectid":"108387","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/108387\/amigo-chinese-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[{"name":"Take 5 & Take A Number","objecttype":"thing","objectid":"246912","primarylink":0,"itemstate":"approved","href":"\/boardgame\/246912\/take-5-take-number"}],"reimplementation":[{"name":"11 nimmt!","objecttype":"thing","objectid":"63706","primarylink":0,"itemstate":"approved","href":"\/boardgame\/63706\/11-nimmt"},{"name":"6 nimmt! 25 Jahre","objecttype":"thing","objectid":"268586","primarylink":0,"itemstate":"approved","href":"\/boardgame\/268586\/6-nimmt-25-jahre"},{"name":"6 nimmt! Brettspiel","objecttype":"thing","objectid":"286533","primarylink":0,"itemstate":"approved","href":"\/boardgame\/286533\/6-nimmt-brettspiel"},{"name":"6 nimmt! Junior","objecttype":"thing","objectid":"40958","primarylink":0,"itemstate":"approved","href":"\/boardgame\/40958\/6-nimmt-junior"},{"name":"Slide 5","objecttype":"thing","objectid":"31503","primarylink":0,"itemstate":"approved","href":"\/boardgame\/31503\/slide-5"},{"name":"Take 5!","objecttype":"thing","objectid":"153","primarylink":0,"itemstate":"approved","href":"\/boardgame\/153\/take-5"}],"reimplements":[],"boardgamefamily":[{"name":"Animals: Cattle \/ Cows","objecttype":"family","objectid":"7530","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/7530\/animals-cattle-cows"},{"name":"Game: 6 nimmt!","objecttype":"family","objectid":"5012","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/5012\/game-6-nimmt"},{"name":"Mensa Select","objecttype":"family","objectid":"6485","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/6485\/mensa-select"}],"videogamebg":[{"name":"6 Takes!","objecttype":"thing","objectid":"186923","primarylink":0,"itemstate":"approved","href":"\/videogame\/186923\/6-takes"}],"boardgamesubdomain":[{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":6,"boardgamepublisher":30,"boardgamehonor":7,"boardgamecategory":1,"boardgamemechanic":4,"boardgameexpansion":3,"boardgameversion":67,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":1,"reimplementation":8,"reimplements":0,"boardgamefamily":3,"videogamebg":1,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":5,"alternatenamescount":36,"primaryname":{"nameid":"43294","name":"6 nimmt!","sortindex":"1","primaryname":"1","translit":"6 nimmt!"},"secondarynames":[{"nameid":"306979","name":"6 qui prend!","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"234556","name":"6 takes","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"390","name":"Category 5","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"40331","name":"Take 6","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"1019165","name":"Take 6!","sortindex":"1","primaryname":"0","secondaryname":true}],"description":"<p>In <em><strong>6 nimmt!<\/strong><\/em>, a.k.a. <em>Category 5<\/em> and many other names, you want to score as few points as possible.<\/p>\n\n<p>To play the game, you shuffle the 104 number cards, lay out four cards face-up to start the four rows, then deal ten cards to each player. Each turn, players simultaneously choose and reveal a card from their hand, then add the cards to the rows, with cards being placed in ascending order based on their number; specifically, each card is placed in the row that ends with the highest number that's below the card's number. When the sixth card is placed in a row, the owner of that card claims the other five cards and the sixth card becomes the first card in a new row.<\/p>\n\n<p>In addition to a number from 1 to 104, each card has a point value. After finishing ten rounds, players tally their score and see whether the game ends. (<em>Category 5<\/em> ends when a player has a score greater than 74, for example, while <em>6 nimmt!<\/em> ends when someone tops 66.) When this happens, the player with the fewest points wins!<\/p>\n\n<p><em>6 nimmt!<\/em> works with 2-10 players, and the dynamics of gameplay change the more players that you have. One variant for the game has you use 34 cards, 44 cards, 54 cards, etc. (instead of all 104 cards) when you have three, four, five, etc. number of players. This change allows you to know which cards are in play, thereby allowing you to track which cards have been played and (theoretically) make better choices as to which card to play when.<\/p>\n\n","wiki":"<p>-==-Cards\/Sleeves:-==-<br \/>\n<ul>\n    <li> 104 cards @ 56mm X 87mm<\/li>\n<\/ul>\n\n<\/p>\n\n<ul>\n    <li> 20th-anniversary edition:<ul>\n        <li> 114 cards @ 56mm X 87mm <\/li>\n    <\/ul><\/li>\n<\/ul>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Awards#\">Awards<\/a><\/strong><br \/>\n<ul>\n    <li> 2003 <a class=\"\" href=\"\/wiki\/page\/Nederlandse_Spellenprijs#\">Nederlandse Spellenprijs<\/a> nominee<\/li>\n<\/ul>\n\n<\/p>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Microbadge#\">Microbadge<\/a><\/strong><\/p>\n\n<p><a href=\"\/microbadge\/366\"><img alt='Microbadge: 6 nimmt! fan'  onmouseover=\"return overlib('6 nimmt! fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_366_0.gif\"><\/a> &mdash; <em>6 nimmt!<\/em> fan<\/p>\n\n<p><a href=\"\/microbadge\/30609\"><img alt='Microbadge: 6 nimmt! fan'  onmouseover=\"return overlib('6 nimmt! fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_30609_0.png\"><\/a> &mdash; <em>6 nimmt!<\/em> fan<\/p>\n\n<p><a href=\"\/microbadge\/30608\"><img alt='Microbadge: Category 5 fan'  onmouseover=\"return overlib('Category 5 fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_30608_0.png\"><\/a> &mdash; <em>Category 5<\/em> fan<\/p>\n\n<p><a href=\"\/microbadge\/31804\"><img alt='Microbadge: 6 nimmt! 20th anniversary editon fan'  onmouseover=\"return overlib('6 nimmt! 20th anniversary editon fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_31804_0.png\"><\/a> - 6 nimmt! 20th anniversary editon fan<\/p>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Online_Play#\">Online Play<\/a><\/strong><\/p>\n\n<ul>\n    <li> <a rel=\"nofollow\" href=\"http:\/\/boardgamearena.com\/#!gamepanel?game=sechsnimmt\" onclick=\"window.open(this.href, '_blank'); return false;\">Board Game Arena<\/a> (real-time, browser based)<\/li>\n    <li> <a rel=\"nofollow\" href=\"http:\/\/www.brettspielwelt.de\/Spiele\/6nimmt\/\" onclick=\"window.open(this.href, '_blank'); return false;\">Brettspielwelt<\/a><\/li>\n<\/ul>\n\n","website":{"url":"https:\/\/www.amigo-spiele.de\/spiel\/6-nimmt","title":"Game Home Page at Amigo Spiele"},"imageid":"2602138","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/X51KVi_wJEP3x7i65tQUBNOmR3g=\/fit-in\/200x150\/pic2602138.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/dX4RFqIoCPBh5f1RbQg4Ms8zzzs=\/fit-in\/64x64\/pic2602138.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/JHwZtqUSjxqAX4dGfjUn4D8yi64=\/75x75\/pic2602138.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/dFwdPyynRxL1TrpYXKp2cNcw4fk=\/fit-in\/75x75\/pic2602138.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/xRdZ0mJfLJXBw8PNho79ZxckhSM=\/fit-in\/75x125\/pic2602138.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/81sl0eJWVQaiGGtUwc1vIwIpD0o=\/fit-in\/300x320\/pic2602138.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/998SUWL4yeeBjeFoTEGJOWmq-Us=\/200x200\/pic2602138.jpg"},"imagepagehref":"\/image\/2602138\/6-nimmt","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/FtC0e8RUs5GALMIMjFgyef6nYnc=\/fit-in\/246x300\/pic2602138.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/Q2cJRAGbNce6eHOHMbOsBNkOfHw=\/800x375\/filters:quality(30)\/pic57767.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"32"},"images":{"numitems":360},"videos":{"numitems":57}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.90601",
+        "reviewCount": "18488",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/FtC0e8RUs5GALMIMjFgyef6nYnc=/fit-in/246x300/pic2602138.jpg",
+    "name": "6 nimmt!",
+    "description": "Choose sequential cards for rows simultaneously, but avoid adding the 6th card!"
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Once Upon a Time: The Storytelling Card Game | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/1234/once-upon-time-storytelling-card-game" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Once Upon a Time: The Storytelling Card Game">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph/img/65ZqG2jDRxP9gjNcL8YlIbNQcYc=/fit-in/1200x630/pic1494028.jpg" />
+	<meta property="og:title" content="Once Upon a Time: The Storytelling Card Game" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/1234/once-upon-time-storytelling-card-game" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Be the first to play out your cards while building a crazy fairytale from scratch." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Once Upon a Time: The Storytelling Card Game" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/65ZqG2jDRxP9gjNcL8YlIbNQcYc=/fit-in/1200x630/pic1494028.jpg" />
+	<meta name="twitter:description" content="Be the first to play out your cards while building a crazy fairytale from scratch." />
+
+
+	<meta name="description" content="Be the first to play out your cards while building a crazy fairytale from scratch.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["1234"],"familyid":["12636","22015","25033","5499","22673","5496"],"companyid":["8","38809","157","78","2973","4617","23382","706","5095","18852","6214","3956","39","7365","3242","21053","9234","89","1294"],"temp_co":["hot"],"propertyid":["1002","2040","1079","2837","1030","1037","2027","2017"],"personid":["524","11992","12025","16659","525","11883","3318"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"1548","baverage":"6.23323"},{"prettyname":"Thematic Rank","shortprettyname":"Thematic Rank","veryshortprettyname":"Thematic","subdomain":"thematic","rankobjecttype":"family","rankobjectid":5496,"rank":"412","baverage":"6.24058"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"513","baverage":"6.2422"}],"polls":{"userplayers":{"best":[{"min":5,"max":6}],"recommended":[{"min":3,"max":6}],"totalvotes":"66"},"playerage":"8+","languagedependence":"Moderate in-game text - needs crib sheet or paste ups","subdomain":"","boardgameweight":{"averageweight":1.3817427385892116,"votes":"482"}},"stats":{"usersrated":"7819","average":"6.42015","baverage":"6.23323","stddev":"1.52492","avgweight":"1.3817","numweights":"482","numgeeklists":"1799","numtrading":"473","numwanting":"132","numwish":"1029","numowned":"14711","numprevowned":"1369","numcomments":"2044","numwishlistcomments":"152","numhasparts":"4","numwantparts":"6","views":"470656","playmonth":"2020-06","numplays":"13164","numplays_month":"10","numfans":234},"relatedcounts":{"news":2,"blogs":41,"weblink":47,"podcast":9},"itemid":1070,"objecttype":"thing","objectid":1234,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/1234\/once-upon-time-storytelling-card-game","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Once Upon a Time: The Storytelling Card Game","alternatename":null,"yearpublished":"1993","minplayers":"2","maxplayers":"6","minplaytime":"30","maxplaytime":"30","minage":"8","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Be the first to play out your cards while building a crazy fairytale from scratch.","links":{"boardgamedesigner":[{"name":"Richard Lambert","objecttype":"person","objectid":"524","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/524\/richard-lambert"},{"name":"Andrew Rilstone","objecttype":"person","objectid":"525","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/525\/andrew-rilstone"},{"name":"James Wallis","objecttype":"person","objectid":"3318","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/3318\/james-wallis"}],"boardgameartist":[{"name":"Florence Magnin","objecttype":"person","objectid":"11992","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/11992\/florence-magnin"},{"name":"Sophie Mounier","objecttype":"person","objectid":"12025","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12025\/sophie-mounier"},{"name":"Omar Rayyan","objecttype":"person","objectid":"16659","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/16659\/omar-rayyan"},{"name":"Franz Vohwinkel","objecttype":"person","objectid":"11883","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/11883\/franz-vohwinkel"}],"boardgamepublisher":[{"name":"AMIGO","objecttype":"company","objectid":"8","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/8\/amigo"},{"name":"Angry Lion Games","objecttype":"company","objectid":"38809","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/38809\/angry-lion-games"},{"name":"Asmodee","objecttype":"company","objectid":"157","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/157\/asmodee"},{"name":"Atlas Games","objecttype":"company","objectid":"78","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/78\/atlas-games"},{"name":"Edge Entertainment","objecttype":"company","objectid":"2973","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/2973\/edge-entertainment"},{"name":"Galakta","objecttype":"company","objectid":"4617","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/4617\/galakta"}],"boardgamehonor":[{"name":"1996\/Fall Lucca Games Best Translated Game","objecttype":"family","objectid":"12636","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/12636\/1996fall-lucca-games-best-translated-game"},{"name":"2013 Origins Awards Best Family, Party or Children's Game Nominee","objecttype":"family","objectid":"22015","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/22015\/2013-origins-awards-best-family-party-or-childrens"},{"name":"2013\/Fall Parents' Choice Recommended","objecttype":"family","objectid":"25033","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/25033\/2013fall-parents-choice-recommended"}],"boardgamecategory":[{"name":"Card Game","objecttype":"property","objectid":"1002","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1002\/card-game"},{"name":"Humor","objecttype":"property","objectid":"1079","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1079\/humor"},{"name":"Party Game","objecttype":"property","objectid":"1030","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1030\/party-game"},{"name":"Real-time","objecttype":"property","objectid":"1037","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1037\/real-time"}],"boardgamemechanic":[{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Interrupts","objecttype":"property","objectid":"2837","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2837\/interrupts"},{"name":"Storytelling","objecttype":"property","objectid":"2027","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2027\/storytelling"},{"name":"Voting","objecttype":"property","objectid":"2017","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2017\/voting"}],"boardgameexpansion":[{"name":"Es war einmal: Magische M\u00e4rchen & Ritterliche Romanzen","objecttype":"thing","objectid":"154029","primarylink":0,"itemstate":"approved","href":"\/boardgame\/154029\/es-war-einmal-magische-marchen-ritterliche-romanze"},{"name":"Once Upon a Time: Animal Tales","objecttype":"thing","objectid":"193679","primarylink":0,"itemstate":"approved","href":"\/boardgame\/193679\/once-upon-time-animal-tales"},{"name":"Once Upon a Time: Dark Tales","objecttype":"thing","objectid":"12039","primarylink":0,"itemstate":"approved","href":"\/boardgame\/12039\/once-upon-time-dark-tales"},{"name":"Once Upon a Time: Enchanting Tales","objecttype":"thing","objectid":"138296","primarylink":0,"itemstate":"approved","href":"\/boardgame\/138296\/once-upon-time-enchanting-tales"},{"name":"Once Upon a Time: Fairy Tales","objecttype":"thing","objectid":"211593","primarylink":0,"itemstate":"approved","href":"\/boardgame\/211593\/once-upon-time-fairy-tales"},{"name":"Once Upon a Time: Fairytale Mash-ups","objecttype":"thing","objectid":"282298","primarylink":0,"itemstate":"approved","href":"\/boardgame\/282298\/once-upon-time-fairytale-mash-ups"}],"boardgameversion":[{"name":"Czech edition","objecttype":"version","objectid":"172880","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/172880\/czech-edition"},{"name":"Darwin French edition 2005","objecttype":"version","objectid":"227554","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/227554\/darwin-french-edition-2005"},{"name":"English edition 1993","objecttype":"version","objectid":"109881","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/109881\/english-edition-1993"},{"name":"English edition 1995","objecttype":"version","objectid":"109882","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/109882\/english-edition-1995"},{"name":"English edition 2003","objecttype":"version","objectid":"109883","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/109883\/english-edition-2003"},{"name":"English edition 2008","objecttype":"version","objectid":"26391","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/26391\/english-edition-2008"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[],"boardgamefamily":[{"name":"Once Upon a Time","objecttype":"family","objectid":"22673","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/22673\/once-upon-time"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"},{"name":"Thematic Games","objecttype":"family","objectid":"5496","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5496\/thematic-games"}],"boardgameaccessory":[{"name":"Once Upon a Time: Create-Your-Own Storytelling Cards","objecttype":"thing","objectid":"26844","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/26844\/once-upon-time-create-your-own-storytelling-cards"}],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":3,"boardgameartist":4,"boardgamepublisher":19,"boardgamehonor":3,"boardgamecategory":4,"boardgamemechanic":4,"boardgameexpansion":9,"boardgameversion":27,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":0,"boardgamefamily":1,"videogamebg":0,"boardgamesubdomain":2,"boardgameaccessory":1,"commerceweblink":0},"secondarynamescount":1,"alternatenamescount":15,"primaryname":{"nameid":"47674","name":"Once Upon a Time: The Storytelling Card Game","sortindex":"1","primaryname":"1","translit":"Once Upon a Time: The Storytelling Card Game"},"secondarynames":[{"nameid":"744209","name":"\u5f9e\u524d\u5f9e\u524d...","sortindex":"1","primaryname":"0","secondaryname":true}],"description":"<p><em><strong>Once Upon A Time<\/strong><\/em> is a game in which the players create a story together, using cards that show typical elements from fairy tales. One player is the Storyteller and creates a story using the ingredients on their cards. They try to guide the plot towards their own ending. The other players try to use cards to interrupt the Storyteller and become the new Storyteller. The winner is the first player to play out all their cards and end with their Happy Ever After card.<\/p>\n\n<p>The second edition, published in 1995, features an expanded card set.<\/p>\n\n<p>The third edition, published in 2012, features multiple changes, including new artwork by Omar Rayyan, a new card set, and a simplified rulesheet.<\/p>\n\n<p><strong>See Also<\/strong><\/p>\n\n<ul>\n    <li><em><a  href=\"\/boardgame\/1784\/dark-cults\"   >Dark Cults<\/a><\/em><\/li>\n    <li><em><a  href=\"\/boardgame\/250593\/old-hellfire-club\"   >The Old Hellfire Club<\/a><\/em><\/li>\n<\/ul>\n\n","wiki":"<p><strong><a class=\"\" href=\"\/wiki\/page\/Awards#\">Awards<\/a><\/strong><\/p>\n\n<ul>\n    <li> 2007 <a class=\"\" href=\"\/wiki\/page\/1997_Games_100#\">1997 Games 100<\/a> Family Card Game<\/li>\n    <li> 2008 <a class=\"\" href=\"\/wiki\/page\/Lucca_Games_Best_of_Show#\">Lucca Games Best of Show<\/a> (Italy), Nominee, Best Card Game<\/li>\n<\/ul>\n\n<p><strong>Components<\/strong><\/p>\n\n<ul>\n    <li> 114 &quot;Once Upon A Time&quot; (i.e., story) cards<\/li>\n    <li> 51 &quot;Happy Ever After&quot; (i.e., ending) cards<\/li>\n    <li> Rules<\/li>\n<\/ul>\n\n<p>NOTE: Even though the box says 110\/55, the Atlas Games 3rd edition actually has 51 ending and 114 story cards, as listed on their website.<\/p>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Card_Sleeves#\">Card Sleeves<\/a><\/strong><\/p>\n\n<p>@165 <a class=\"\" href=\"\/wiki\/page\/Card_Sleeves_-_American#\">American<\/a> 56 x 87mm (2 1\/4&quot; x 3 1\/2&quot;)<\/p>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Microbadges#\">Microbadges<\/a><\/strong><\/p>\n\n<p><a href=\"\/microbadge\/32906\"><img alt='Microbadge: Once Upon a Time: The Storytelling Card Game fan'  onmouseover=\"return overlib('Once Upon a Time: The Storytelling Card Game fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_32906_0.png\"><\/a> - Once Upon a Time: The Storytelling Card Game fan<\/p>\n\n<p><a href=\"\/microbadge\/32905\"><img alt='Microbadge: Once Upon a Time: The Storytelling Card Game fan'  onmouseover=\"return overlib('Once Upon a Time: The Storytelling Card Game fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_32905_0.png\"><\/a> - Once Upon a Time: The Storytelling Card Game fan<\/p>\n\n<p><a href=\"\/microbadge\/32960\"><img alt='Microbadge: Once Upon a Time: The Storytelling Card Game fan'  onmouseover=\"return overlib('Once Upon a Time: The Storytelling Card Game fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_32960_0.png\"><\/a> - Once Upon a Time: The Storytelling Card Game fan<\/p>\n\n","website":{"url":"http:\/\/www.atlas-games.com\/ouat3\/","title":"atlas's game's Once Upon a time page."},"imageid":"1494028","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/iG5dcT0QWyggogsaXbUVpY9b6h8=\/fit-in\/200x150\/pic1494028.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/FjSSozaFvFjmw_uhHa13WbSvolo=\/fit-in\/64x64\/pic1494028.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/dmLaDjt3sCTfo2PzZGY-yGx-gCs=\/75x75\/pic1494028.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/Y_k7NxQ1nQDcmwgDZExidf3FTfs=\/fit-in\/75x75\/pic1494028.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/6RkIOybSkqqIMZVkVdDUd9yBHrQ=\/fit-in\/75x125\/pic1494028.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/tb-e0jUFWO4Ny_eCPH3fmzjYGm0=\/fit-in\/300x320\/pic1494028.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/VeNPJsnnEJwSpbcBFZyrz_cNlus=\/200x200\/pic1494028.jpg"},"imagepagehref":"\/image\/1494028\/once-upon-time-storytelling-card-game","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/kVwzY-oORcfn3FeWcN7HlAIRURI=\/fit-in\/246x300\/pic1494028.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/USQqjiVusiO244Ugx9S27STOsGE=\/800x375\/filters:quality(30)\/pic158864.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"26"},"images":{"numitems":143},"videos":{"numitems":37}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.42015",
+        "reviewCount": "7819",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/kVwzY-oORcfn3FeWcN7HlAIRURI=/fit-in/246x300/pic1494028.jpg",
+    "name": "Once Upon a Time: The Storytelling Card Game",
+    "description": "Be the first to play out your cards while building a crazy fairytale from scratch."
+}
+</script>
+
+</body>
+</html>

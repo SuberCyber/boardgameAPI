@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Britannia | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/240/britannia" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Britannia">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/XjhevAMd_JmdDQjxCU7lXpkMLYE=/fit-in/445x445/pic106711.jpg" />
+	<meta property="og:title" content="Britannia" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/240/britannia" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Control multiple nations in conflicts that span a millenia of British history." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Britannia" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/FcrZWihjk69Sz0eVZMpjDPQQ_fg=/fit-in/1200x630/pic106711.jpg" />
+	<meta name="twitter:description" content="Control multiple nations in conflicts that span a millenia of British history." />
+
+
+	<meta name="description" content="Control multiple nations in conflicts that span a millenia of British history.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["240"],"familyid":["22396","5606","18284","14759","13105","17056","13106","22839","4664"],"propertyid":["1050","2046","1015","2072","1035","2853","2017","1019"],"personid":["60355","28022","52766","63801","12019","12065","11872","12422","14276","1000","1000","63802"],"companyid":["5","6194","2366","2973","531","17","103","264","307"],"temp_co":["hot"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"679","baverage":"6.71734"},{"prettyname":"War Game Rank","shortprettyname":"War Rank","veryshortprettyname":"War ","subdomain":"wargames","rankobjecttype":"family","rankobjectid":4664,"rank":"124","baverage":"7.0791"}],"polls":{"userplayers":{"best":[{"min":4,"max":4}],"recommended":[{"min":4,"max":4}],"totalvotes":"152"},"playerage":"14+","languagedependence":"Moderate in-game text - needs crib sheet or paste ups","subdomain":"","boardgameweight":{"averageweight":3.1688804554079697,"votes":"527"}},"stats":{"usersrated":"3963","average":"7.20251","baverage":"6.71734","stddev":"1.50865","avgweight":"3.1689","numweights":"527","numgeeklists":"1817","numtrading":"252","numwanting":"149","numwish":"687","numowned":"5643","numprevowned":"839","numcomments":"1475","numwishlistcomments":"78","numhasparts":"6","numwantparts":"10","views":"486480","playmonth":"2020-06","numplays":"4680","numplays_month":"2","numfans":211},"relatedcounts":{"news":0,"blogs":19,"weblink":22,"podcast":3},"itemid":219,"objecttype":"thing","objectid":240,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/240\/britannia","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Britannia","alternatename":null,"yearpublished":"1986","minplayers":"3","maxplayers":"5","minplaytime":"180","maxplaytime":"300","minage":"12","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Control multiple nations in conflicts that span a millenia of British history.","links":{"boardgamedesigner":[{"name":"Lewis Pulsipher","objecttype":"person","objectid":"1000","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/1000\/lewis-pulsipher"}],"boardgameartist":[{"name":"Alex Anders","objecttype":"person","objectid":"60355","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/60355\/alex-anders"},{"name":"Mark Bromley","objecttype":"person","objectid":"28022","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/28022\/mark-bromley"},{"name":"Guy Gentry","objecttype":"person","objectid":"52766","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/52766\/guy-gentry"},{"name":"Norbert Gr\u00e4f","objecttype":"person","objectid":"63801","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/63801\/norbert-graf"},{"name":"Tomasz Jedruszek","objecttype":"person","objectid":"12019","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12019\/tomasz-jedruszek"},{"name":"Patrick McEvoy","objecttype":"person","objectid":"12065","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12065\/patrick-mcevoy"}],"boardgamepublisher":[{"name":"The Avalon Hill Game Co","objecttype":"company","objectid":"5","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/5\/avalon-hill-game-co"},{"name":"Delta Vision Publishing","objecttype":"company","objectid":"6194","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/6194\/delta-vision-publishing"},{"name":"Devir","objecttype":"company","objectid":"2366","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/2366\/devir"},{"name":"Edge Entertainment","objecttype":"company","objectid":"2973","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/2973\/edge-entertainment"},{"name":"Esdevium","objecttype":"company","objectid":"531","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/531\/esdevium"},{"name":"Fantasy Flight Games","objecttype":"company","objectid":"17","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/17\/fantasy-flight-games"}],"boardgamehonor":[{"name":"1987 Charles S. Roberts Best Pre-World War II Board Game Nominee","objecttype":"family","objectid":"22396","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/22396\/1987-charles-s-roberts-best-pre-world-war-ii-board"}],"boardgamecategory":[{"name":"Ancient","objecttype":"property","objectid":"1050","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1050\/ancient"},{"name":"Civilization","objecttype":"property","objectid":"1015","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1015\/civilization"},{"name":"Medieval","objecttype":"property","objectid":"1035","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1035\/medieval"},{"name":"Wargame","objecttype":"property","objectid":"1019","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1019\/wargame"}],"boardgamemechanic":[{"name":"Area Movement","objecttype":"property","objectid":"2046","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2046\/area-movement"},{"name":"Dice Rolling","objecttype":"property","objectid":"2072","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2072\/dice-rolling"},{"name":"Stat Check Resolution","objecttype":"property","objectid":"2853","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2853\/stat-check-resolution"},{"name":"Voting","objecttype":"property","objectid":"2017","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2017\/voting"}],"boardgameexpansion":[],"boardgameversion":[{"name":"Avalon Hill second edition","objecttype":"version","objectid":"24621","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/24621\/avalon-hill-second-edition"},{"name":"Delta Vision Hungarian edition","objecttype":"version","objectid":"180753","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/180753\/delta-vision-hungarian-edition"},{"name":"Devir Spanish edition","objecttype":"version","objectid":"77663","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/77663\/devir-spanish-edition"},{"name":"Edge French edition","objecttype":"version","objectid":"106575","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/106575\/edge-french-edition"},{"name":"Esdevium UK edition","objecttype":"version","objectid":"75803","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/75803\/esdevium-uk-edition"},{"name":"Fantasy Flight first edition","objecttype":"version","objectid":"28018","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/28018\/fantasy-flight-first-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[{"name":"Britannia: Classic and Duel Edition","objecttype":"thing","objectid":"280106","primarylink":0,"itemstate":"approved","href":"\/boardgame\/280106\/britannia-classic-and-duel-edition"}],"reimplements":[],"boardgamefamily":[{"name":"Ancient: Rome","objecttype":"family","objectid":"5606","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/5606\/ancient-rome"},{"name":"Britannia game-system","objecttype":"family","objectid":"18284","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/18284\/britannia-game-system"},{"name":"Country: England","objecttype":"family","objectid":"14759","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/14759\/country-england"},{"name":"Country: Scotland","objecttype":"family","objectid":"13105","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/13105\/country-scotland"},{"name":"Country: United Kingdom","objecttype":"family","objectid":"17056","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/17056\/country-united-kingdom"},{"name":"Country: Wales","objecttype":"family","objectid":"13106","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/13106\/country-wales"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Wargames","objecttype":"family","objectid":"4664","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/4664\/wargames"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":11,"boardgamepublisher":9,"boardgamehonor":1,"boardgamecategory":4,"boardgamemechanic":4,"boardgameexpansion":0,"boardgameversion":10,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":1,"reimplements":0,"boardgamefamily":7,"videogamebg":0,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":1,"primaryname":{"nameid":"219","name":"Britannia","sortindex":"1","primaryname":"1","translit":"Britannia"},"description":"<p><strong>Britannia<\/strong> is a historical board game that broadly depicts the millennia-long struggle for control of England, Scotland, and Wales. The game begins with the Roman invasion of 43 A.D., continues through the many struggles between Angles, Saxons, Picts, Norsemen, Scots, Irish, and other tribes, and ends with the Norman invasion of 1066.<\/p>\n\n<p><strong>Britannia<\/strong> allows players to re-create this epic history, re-enacting important battles in some cases, altering the course of history in others. The game rules discourage players from making historically unrealistic moves, but also give players the freedom to alter Great Britain&rsquo;s history in important ways, creating countless interesting &ldquo;what if?&rdquo; scenarios. What if Boudicca&rsquo;s Revolt against the Romans had been more successful? What if the Romans and the Romano-British had repelled the Saxon invasions of the 5th and 6th centuries? What if William the Conqueror had died during the Norman invasion of 1066?<\/p>\n\n<p>In <strong>Britannia<\/strong>, the players will determine the destiny of a kingdom.<\/p>\n\n","wiki":"<p>1987 Avalon Hill Edition = 264 counters (including 3 purple blanks)<br \/>\n<hr \/>\n<\/p>\n\n<p>Nominee for the 1987 <a class=\"\" href=\"\/wiki\/page\/Charles_S._Roberts_awards#\">Charles S. Roberts awards<\/a> for <a class=\"\" href=\"\/wiki\/page\/Best_Pre-World_War_II_Boardgame_%28Charles_S._Roberts_Awards%29#\">Best Pre-World War II Boardgame (Charles S. Roberts Awards)<\/a>.<\/p>\n\n<p>Inspired many other games depicting invasions in Spain, Italy, China, Russia... etc: <a rel=\"nofollow\" href=\"https:\/\/boardgamegeek.com\/boardgamefamily\/18284\/britannia-game-system\" onclick=\"window.open(this.href, '_blank'); return false;\">Britannia game system<\/a>.<\/p>\n\n<hr \/>\n<p><strong>Magazine References:<\/strong><\/p>\n\n<p><a class=\"\" href=\"\/wiki\/page\/The_GENERAL_Index#\">The GENERAL Index<\/a>  Article List:<\/p>\n\n<ul>\n    <li><a class=\"\" href=\"\/wiki\/page\/The_GENERAL_Vol.24%2CNo.5#\">The GENERAL Vol.24,No.5<\/a><ul>\n        <li>Design Analysis - <a  href=\"\/boardgame\/240\/britannia\"   >Britannia<\/a> by Bruce Shelly<\/li>\n        <li><a  href=\"\/boardgame\/240\/britannia\"   >Britannia<\/a> &ndash; &ldquo;From Sturdy Stock - <em>The Peoples of BRITANNIA<\/em>&rdquo; by Phil Rennert<\/li>\n        <li><a  href=\"\/boardgame\/240\/britannia\"   >Britannia<\/a> &ndash; &ldquo;The Roman Invasion of Britannia - <em>Kill Them and Let God Sort 'em Out<\/em>&rdquo; by <a  href=\"\/boardgamedesigner\/724\/rex-martin\"   >Rex A. Martin<\/a><\/li>\n        <li>Contest #141 - <a  href=\"\/boardgame\/240\/britannia\"   >Britannia<\/a><\/li>\n    <\/ul><\/li>\n<\/ul>\n\n<ul>\n    <li><a class=\"\" href=\"\/wiki\/page\/The_GENERAL_Vol.30%2CNo.2#\">The GENERAL Vol.30,No.2<\/a><ul>\n        <li><a  href=\"\/boardgame\/240\/britannia\"   >Britannia<\/a> &ndash; &ldquo;Oh, Danny Boy! - An Ireland Add on Map for Britannia&rdquo; (Variant Discussion) Jim Lawler <\/li>\n    <\/ul><\/li>\n<\/ul>\n\n<p><a  href=\"\/rpgperiodical\/6981\/games-international\"   >Games International<\/a> Article List:<br \/>\n<ul>\n    <li><a  href=\"\/rpgissue\/85109\/games-international-issue-5-may-1989\"   >Games International (Issue 5 \u2013 May 1989)<\/a><ul>\n        <li><a  href=\"\/boardgame\/240\/britannia\"   >Britannia<\/a> - The ABC guide to major invasion by <a  href=\"\/rpgdesigner\/13900\/graham-staplehurst\"   >Graham Staplehurst<\/a> (now published online - see web links).<\/li>\n    <\/ul><\/li>\n    <li><a  href=\"\/rpgissue\/99341\/games-international-issue-6-june-1989\"   >Games International (Issue 6 \u2013 June 1989)<\/a><ul>\n        <li>Upfront - Includes errata for <a  href=\"\/boardgame\/240\/britannia\"   >Britannia<\/a> variant published in <a  href=\"\/rpgissue\/85109\/games-international-issue-5-may-1989\"   >Games International (Issue 5 \u2013 May 1989)<\/a>.<\/li>\n    <\/ul><\/li>\n    <li><a  href=\"\/rpgissue\/167415\/games-international-issue-11-december-1989\"   >Games International (Issue 11 \u2013 December 1989)<\/a><ul>\n        <li>Beating the Odds &ndash; The chance of winning Britannia by Ralf Kahlert.<\/li>\n    <\/ul><\/li>\n    <li>Games International (Issue 16 - July 1990)<ul>\n        <li>Pierrot Britannia - Variant by Dave Berry.<\/li>\n    <\/ul><\/li>\n<\/ul>\n\n<\/p>\n\n<p><a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/browse\/microbadge\/1599\/\" onclick=\"window.open(this.href, '_blank'); return false;\">Microbadge:<\/a> <img src=\"https:\/\/cf.geekdo-static.com\/images\/microbadges\/britanniamicrobadge.jpg\" alt=\"http:\/\/files.boardgamegeek.com\/images\/microbadges\/britanniamicrobadge.jpg\" title=\"http:\/\/files.boardgamegeek.com\/images\/microbadges\/britanniamicrobadge.jpg\" \/><!-- http:\/\/files.boardgamegeek.com\/images\/microbadges\/britanniamicrobadge.jpg --><\/p>\n\n","website":{"url":"http:\/\/www.pulsipher.net\/britannia\/index.htm","title":"Designers Website (contains a more concise Rules set for 2nd Addition)"},"imageid":"106711","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/21Sh4rZ7LMKpeOWlxR5RA5zPaPA=\/fit-in\/200x150\/pic106711.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/yW0mm81xZUYBPBxkUPdwO1B2Z0c=\/fit-in\/64x64\/pic106711.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/xrURke_DYycRfPcjsDuaFiBJm7s=\/75x75\/pic106711.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/XZsPe0ZAY5iBVJslZQlUd-gyeIg=\/fit-in\/75x75\/pic106711.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/dH_b36TEse3HRxGUNn_XNvXBqG8=\/fit-in\/75x125\/pic106711.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/YMw1lccQEJelAwd9uZ68ryvOrQA=\/fit-in\/300x320\/pic106711.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/a70b4yDYwCUTeTkJ8eTKsepyGIo=\/200x200\/pic106711.jpg"},"imagepagehref":"\/image\/106711\/britannia","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/wLCRkdKF0TKSXbavmjnnjmaQaYE=\/fit-in\/246x300\/pic106711.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/G8c_o-jdjPL44gI6hBRsBa6lftI=\/800x375\/filters:quality(30)\/pic293913.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"89"},"images":{"numitems":219},"videos":{"numitems":19}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.20251",
+        "reviewCount": "3963",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/wLCRkdKF0TKSXbavmjnnjmaQaYE=/fit-in/246x300/pic106711.jpg",
+    "name": "Britannia",
+    "description": "Control multiple nations in conflicts that span a millenia of British history."
+}
+</script>
+
+</body>
+</html>

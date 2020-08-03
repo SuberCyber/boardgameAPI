@@ -1,0 +1,197 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Chrononauts | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/815/chrononauts" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Chrononauts">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph/img/5hd9jQRJRduyL-bZMOGzjSaYk1I=/fit-in/1200x630/pic1909256.jpg" />
+	<meta property="og:title" content="Chrononauts" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/815/chrononauts" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="In Chrononauts, each player becomes a time traveler, with a unique identity and a secret mission. During the game, players travel backwards and forwards through history, doing all those things people have always dreamed of using a time machine to do: Visiting the great moments of the past, peeking into the future, collecting up impossible artifacts and priceless works of art (at the moment just before history records their destruction), coming to grips with the paradoxes of time travel, and of course, changing pivotal events and altering the course of history itself. How would the timeline be different if Lincoln and JFK had not been assassinated? And is that the version of reality that you came from originally...the one you must return to in order to win? It&#039;s all packed into a fast and easy Fluxx-style card game that will take you to the beginning of time and back again." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Chrononauts" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/5hd9jQRJRduyL-bZMOGzjSaYk1I=/fit-in/1200x630/pic1909256.jpg" />
+	<meta name="twitter:description" content="In Chrononauts, each player becomes a time traveler, with a unique identity and a secret mission. During the game, players travel backwards and forwards through history, doing all those things people have always dreamed of using a time machine to do: Visiting the great moments of the past, peeking into the future, collecting up impossible artifacts and priceless works of art (at the moment just before history records their destruction), coming to grips with the paradoxes of time travel, and of course, changing pivotal events and altering the course of history itself. How would the timeline be different if Lincoln and JFK had not been assassinated? And is that the version of reality that you came from originally...the one you must return to in order to win? It&#039;s all packed into a fast and easy Fluxx-style card game that will take you to the beginning of time and back again." />
+
+
+	<meta name="description" content="In Chrononauts, each player becomes a time traveler, with a unique identity and a secret mission. During the game, players travel backwards and forwards through history, doing all those things people have always dreamed of using a time machine to do: Visiting the great moments of the past, peeking into the future, collecting up impossible artifacts and priceless works of art (at the moment just before history records their destruction), coming to grips with the paradoxes of time travel, and of course, changing pivotal events and altering the course of history itself. How would the timeline be different if Lincoln and JFK had not been assassinated? And is that the version of reality that you came from originally...the one you must return to in order to win? It&#039;s all packed into a fast and easy Fluxx-style card game that will take you to the beginning of time and back again.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["815"],"familyid":["13053","5499","5666","7996","5496","26464","6258"],"propertyid":["1023","1002","1039","1094","2040","2011","1001","2661","1016","2819","1065","1049"],"personid":["6861","122","35679"],"companyid":["76"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"2326","baverage":"6.00185"},{"prettyname":"Thematic Rank","shortprettyname":"Thematic Rank","veryshortprettyname":"Thematic","subdomain":"thematic","rankobjecttype":"family","rankobjectid":5496,"rank":"555","baverage":"5.97777"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"798","baverage":"5.99534"}],"polls":{"userplayers":{"best":[{"min":4,"max":4}],"recommended":[{"min":1,"max":5}],"totalvotes":"43"},"playerage":"10+","languagedependence":"Moderate in-game text - needs crib sheet or paste ups","subdomain":"","boardgameweight":{"averageweight":1.8424821002386635,"votes":"419"}},"stats":{"usersrated":"5174","average":"6.20465","baverage":"6.00185","stddev":"1.52268","avgweight":"1.8425","numweights":"419","numgeeklists":"1400","numtrading":"318","numwanting":"80","numwish":"525","numowned":"8876","numprevowned":"859","numcomments":"1534","numwishlistcomments":"89","numhasparts":"2","numwantparts":"6","views":"251851","playmonth":"2020-06","numplays":"9510","numplays_month":"14","numfans":198},"relatedcounts":{"news":2,"blogs":32,"weblink":29,"podcast":4},"itemid":731,"objecttype":"thing","objectid":815,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/815\/chrononauts","subtype":"boardgame","subtypes":["boardgame","boardgameintegration"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Chrononauts","alternatename":null,"yearpublished":"2000","minplayers":"1","maxplayers":"6","minplaytime":"30","maxplaytime":"30","minage":"11","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":null,"links":{"boardgamedesigner":[{"name":"Andrew Looney","objecttype":"person","objectid":"122","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/122\/andrew-looney"}],"boardgameartist":[{"name":"Alison Frane","objecttype":"person","objectid":"6861","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/6861\/alison-frane"},{"name":"Derek Ring","objecttype":"person","objectid":"35679","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/35679\/derek-ring"}],"boardgamepublisher":[{"name":"Looney Labs","objecttype":"company","objectid":"76","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/76\/looney-labs"}],"boardgamehonor":[{"name":"2000 Origins Awards Best Traditional Card Game Winner","objecttype":"family","objectid":"13053","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/13053\/2000-origins-awards-best-traditional-card-game-win"}],"boardgamecategory":[{"name":"Bluffing","objecttype":"property","objectid":"1023","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1023\/bluffing"},{"name":"Card Game","objecttype":"property","objectid":"1002","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1002\/card-game"},{"name":"Deduction","objecttype":"property","objectid":"1039","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1039\/deduction"},{"name":"Educational","objecttype":"property","objectid":"1094","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1094\/educational"},{"name":"Political","objecttype":"property","objectid":"1001","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1001\/political"},{"name":"Science Fiction","objecttype":"property","objectid":"1016","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1016\/science-fiction"}],"boardgamemechanic":[{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Modular Board","objecttype":"property","objectid":"2011","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2011\/modular-board"},{"name":"Push Your Luck","objecttype":"property","objectid":"2661","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2661\/push-your-luck"},{"name":"Solo \/ Solitaire Game","objecttype":"property","objectid":"2819","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2819\/solo-solitaire-game"}],"boardgameexpansion":[{"name":"Chrononauts: Beatles Reunion Album Promo Card","objecttype":"thing","objectid":"242047","primarylink":0,"itemstate":"approved","href":"\/boardgame\/242047\/chrononauts-beatles-reunion-album-promo-card"},{"name":"Chrononauts: Carl Sagan's Joint","objecttype":"thing","objectid":"186913","primarylink":0,"itemstate":"approved","href":"\/boardgame\/186913\/chrononauts-carl-sagans-joint"},{"name":"Chrononauts: German Cake Promo Card","objecttype":"thing","objectid":"242046","primarylink":0,"itemstate":"approved","href":"\/boardgame\/242046\/chrononauts-german-cake-promo-card"},{"name":"Chrononauts: Live Woolly Mammoth","objecttype":"thing","objectid":"187254","primarylink":0,"itemstate":"approved","href":"\/boardgame\/187254\/chrononauts-live-woolly-mammoth"},{"name":"Chrononauts: Lost Identities","objecttype":"thing","objectid":"8672","primarylink":0,"itemstate":"approved","href":"\/boardgame\/8672\/chrononauts-lost-identities"},{"name":"Chrononauts: Mating Pair of Pterodactyls","objecttype":"thing","objectid":"186914","primarylink":0,"itemstate":"approved","href":"\/boardgame\/186914\/chrononauts-mating-pair-pterodactyls"}],"boardgameversion":[{"name":"Beta edition","objecttype":"version","objectid":"157632","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/157632\/beta-edition"},{"name":"First edition, first printing","objecttype":"version","objectid":"20876","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/20876\/first-edition-first-printing"},{"name":"First edition, second printing","objecttype":"version","objectid":"20877","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/20877\/first-edition-second-printing"},{"name":"First edition, third printing","objecttype":"version","objectid":"20878","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/20878\/first-edition-third-printing"},{"name":"First edition, v1.4","objecttype":"version","objectid":"20879","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/20879\/first-edition-v14"},{"name":"Second edition","objecttype":"version","objectid":"230845","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/230845\/second-edition"}],"expandsboardgame":[],"boardgameintegration":[{"name":"Early American Chrononauts","objecttype":"thing","objectid":"9825","primarylink":0,"itemstate":"approved","href":"\/boardgame\/9825\/early-american-chrononauts"}],"contains":[],"containedin":[],"reimplementation":[{"name":"Back to the Future: The Card Game","objecttype":"thing","objectid":"71676","primarylink":0,"itemstate":"approved","href":"\/boardgame\/71676\/back-future-card-game"},{"name":"Star Trek Chrono-Trek","objecttype":"thing","objectid":"268276","primarylink":0,"itemstate":"approved","href":"\/boardgame\/268276\/star-trek-chrono-trek"}],"reimplements":[],"boardgamefamily":[{"name":"Game: Chrononauts","objecttype":"family","objectid":"7996","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/7996\/game-chrononauts"},{"name":"Players: Games with Solitaire Rules","objecttype":"family","objectid":"5666","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/5666\/players-games-solitaire-rules"},{"name":"Theme: Alternate History","objecttype":"family","objectid":"26464","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/26464\/theme-alternate-history"},{"name":"Theme: Time Travel","objecttype":"family","objectid":"6258","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/6258\/theme-time-travel"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"},{"name":"Thematic Games","objecttype":"family","objectid":"5496","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5496\/thematic-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":2,"boardgamepublisher":1,"boardgamehonor":1,"boardgamecategory":8,"boardgamemechanic":4,"boardgameexpansion":12,"boardgameversion":6,"expandsboardgame":0,"boardgameintegration":1,"contains":0,"containedin":0,"reimplementation":2,"reimplements":0,"boardgamefamily":4,"videogamebg":0,"boardgamesubdomain":2,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":0,"primaryname":{"nameid":"731","name":"Chrononauts","sortindex":"1","primaryname":"1","translit":"Chrononauts"},"description":"<p>In <em><strong>Chrononauts<\/strong><\/em>, each player becomes a time traveler, with a unique identity and a secret mission. During the game, players travel backwards and forwards through history, doing all those things people have always dreamed of using a time machine to do: Visiting the great moments of the past, peeking into the future, collecting up impossible artifacts and priceless works of art (at the moment just before history records their destruction), coming to grips with the paradoxes of time travel, and of course, changing pivotal events and altering the course of history itself. How would the timeline be different if Lincoln and JFK had not been assassinated? And is that the version of reality that you came from originally...the one you must return to in order to win? It's all packed into a fast and easy <em><a  href=\"\/boardgame\/258\/fluxx\"   >Fluxx<\/a><\/em>-style card game that will take you to the beginning of time and back again.<\/p>\n\n","wiki":"<p><strong> <a class=\"\" href=\"\/wiki\/page\/Awards#\">Awards<\/a> <\/strong><\/p>\n\n<ul>\n    <li> 2000 <a class=\"\" href=\"\/wiki\/page\/Origins_Awards#\">Origins Awards<\/a> Winner, <em>Best Traditional Card Game<\/em>.<\/li>\n<\/ul>\n\n<p><strong> <a class=\"\" href=\"\/wiki\/page\/Microbadge#\">Microbadge<\/a> <\/strong><\/p>\n\n<p><img src=\"https:\/\/cf.geekdo-static.com\/images\/microbadges\/chrononauts.png\" alt=\"http:\/\/files.boardgamegeek.com\/images\/microbadges\/chrononauts.png\" title=\"http:\/\/files.boardgamegeek.com\/images\/microbadges\/chrononauts.png\" \/><!-- http:\/\/files.boardgamegeek.com\/images\/microbadges\/chrononauts.png --> <a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/microbadge\/1353\" onclick=\"window.open(this.href, '_blank'); return false;\">Chrononauts fan<\/a><\/p>\n\n","website":{"url":"http:\/\/www.looneylabs.com\/games\/chrononauts","title":"Looney Labs Page for Chrononauts"},"imageid":"1909256","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/inP-aA-SZzvm7g9bmdggXOQ9828=\/fit-in\/200x150\/pic1909256.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/vpjQEaf_T34i7OKlH89URGdsvVg=\/fit-in\/64x64\/pic1909256.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/RWcf8gFqF5DWjLyhcZB2CPOGgeY=\/75x75\/pic1909256.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/giuk_GsV0PJitg1-bwIyCERiBv0=\/fit-in\/75x75\/pic1909256.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/Ux8OcV_4rC1VpL00QT7Wmba95JQ=\/fit-in\/75x125\/pic1909256.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/af8wBLQLzb0zZHfmwN4egzxDXKo=\/fit-in\/300x320\/pic1909256.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/3FH67CsxIe4iIRcxGHNSWNH9RrI=\/200x200\/pic1909256.jpg"},"imagepagehref":"\/image\/1909256\/chrononauts","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/GlA46wsBBdIPocAbxGRUQ17Ad3U=\/fit-in\/246x300\/pic1909256.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/ecSYfTcrVg085Gpy6qW2JdEqN3Y=\/800x375\/filters:quality(30)\/pic275061.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"9"},"images":{"numitems":173},"videos":{"numitems":13}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.20465",
+        "reviewCount": "5174",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/GlA46wsBBdIPocAbxGRUQ17Ad3U=/fit-in/246x300/pic1909256.jpg",
+    "name": "Chrononauts"
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Lord of the Rings: The Confrontation | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/18833/lord-rings-confrontation" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Lord of the Rings: The Confrontation">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/7D6gFgTaqRSbIrwVkBjKg_HmzAM=/fit-in/445x445/pic1680704.jpg" />
+	<meta property="og:title" content="Lord of the Rings: The Confrontation" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/18833/lord-rings-confrontation" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Get Frodo to Mordor Stratego-style before shadow overtakes him." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Lord of the Rings: The Confrontation" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/alA7c1hPt5IqDN6qyYhKKkh0WGs=/fit-in/1200x630/pic1680704.jpg" />
+	<meta name="twitter:description" content="Get Frodo to Mordor Stratego-style before shadow overtakes him." />
+
+
+	<meta name="description" content="Get Frodo to Mordor Stratego-style before shadow overtakes him.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["18833"],"familyid":["8855","8848","4263","61979","5497"],"propertyid":["1022","2046","1023","1039","1010","2040","1064","1093","2016","2020","2015"],"personid":["12511","12509","12508","11884","2","12534","1533","21","12510"],"companyid":["2973","17","4617","15605","12540","5530","264","8291","3218"],"temp_co":["hot"],"temp_ppl":["hot","hot"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"333","baverage":"7.04931"},{"prettyname":"Strategy Game Rank","shortprettyname":"Strategy Rank","veryshortprettyname":"Strategy ","subdomain":"strategygames","rankobjecttype":"family","rankobjectid":5497,"rank":"214","baverage":"7.13914"}],"polls":{"userplayers":{"best":[{"min":2,"max":2}],"recommended":[{"min":2,"max":2}],"totalvotes":"72"},"playerage":"8+","languagedependence":"Moderate in-game text - needs crib sheet or paste ups","subdomain":"","boardgameweight":{"averageweight":2.200445434298441,"votes":"449"}},"stats":{"usersrated":"5479","average":"7.483","baverage":"7.04931","stddev":"1.33343","avgweight":"2.2004","numweights":"449","numgeeklists":"1644","numtrading":"194","numwanting":"274","numwish":"1251","numowned":"6759","numprevowned":"1067","numcomments":"1448","numwishlistcomments":"205","numhasparts":"1","numwantparts":"5","views":"416263","playmonth":"2020-06","numplays":"17644","numplays_month":"33","numfans":199},"relatedcounts":{"news":1,"blogs":20,"weblink":7,"podcast":0},"itemid":17574,"objecttype":"thing","objectid":18833,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/18833\/lord-rings-confrontation","subtype":"boardgame","subtypes":["boardgame","boardgameimplementation"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Lord of the Rings: The Confrontation","alternatename":null,"yearpublished":"2005","minplayers":"2","maxplayers":"2","minplaytime":"30","maxplaytime":"30","minage":"14","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Get Frodo to Mordor Stratego-style before shadow overtakes him.","links":{"boardgamedesigner":[{"name":"Reiner Knizia","objecttype":"person","objectid":"2","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/2\/reiner-knizia"},{"name":"Eric M. Lang","objecttype":"person","objectid":"1533","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/1533\/eric-m-lang"},{"name":"Christian T. Petersen","objecttype":"person","objectid":"21","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/21\/christian-t-petersen"}],"boardgameartist":[{"name":"Daarken","objecttype":"person","objectid":"12511","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12511\/daarken"},{"name":"Chris Dien","objecttype":"person","objectid":"12509","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12509\/chris-dien"},{"name":"John Gravato","objecttype":"person","objectid":"12508","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12508\/john-gravato"},{"name":"John Howe","objecttype":"person","objectid":"11884","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/11884\/john-howe"},{"name":"Michael Komarck","objecttype":"person","objectid":"12534","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12534\/michael-komarck"},{"name":"Sedone Thongvilay","objecttype":"person","objectid":"12510","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12510\/sedone-thongvilay"}],"boardgamepublisher":[{"name":"Edge Entertainment","objecttype":"company","objectid":"2973","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/2973\/edge-entertainment"},{"name":"Fantasy Flight Games","objecttype":"company","objectid":"17","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/17\/fantasy-flight-games"},{"name":"Galakta","objecttype":"company","objectid":"4617","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/4617\/galakta"},{"name":"Gal\u00e1pagos Jogos","objecttype":"company","objectid":"15605","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/15605\/galapagos-jogos"},{"name":"Game Harbor","objecttype":"company","objectid":"12540","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/12540\/game-harbor"},{"name":"Giochi Uniti","objecttype":"company","objectid":"5530","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/5530\/giochi-uniti"}],"boardgamehonor":[{"name":"2006 Golden Geek Best 2-Player Board Game Nominee","objecttype":"family","objectid":"8855","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/8855\/2006-golden-geek-best-2-player-board-game-nominee"},{"name":"2007 Golden Geek Best 2-Player Board Game Nominee","objecttype":"family","objectid":"8848","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/8848\/2007-golden-geek-best-2-player-board-game-nominee"}],"boardgamecategory":[{"name":"Adventure","objecttype":"property","objectid":"1022","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1022\/adventure"},{"name":"Bluffing","objecttype":"property","objectid":"1023","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1023\/bluffing"},{"name":"Deduction","objecttype":"property","objectid":"1039","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1039\/deduction"},{"name":"Fantasy","objecttype":"property","objectid":"1010","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1010\/fantasy"},{"name":"Movies \/ TV \/ Radio theme","objecttype":"property","objectid":"1064","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1064\/movies-tv-radio-theme"},{"name":"Novel-based","objecttype":"property","objectid":"1093","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1093\/novel-based"}],"boardgamemechanic":[{"name":"Area Movement","objecttype":"property","objectid":"2046","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2046\/area-movement"},{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Secret Unit Deployment","objecttype":"property","objectid":"2016","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2016\/secret-unit-deployment"},{"name":"Simultaneous Action Selection","objecttype":"property","objectid":"2020","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2020\/simultaneous-action-selection"},{"name":"Variable Player Powers","objecttype":"property","objectid":"2015","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2015\/variable-player-powers"}],"boardgameexpansion":[{"name":"Locust Horde (fan expansion for Lord of the Rings: The Confrontation)","objecttype":"thing","objectid":"127581","primarylink":0,"itemstate":"approved","href":"\/boardgame\/127581\/locust-horde-fan-expansion-lord-rings-confrontatio"}],"boardgameversion":[{"name":"Chinese edition","objecttype":"version","objectid":"268221","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/268221\/chinese-edition"},{"name":"English first edition","objecttype":"version","objectid":"23878","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/23878\/english-first-edition"},{"name":"English second edition","objecttype":"version","objectid":"209116","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/209116\/english-second-edition"},{"name":"Finnish edition","objecttype":"version","objectid":"227296","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/227296\/finnish-edition"},{"name":"French edition","objecttype":"version","objectid":"226479","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/226479\/french-edition"},{"name":"German second edition","objecttype":"version","objectid":"210020","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/210020\/german-second-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[{"name":"Lord of the Rings: The Confrontation","objecttype":"thing","objectid":"3201","primarylink":0,"itemstate":"approved","href":"\/boardgame\/3201\/lord-rings-confrontation"}],"boardgamefamily":[{"name":"Authors: J.R.R. Tolkien","objecttype":"family","objectid":"4263","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/4263\/authors-jrr-tolkien"},{"name":"Players: Two Player Only Games","objecttype":"family","objectid":"61979","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/61979\/players-two-player-only-games"}],"videogamebg":[{"name":"Reiner Knizia's The Confrontation","objecttype":"thing","objectid":"199301","primarylink":0,"itemstate":"approved","href":"\/videogame\/199301\/reiner-knizias-confrontation"},{"name":"Reiner Knizia's The Confrontation - Variant Mode","objecttype":"thing","objectid":"283695","primarylink":0,"itemstate":"approved","href":"\/videogame\/283695\/reiner-knizias-confrontation-variant-mode"}],"boardgamesubdomain":[{"name":"Strategy Games","objecttype":"family","objectid":"5497","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5497\/strategy-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":3,"boardgameartist":6,"boardgamepublisher":9,"boardgamehonor":2,"boardgamecategory":6,"boardgamemechanic":5,"boardgameexpansion":1,"boardgameversion":11,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":1,"boardgamefamily":2,"videogamebg":2,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":1,"alternatenamescount":11,"primaryname":{"nameid":"773560","name":"Lord of the Rings: The Confrontation","sortindex":"1","primaryname":"1","translit":"Lord of the Rings: The Confrontation"},"secondarynames":[{"nameid":"17574","name":"Lord of the Rings: The Confrontation (Deluxe Edition)","sortindex":"1","primaryname":"0","secondaryname":true}],"description":"<p>This Deluxe Edition of <a  href=\"\/boardgamedesigner\/2\/reiner-knizia\"   >Reiner Knizia<\/a>&rsquo;s acclaimed <a  href=\"\/boardgame\/3201\/lord-rings-confrontation\"   >Lord of the Rings: The Confrontation<\/a> combines a superb craftsmanship with an exciting expansion for this award-winning game.<\/p>\n\n<p><strong>The Confrontation<\/strong> is a two-player board game in which players take control of the forces of Sauron, seeking to find their master&rsquo;s ring, or the forces of the free peoples of Middle Earth seeking to destroy Sauron's ring in the fires of Mount Doom. One of the most acclaimed board games of recent years, <strong>The Confrontation<\/strong> allows players to control many of the famous characters of Tolkien's famous trilogy, while playing an intense 30-minute game that is a wonderful combination of bluffing and strategy. <strong>The Confrontation<\/strong> is designed by renowned game designer <a  href=\"\/boardgamedesigner\/2\/reiner-knizia\"   >Reiner Knizia<\/a>, and considered amongst his best works.<\/p>\n\n<p>WHAT'S NEW:<br \/>\n<strong>Deluxe Confrontation<\/strong> gives the game a new and larger gameboard, larger sculpted plastic stands, and completely new artwork and graphic design.  The game includes 18 entirely new characters in addition to the classic characters found in the original. The new characters allow players to play an entirely new game, or mix the new and the old characters for an entirely different game experience.  4 new Special Cards are also included, for additional special actions.<\/p>\n\n<p><strong>From the Box:<\/strong> The time has come for the final confrontation between Good and Evil in Middle Earth. Will the Hobbit Frodo and his companions bring the Ring to Mount Doom in Mordor? Or will they fall to the forces of Lord Sauron and lose Middle Earth to eternal darkness? Only one side can win!<br \/>\nThe Confrontation is a complete stand-alone game of strategy, bluffing, and adventure for two players.<br \/>\nThis deluxe edition of The Confrontation features stunning new artwork, a larger game board, four additional special game cards, and 18 beautifully sculpted character stand. In this edition you will not only be able to play the original classic game, but also an entirely new game variant with 18 new Lord of the Rings characters. Furthermore, players can enjoy an exciting draft game variant in which they may choose which of the 36 available characters to field.<\/p>\n\n","wiki":"<p><strong><a class=\"\" href=\"\/wiki\/page\/Awards#\">Awards<\/a><\/strong><\/p>\n\n<ul>\n    <li> 2003 <a class=\"\" href=\"\/wiki\/page\/International_Gamers_Award#\">International Gamers Award<\/a> Best 2-player Game Winner. <\/li>\n    <li> 2002 <a class=\"\" href=\"\/wiki\/page\/Meeples_Choice#\">Meeples Choice<\/a> Award<\/li>\n<\/ul>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Microbadge#\">Microbadges<\/a><\/strong><\/p>\n\n<p><a href=\"\/microbadge\/697\"><img alt='Microbadge: Lord of the Rings: The Confrontation fan'  onmouseover=\"return overlib('Lord of the Rings: The Confrontation fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_697_1.png\"><\/a> <a href=\"\/microbadge\/698\"><img alt='Microbadge: Lord of the Rings: The Confrontation fan'  onmouseover=\"return overlib('Lord of the Rings: The Confrontation fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_698_0.gif\"><\/a> <a href=\"\/microbadge\/4259\"><img alt='Microbadge: Lord of the Rings: The Confrontation (Deluxe Edition) fan'  onmouseover=\"return overlib('Lord of the Rings: The Confrontation (Deluxe Edition) fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_4259_0.gif\"><\/a><\/p>\n\n<p><strong>Components:<\/strong><br \/>\n<ul>\n    <li> 18 Combat Cards:<ul>\n        <li> 9 Fellowship Cards<\/li>\n        <li> 9 Sauron Cards<\/li>\n    <\/ul><\/li>\n    <li> 8 Special Cards<\/li>\n    <li> 18 Plastic Character Stands<\/li>\n    <li> 1 Game Board<\/li>\n    <li> 18 Character Tiles<\/li>\n    <li> 18 Character Tokens<\/li>\n    <li> 2 Reference Sheets<\/li>\n    <li> 1 Rulebook<\/li>\n<\/ul>\n\n<\/p>\n\n<p><strong>Dimensions<\/strong><\/p>\n\n<ul>\n    <li> Weight: 2 lbs. 12 oz. (1.25 kg)<\/li>\n    <li> Size: 12&quot; &times; 12&quot; &times; 3&quot; (305mm &times; 305mm &times; 76mm)<\/li>\n<\/ul>\n\n","website":{"url":"https:\/\/www.fantasyflightgames.com\/en\/products\/lord-of-the-rings-the-confrontation\/","title":"Web Site at FFG"},"imageid":"1680704","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/EfIpnO-dhrQ55QbLLrKm-LJwCWM=\/fit-in\/200x150\/pic1680704.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/HZUZDcXEsemcwwkbiXGe4UK7U-Y=\/fit-in\/64x64\/pic1680704.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/D4ohEBWxNjzCLebtRYGP4oi6gbs=\/75x75\/pic1680704.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/kn6QOlh70Ysi_bW_5ugQ_j9I39w=\/fit-in\/75x75\/pic1680704.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/t7gGwHGAhCwhsHOYvNTf4ZY5QUc=\/fit-in\/75x125\/pic1680704.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/q3CrYwQA0rsY2mwm0Pp6xi71byA=\/fit-in\/300x320\/pic1680704.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/GVzb1XVccyqZ0JlKBPI3f3Wm9Ic=\/200x200\/pic1680704.jpg"},"imagepagehref":"\/image\/1680704\/lord-rings-confrontation","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/aHKmk3dT3qcQ8saSo__fnZuB2Vk=\/fit-in\/246x300\/pic1680704.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/8-cp3qtfylka1vgDzg1BxziocCY=\/800x375\/filters:quality(30)\/pic170133.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"30"},"images":{"numitems":225},"videos":{"numitems":22}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.483",
+        "reviewCount": "5479",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/aHKmk3dT3qcQ8saSo__fnZuB2Vk=/fit-in/246x300/pic1680704.jpg",
+    "name": "Lord of the Rings: The Confrontation",
+    "description": "Get Frodo to Mordor Stratego-style before shadow overtakes him."
+}
+</script>
+
+</body>
+</html>

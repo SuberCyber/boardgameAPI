@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Lowlands | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/242804/lowlands" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Lowlands">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph/img/JBlf6XqdYqF6moihuuwJhEAEM0I=/fit-in/1200x630/pic4007841.jpg" />
+	<meta property="og:title" content="Lowlands" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/242804/lowlands" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Breed sheep for yourself? Or contribute to the group&#039;s safety by building the dyke?" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Lowlands" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/JBlf6XqdYqF6moihuuwJhEAEM0I=/fit-in/1200x630/pic4007841.jpg" />
+	<meta name="twitter:description" content="Breed sheep for yourself? Or contribute to the group&#039;s safety by building the dyke?" />
+
+
+	<meta name="description" content="Breed sheep for yourself? Or contribute to the group&#039;s safety by building the dyke?">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["242804"],"companyid":["22380","23205","30677","22609","538"],"propertyid":["2001","1013","2004","2002","2082"],"familyid":["7481","10309","5497"],"personid":["12035","105994","105995"],"temp_co":["hot"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"902","baverage":"6.55173"},{"prettyname":"Strategy Game Rank","shortprettyname":"Strategy Rank","veryshortprettyname":"Strategy ","subdomain":"strategygames","rankobjecttype":"family","rankobjectid":5497,"rank":"460","baverage":"6.72129"}],"polls":{"userplayers":{"best":[{"min":3,"max":3}],"recommended":[{"min":2,"max":4}],"totalvotes":"43"},"playerage":"12+","languagedependence":"Some necessary text - easily memorized or small crib sheet","subdomain":"","boardgameweight":{"averageweight":3.0192307692307692,"votes":"52"}},"stats":{"usersrated":"1689","average":"7.45804","baverage":"6.55173","stddev":"1.21048","avgweight":"3.0192","numweights":"52","numgeeklists":"327","numtrading":"56","numwanting":"413","numwish":"1482","numowned":"2663","numprevowned":"249","numcomments":"336","numwishlistcomments":"150","numhasparts":"0","numwantparts":"0","views":"186430","playmonth":"2020-06","numplays":"3795","numplays_month":"31","numfans":68},"relatedcounts":{"news":2,"blogs":34,"weblink":19,"podcast":5},"itemid":1907431,"objecttype":"thing","objectid":242804,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/242804\/lowlands","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Lowlands","alternatename":null,"yearpublished":"2018","minplayers":"2","maxplayers":"4","minplaytime":"50","maxplaytime":"100","minage":"12","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":"188100","playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Breed sheep for yourself? Or contribute to the group's safety by building the dyke?","links":{"boardgamedesigner":[{"name":"Claudia Partenheimer","objecttype":"person","objectid":"105994","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/105994\/claudia-partenheimer"},{"name":"Ralf Partenheimer","objecttype":"person","objectid":"105995","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/105995\/ralf-partenheimer"}],"boardgameartist":[{"name":"Andrea Boekhoff","objecttype":"person","objectid":"12035","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/12035\/andrea-boekhoff"}],"boardgamepublisher":[{"name":"Feuerland Spiele","objecttype":"company","objectid":"22380","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/22380\/feuerland-spiele"},{"name":"DiceTree Games","objecttype":"company","objectid":"23205","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/23205\/dicetree-games"},{"name":"Maldito Games","objecttype":"company","objectid":"30677","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/30677\/maldito-games"},{"name":"\u30c6\u30f3\u30c7\u30a4\u30ba\u30b2\u30fc\u30e0\u30ba (Ten Days Games)","objecttype":"company","objectid":"22609","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/22609\/ten-days-games"},{"name":"Z-Man Games, Inc.","objecttype":"company","objectid":"538","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/538\/z-man-games-inc"}],"boardgamehonor":[],"boardgamecategory":[{"name":"Farming","objecttype":"property","objectid":"1013","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1013\/farming"}],"boardgamemechanic":[{"name":"Action Points","objecttype":"property","objectid":"2001","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2001\/action-points"},{"name":"Set Collection","objecttype":"property","objectid":"2004","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2004\/set-collection"},{"name":"Tile Placement","objecttype":"property","objectid":"2002","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2002\/tile-placement"},{"name":"Worker Placement","objecttype":"property","objectid":"2082","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2082\/worker-placement"}],"boardgameexpansion":[{"name":"Brettspiel Adventskalender 2018","objecttype":"thing","objectid":"256951","primarylink":0,"itemstate":"approved","href":"\/boardgame\/256951\/brettspiel-adventskalender-2018"},{"name":"Lowlands: Brettspiel Adventskalender 2018 Promo","objecttype":"thing","objectid":"264041","primarylink":0,"itemstate":"approved","href":"\/boardgame\/264041\/lowlands-brettspiel-adventskalender-2018-promo"}],"boardgameversion":[{"name":"English edition","objecttype":"version","objectid":"395629","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/395629\/english-edition"},{"name":"French edition","objecttype":"version","objectid":"408989","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/408989\/french-edition"},{"name":"German edition","objecttype":"version","objectid":"388190","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/388190\/german-edition"},{"name":"Japanese edition","objecttype":"version","objectid":"400961","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/400961\/japanese-edition"},{"name":"Korean edition","objecttype":"version","objectid":"416619","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/416619\/korean-edition"},{"name":"Spanish edition","objecttype":"version","objectid":"395972","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/395972\/spanish-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[],"boardgamefamily":[{"name":"Animals: Sheep","objecttype":"family","objectid":"7481","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/7481\/animals-sheep"},{"name":"Country: The Netherlands","objecttype":"family","objectid":"10309","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10309\/country-netherlands"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Strategy Games","objecttype":"family","objectid":"5497","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5497\/strategy-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":2,"boardgameartist":1,"boardgamepublisher":5,"boardgamehonor":0,"boardgamecategory":1,"boardgamemechanic":4,"boardgameexpansion":2,"boardgameversion":6,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":0,"boardgamefamily":2,"videogamebg":0,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":5,"primaryname":{"nameid":"1405068","name":"Lowlands","sortindex":"1","primaryname":"1","translit":"Lowlands"},"description":"<p>The low land is a rough area where hard-working folk make a living by the sweat of their brow. Under constant threat of storm and flood, communities here rally together to build dikes that keep the rising water at bay. But every citizen constructing a dike is one fewer citizen tending flocks and maintaining the family farm. The residents here are constantly torn between selflessness and self-interest, and only those who can strike this delicate balance can thrive in this harsh landscape.<\/p>\n\n<p>In <em><strong>Lowlands<\/strong><\/em>, you carve your farm out of this unforgiving land, gathering and spending resource cards to transform your farmyard into pastures that allow you to profit from breeding sheep. Adding expansions to your farm will unlock new options and score you victory points, but helping to build the dike that collectively protects all players is also rewarded. No matter what, the tide will rise and, if the dike isn't high enough, it could rush in and sweep away your hard-earned profits. Will you sacrifice your own farm for the good of the community, or will you pursue your own agenda? The choice is yours.<\/p>\n\n<p>Even without the poor weather, life on a farm is one of constant work where you find yourself tending flocks of sheep, extending their pastures, and looking for the right moment to sell them for a profit. To complete all these tasks, <em>Lowlands<\/em> gives you a group of farmers that you can assign to various tasks around your farm. To get the most out of them, you must think strategically, deciding which actions you want to take and the best time to take them. Once they've been assigned, your farmers help you build a bustling farm where there was once scrubby bushes, trees, and lakes. You begin the game with only two sheep and a small pasture, but your farmyard is rife with possibilities, its many empty spaces inviting you to customize your farm as you see fit.<\/p>\n\n<p>While you could simply focus on creating more area for your sheep to roam, the game also provides plenty of options for customizing your farm with various buildings and features. Not only are these tiles worth victory points at the end of the game, they also make your farm more efficient and more profitable. You might add a feeding trough to your farm, for example, to immediately earn another sheep and the ability to house two sheep per pasture space instead of just one. Or you could construct a lake cabin on your property to get away from it all for a bit. While this tile doesn't give you any special abilities, it increases the value in victory points of the farmyard spaces immediately adjacent to it. Ultimately, you are free to pursue whatever strategy you see fit, building a farm wholly your own.<\/p>\n\n<p>On top of the challenges of building a successful farm, of course, you also have to deal with the tempestuous weather that comes with living on the wave-battered coast of the North Sea. Here, the tides always seem to rise a little higher, threatening to take a dent out of your profits by sweeping away some of your flock. To ensure that this doesn't happen, you always have the opportunity to send your farmers to contribute to the dike instead of working on your farm. When you do, you also commit resources to creating dike elements that are added to the board as a buffer against the rising waters. Add enough of these pieces and you might prevent disaster for everyone. The tide turns repeatedly, bringing with it new flood pieces. If there are enough dike elements in place to hold back the rising waters, players' farms are spared. If the dike breaks, however, you could be forced to take dike breach tokens that have adverse effects at the end of the game.<\/p>\n\n<p>While lending a hand with the dike at the expense of your own farm is certainly a nice gesture that keeps everyone safe from the floodwaters, it has rewards of its own. For each resource you contribute to the dike, you advance one step up the dike track. Not only does advancing far enough on this track grant victory points, it also amplifies your reward if the dike holds and lessens the blow when it breaks. It is in your best interest, then, to keep pace with other players on the dike in order to protect your investments back home one the farm.<\/p>\n\n<p>&mdash;<em>description from the publisher<\/em><\/p>\n\n","wiki":"<p><strong>Microbadges<\/strong><\/p>\n\n<p><a href=\"\/microbadge\/44675\"><img alt='Microbadge: Lowlands fan'  onmouseover=\"return overlib('Lowlands fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_44675_0.png\"><\/a> Lowlands fan<\/p>\n\n","website":{"url":"https:\/\/www.zmangames.com\/en\/products\/lowlands\/","title":"Lowlands - Official Product Page"},"imageid":"4007841","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/9OnQqaSpMj6BnkpiOHXJJ6Hytm8=\/fit-in\/200x150\/pic4007841.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/1QM3dIg0jmLWjECTkjgWAP4bm5c=\/fit-in\/64x64\/pic4007841.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/ZmduZGgasqCqJ3tMTje4W3zPAG4=\/75x75\/pic4007841.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/im0fyvtU8K2r_ntGdHZ6TK661Lg=\/fit-in\/75x75\/pic4007841.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/lrcftxsWGGGpA2jLg0CNes_fops=\/fit-in\/75x125\/pic4007841.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/Dhd2hkF9kYaYzYZkjtUwbDh0jUQ=\/fit-in\/300x320\/pic4007841.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/U58DHXl47Atpsf3DDnydnH71ZaE=\/200x200\/pic4007841.jpg"},"imagepagehref":"\/image\/4007841\/lowlands","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/xB_YE9lHcUuVXKvrr-YnVV_3Qpo=\/fit-in\/246x300\/pic4007841.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/YTBJsU046a9L5gMgXCTHyF6-NpE=\/800x375\/filters:quality(30)\/pic4007842.png","itemstate":"approved","promoted_ad":null,"special_user":null,"summary_video":{"id":"188100","type":"videos","videoid":188100,"title":"Lowlands \u2014 game overview at Gen Con 2018","description":"","descriptionXml":"<?xml version=\"1.0\"?>\n<xml\/>\n","postdate":"2018-08-28T14:47:53+00:00","gallery":"interview","submitter":15734,"hidden":false,"blocks_ads":false,"language":{"name":"English","id":"eng","type":"languages"},"source":{"type":"things","id":"242804"},"video":{"host":"youtube","id":"buacSAWYJ0o"},"href":"\/video\/188100\/lowlands\/lowlands-game-overview-gen-con-2018","canonical_link":"https:\/\/boardgamegeek.com\/video\/188100\/lowlands\/lowlands-game-overview-gen-con-2018","browse_href":"\/boardgame\/242804\/lowlands\/videos\/all","links":[{"rel":"self","uri":"\/api\/videos\/188100"},{"rel":"thumbs.total","uri":"\/api\/videos\/188100\/reactions?totalonly=1"},{"rel":"thumbs","uri":"\/api\/videos\/188100\/reactions"},{"rel":"tips","uri":"\/api\/videos\/188100\/tips"},{"rel":"tips.total","uri":"\/api\/videos\/188100\/tips?totalonly=1"},{"rel":"comments","uri":"\/api\/videos\/188100\/comments"}]}},"media":{"files":{"numitems":"11"},"images":{"numitems":67},"videos":{"numitems":27}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.45804",
+        "reviewCount": "1689",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/xB_YE9lHcUuVXKvrr-YnVV_3Qpo=/fit-in/246x300/pic4007841.jpg",
+    "name": "Lowlands",
+    "description": "Breed sheep for yourself? Or contribute to the group's safety by building the dyke?"
+}
+</script>
+
+</body>
+</html>

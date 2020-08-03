@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Santorini | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/194655/santorini" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Santorini">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/lrStOX-loXoo8FH_715kjL3iF00=/fit-in/445x445/pic3283110.png" />
+	<meta property="og:title" content="Santorini" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/194655/santorini" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Out-think your opponent and use your godlike powers in this abstract chess-like game." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Santorini" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/aL3ylg4WfWekpXaOq9fij-eRgHg=/fit-in/1200x630/pic3283110.png" />
+	<meta name="twitter:description" content="Out-think your opponent and use your godlike powers in this abstract chess-like game." />
+
+
+	<meta name="description" content="Out-think your opponent and use your godlike powers in this abstract chess-like game.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["194655"],"companyid":["21765","15605","8291","1905"],"familyid":["46074","48836","48402","48827","4666","26432","5607","39749","10640","8374","5499","27549","4705","52433"],"propertyid":["1009","1050","1082","2940","2019","2944","2015"],"personid":["70571","70568","3302"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"136","baverage":"7.37933"},{"prettyname":"Abstract Game Rank","shortprettyname":"Abstract Rank","veryshortprettyname":"Abstract ","subdomain":"abstracts","rankobjecttype":"family","rankobjectid":4666,"rank":"7","baverage":"7.35662"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"18","baverage":"7.3949"}],"polls":{"userplayers":{"best":[{"min":2,"max":2}],"recommended":[{"min":2,"max":3}],"totalvotes":"322"},"playerage":"6+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":1.7249417249417249,"votes":"429"}},"stats":{"usersrated":"23714","average":"7.53921","baverage":"7.37933","stddev":"1.30651","avgweight":"1.7249","numweights":"429","numgeeklists":"2502","numtrading":"602","numwanting":"646","numwish":"5907","numowned":"39077","numprevowned":"2118","numcomments":"3855","numwishlistcomments":"711","numhasparts":"11","numwantparts":"7","views":"1256530","playmonth":"2020-06","numplays":"139392","numplays_month":"1085","numfans":948},"relatedcounts":{"news":2,"blogs":255,"weblink":33,"podcast":43},"itemid":1511385,"objecttype":"thing","objectid":194655,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/194655\/santorini","subtype":"boardgame","subtypes":["boardgame","boardgameimplementation"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Santorini","alternatename":null,"yearpublished":"2016","minplayers":"2","maxplayers":"4","minplaytime":"20","maxplaytime":"20","minage":"8","override_rankable":0,"targetco_url":"","walmart_id":"56091752","instructional_videoid":null,"summary_videoid":"94814","playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Out-think your opponent and use your godlike powers in this abstract chess-like game.","links":{"boardgamedesigner":[{"name":"Gord!","objecttype":"person","objectid":"3302","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/3302\/gord"}],"boardgameartist":[{"name":"Lina Cossette","objecttype":"person","objectid":"70571","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/70571\/lina-cossette"},{"name":"David Forest","objecttype":"person","objectid":"70568","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/70568\/david-forest"}],"boardgamepublisher":[{"name":"Roxley","objecttype":"company","objectid":"21765","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/21765\/roxley"},{"name":"Gal\u00e1pagos Jogos","objecttype":"company","objectid":"15605","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/15605\/galapagos-jogos"},{"name":"Korea Boardgames co., Ltd.","objecttype":"company","objectid":"8291","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/8291\/korea-boardgames-co-ltd"},{"name":"Spin Master Ltd.","objecttype":"company","objectid":"1905","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/1905\/spin-master-ltd"}],"boardgamehonor":[{"name":"2017 International Gamers Award - General Strategy: Two-players Nominee","objecttype":"family","objectid":"46074","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/46074\/2017-international-gamers-award-general-strategy-t"},{"name":"2018 Origins Awards Best Board Game Nominee","objecttype":"family","objectid":"48836","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/48836\/2018-origins-awards-best-board-game-nominee"},{"name":"2018 Spiel des Jahres Recommended","objecttype":"family","objectid":"48402","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/48402\/2018-spiel-des-jahres-recommended"},{"name":"2018 SXSW Tabletop Game of the Year Nominee","objecttype":"family","objectid":"48827","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/48827\/2018-sxsw-tabletop-game-year-nominee"}],"boardgamecategory":[{"name":"Abstract Strategy","objecttype":"property","objectid":"1009","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1009\/abstract-strategy"},{"name":"Ancient","objecttype":"property","objectid":"1050","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1050\/ancient"},{"name":"Mythology","objecttype":"property","objectid":"1082","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1082\/mythology"}],"boardgamemechanic":[{"name":"Square Grid","objecttype":"property","objectid":"2940","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2940\/square-grid"},{"name":"Team-Based Game","objecttype":"property","objectid":"2019","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2019\/team-based-game"},{"name":"Three Dimensional Movement","objecttype":"property","objectid":"2944","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2944\/three-dimensional-movement"},{"name":"Variable Player Powers","objecttype":"property","objectid":"2015","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2015\/variable-player-powers"}],"boardgameexpansion":[{"name":"Santorini: Asteria Promo Card","objecttype":"thing","objectid":"263952","primarylink":0,"itemstate":"approved","href":"\/boardgame\/263952\/santorini-asteria-promo-card"},{"name":"Santorini: Castor & Pollux Promo Card","objecttype":"thing","objectid":"233952","primarylink":0,"itemstate":"approved","href":"\/boardgame\/233952\/santorini-castor-pollux-promo-card"},{"name":"Santorini: Eris Promo Card","objecttype":"thing","objectid":"239580","primarylink":0,"itemstate":"approved","href":"\/boardgame\/239580\/santorini-eris-promo-card"},{"name":"Santorini: Golden Fleece","objecttype":"thing","objectid":"216033","primarylink":0,"itemstate":"approved","href":"\/boardgame\/216033\/santorini-golden-fleece"},{"name":"Santorini: Hippolyta Promo Card","objecttype":"thing","objectid":"263954","primarylink":0,"itemstate":"approved","href":"\/boardgame\/263954\/santorini-hippolyta-promo-card"},{"name":"Santorini: Hydra Promo Card","objecttype":"thing","objectid":"263957","primarylink":0,"itemstate":"approved","href":"\/boardgame\/263957\/santorini-hydra-promo-card"}],"boardgameversion":[{"name":"Korean edition","objecttype":"version","objectid":"455402","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/455402\/korean-edition"},{"name":"Portuguese edition","objecttype":"version","objectid":"459045","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/459045\/portuguese-edition"},{"name":"Roxley English \"White Cover\" special edition","objecttype":"version","objectid":"306919","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/306919\/roxley-english-white-cover-special-edition"},{"name":"Roxley English first edition","objecttype":"version","objectid":"302440","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/302440\/roxley-english-first-edition"},{"name":"Roxley English second edition","objecttype":"version","objectid":"333816","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/333816\/roxley-english-second-edition"},{"name":"Roxley Print & Play edition","objecttype":"version","objectid":"319555","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/319555\/roxley-print-play-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[{"name":"Santorini","objecttype":"thing","objectid":"9963","primarylink":0,"itemstate":"approved","href":"\/boardgame\/9963\/santorini"}],"boardgamefamily":[{"name":"Combinatorial","objecttype":"family","objectid":"26432","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/26432\/combinatorial"},{"name":"Components: 3-Dimensional (3D)","objecttype":"family","objectid":"5607","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/5607\/components-3-dimensional-3d"},{"name":"Components: 5 x 5 Grid","objecttype":"family","objectid":"39749","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/39749\/components-5-x-5-grid"},{"name":"Country: Greece","objecttype":"family","objectid":"10640","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10640\/country-greece"},{"name":"Crowdfunding: Kickstarter","objecttype":"family","objectid":"8374","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/8374\/crowdfunding-kickstarter"},{"name":"Islands: Santorini (Greece)","objecttype":"family","objectid":"27549","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/27549\/islands-santorini-greece"}],"videogamebg":[{"name":"Santorini","objecttype":"thing","objectid":"267023","primarylink":0,"itemstate":"approved","href":"\/videogame\/267023\/santorini"}],"boardgamesubdomain":[{"name":"Abstract Games","objecttype":"family","objectid":"4666","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/4666\/abstract-games"},{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":2,"boardgamepublisher":4,"boardgamehonor":4,"boardgamecategory":3,"boardgamemechanic":4,"boardgameexpansion":14,"boardgameversion":13,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":1,"boardgamefamily":8,"videogamebg":1,"boardgamesubdomain":2,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":1,"primaryname":{"nameid":"1115430","name":"Santorini","sortindex":"1","primaryname":"1","translit":"Santorini"},"description":"<p><em><strong>Santorini<\/strong><\/em> is a re-imagining of the purely abstract 2004 edition. Since its original inception over 30 years ago, Santorini has been continually developed, enhanced and refined by designer Gordon Hamilton.<\/p>\n\n<p>Santorini is an accessible strategy game, simple enough for an elementary school classroom while aiming to provide gameplay depth and content for hardcore gamers to explore, The rules are simple. Each turn consists of 2 steps:<\/p>\n\n<p><strong>1. Move<\/strong> - move one of your builders into a neighboring space. You may move your Builder Pawn on the same level, step-up one level, or step down any number of levels.<\/p>\n\n<p><strong>2. Build<\/strong> - Then construct a building level adjacent to the builder you moved.  When building on top of the third level, place a dome instead, removing that space from play.<\/p>\n\n<p><strong>Winning the game<\/strong> - If either of your builders reaches the third level, you win.<\/p>\n\n<p><strong>Variable player powers<\/strong> - Santorini features variable player powers layered over an otherwise abstract game, with 40 thematic god and hero powers that fundamentally change the way the game is played.<\/p>\n\n","wiki":"<p><a class='anchor-target' name=\"Components\"><\/a>\t\t\t\t<a class=\"anchor-target\" id=\"toc0\"><\/a>\n\t\t\t\t<div>\n\t\t\t\t\t<h4>Components<\/h4><\/p>\n\n<ul>\n    <li> 18 &times; Domes<\/li>\n    <li> 22 &times; Level 1 Blocks<\/li>\n    <li> 18 &times; Level 2 Blocks<\/li>\n    <li> 14 &times; Level 3 Blocks<\/li>\n    <li> 1 &times; Ocean Board [not included in Spin Master edition]<\/li>\n    <li> 1 &times; Cliff Pedestal<\/li>\n    <li> 1 &times; Island Board<\/li>\n    <li> 6 &times; Workers (3 colors)<\/li>\n    <li> 30 &times; God Powers<\/li>\n<\/ul>\n\n<p><\/div><a class='anchor-target' name=\"Microbadges\"><\/a>\t\t\t\t<a class=\"anchor-target\" id=\"toc1\"><\/a>\n\t\t\t\t<div>\n\t\t\t\t\t<h4><a class=\"\" href=\"\/wiki\/page\/Microbadges#\">Microbadges<\/a><\/h4><\/p>\n\n<p><a href=\"\/microbadge\/7503\"><img alt='Microbadge: Santorini fan'  onmouseover=\"return overlib('Santorini fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_7503_0.gif\"><\/a> &middot; <a href=\"\/microbadge\/38860\"><img alt='Microbadge: Santorini fan'  onmouseover=\"return overlib('Santorini fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_38860_0.png\"><\/a> &middot; <a href=\"\/microbadge\/38859\"><img alt='Microbadge: I backed Santorini on Kickstarter!'  onmouseover=\"return overlib('I backed Santorini on Kickstarter!', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_38859_0.png\"><\/a> &middot; <a href=\"\/microbadge\/42264\"><img alt='Microbadge: Santorini fan'  onmouseover=\"return overlib('Santorini fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_42264_0.png\"><\/a> &middot; Santorini fan<br \/>\n<a href=\"\/microbadge\/47709\"><img alt='Microbadge: I&#039;ve played Santorini in Santorini'  onmouseover=\"return overlib('I\\&#039;ve played Santorini in Santorini', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_47709_0.png\"><\/a> &middot; I've played Santorini in Santorini<\/p>\n\n<p><\/div><a class='anchor-target' name=\"Online_Play\"><\/a>\t\t\t\t<a class=\"anchor-target\" id=\"toc2\"><\/a>\n\t\t\t\t<div>\n\t\t\t\t\t<h4><a class=\"\" href=\"\/wiki\/page\/Online_Play#\">Online Play<\/a><\/h4><\/p>\n\n<ul>\n    <li> <a class=\"\" href=\"\/wiki\/page\/Boardspace.net#\">Boardspace.net<\/a> (real-time, AI option)<\/li>\n<\/ul>\n\n<\/div><\/div><\/div>","website":{"url":false},"imageid":"3283110","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/rQjxEM5tXcxTEpZOP2sWh6lfrKc=\/fit-in\/200x150\/pic3283110.png","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/HXJza7gzeP7FUGgV_sm28qtSQ7I=\/fit-in\/64x64\/pic3283110.png","square":"https:\/\/cf.geekdo-images.com\/square\/img\/-kOVLx6qHk59HX5WjI_ON-MXYLQ=\/75x75\/pic3283110.png","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/w9Lm3PLL9ZfYCW4QbXXqOWNdQG0=\/fit-in\/75x75\/pic3283110.png","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/E--430xqdBtJMGlJhTfzTnIkJJA=\/fit-in\/75x125\/pic3283110.png","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/OHSpPrEft5MMroCgFHrTPcoPrdE=\/fit-in\/300x320\/pic3283110.png","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/F_Pv-7YVk3kaVl6q_k1y72FyDgQ=\/200x200\/pic3283110.png"},"imagepagehref":"\/image\/3283110\/santorini","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/aGxcEgay9lJY29JXC4WoHMK-eC8=\/fit-in\/246x300\/pic3283110.png","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/-5YOJK2jawRUvk17Z9x7ANJB1S4=\/800x375\/filters:quality(30)\/pic3309414.jpg","itemstate":"approved","promoted_ad":null,"special_user":null,"summary_video":{"id":"94814","type":"videos","videoid":94814,"title":"Santorini overview at GAMA Trade Show 2016","description":"","descriptionXml":"<?xml version=\"1.0\"?>\n<xml\/>\n","postdate":"2016-04-02T03:38:48+00:00","gallery":"interview","submitter":15734,"hidden":false,"blocks_ads":false,"language":{"name":"English","id":"eng","type":"languages"},"source":{"type":"things","id":"194655"},"video":{"host":"youtube","id":"xwiSdNZkB0Y"},"href":"\/video\/94814\/santorini\/santorini-overview-gama-trade-show-2016","canonical_link":"https:\/\/boardgamegeek.com\/video\/94814\/santorini\/santorini-overview-gama-trade-show-2016","browse_href":"\/boardgame\/194655\/santorini\/videos\/all","links":[{"rel":"self","uri":"\/api\/videos\/94814"},{"rel":"thumbs.total","uri":"\/api\/videos\/94814\/reactions?totalonly=1"},{"rel":"thumbs","uri":"\/api\/videos\/94814\/reactions"},{"rel":"tips","uri":"\/api\/videos\/94814\/tips"},{"rel":"tips.total","uri":"\/api\/videos\/94814\/tips?totalonly=1"},{"rel":"comments","uri":"\/api\/videos\/94814\/comments"}]},"walmart_price":"$15.88"},"media":{"files":{"numitems":"35"},"images":{"numitems":537},"videos":{"numitems":233}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.53921",
+        "reviewCount": "23714",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/aGxcEgay9lJY29JXC4WoHMK-eC8=/fit-in/246x300/pic3283110.png",
+    "name": "Santorini",
+    "description": "Out-think your opponent and use your godlike powers in this abstract chess-like game."
+}
+</script>
+
+</body>
+</html>

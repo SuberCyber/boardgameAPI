@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Galaxy Trucker: Anniversary Edition | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/140068/galaxy-trucker-anniversary-edition" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Galaxy Trucker: Anniversary Edition">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_letterbox/img/CovvHldbgOLtXhr_8KBrMWnIA20=/fit-in/1200x630/filters:fill(auto)/pic1575124.jpg" />
+	<meta property="og:title" content="Galaxy Trucker: Anniversary Edition" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/140068/galaxy-trucker-anniversary-edition" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="A big box collection of the original game of speed spaceship building and explosions." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Galaxy Trucker: Anniversary Edition" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/ZuUimCubkmTXyP63yUaFuUGQiL8=/fit-in/1200x630/pic1575124.jpg" />
+	<meta name="twitter:description" content="A big box collection of the original game of speed spaceship building and explosions." />
+
+
+	<meta name="description" content="A big box collection of the original game of speed spaceship building and explosions.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["140068"],"companyid":["7345","264","8923","3"],"temp_co":["hot","hot"],"personid":["789","11938"],"temp_ppl":["hot"],"propertyid":["2072","2850","2047","1037","2831","2954","1016","1113","2019","2002","2939","1011"],"familyid":["5496"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"0","baverage":"7.24672"},{"prettyname":"Thematic Rank","shortprettyname":"Thematic Rank","veryshortprettyname":"Thematic","subdomain":"thematic","rankobjecttype":"family","rankobjectid":5496,"rank":"0","baverage":"7.58233"}],"polls":{"userplayers":{"best":[{"min":4,"max":4}],"recommended":[{"min":2,"max":5}],"totalvotes":"38"},"playerage":"10+","languagedependence":"Some necessary text - easily memorized or small crib sheet","subdomain":"","boardgameweight":{"averageweight":2.8059701492537314,"votes":"134"}},"stats":{"usersrated":"2698","average":"8.19897","baverage":"7.24672","stddev":"1.25433","avgweight":"2.806","numweights":"134","numgeeklists":"592","numtrading":"70","numwanting":"280","numwish":"801","numowned":"4806","numprevowned":"375","numcomments":"610","numwishlistcomments":"124","numhasparts":"4","numwantparts":"0","views":"165089","playmonth":"2020-06","numplays":"7059","numplays_month":"8","numfans":174},"relatedcounts":{"news":0,"blogs":34,"weblink":4,"podcast":2},"itemid":984004,"objecttype":"thing","objectid":140068,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/140068\/galaxy-trucker-anniversary-edition","subtype":"boardgame","subtypes":["boardgame","boardgamecompilation"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Galaxy Trucker: Anniversary Edition","alternatename":null,"yearpublished":"2012","minplayers":"2","maxplayers":"5","minplaytime":"60","maxplaytime":"120","minage":"10","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"A big box collection of the original game of speed spaceship building and explosions.","links":{"boardgamedesigner":[{"name":"Vlaada Chv\u00e1til","objecttype":"person","objectid":"789","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/789\/vlaada-chvatil"}],"boardgameartist":[{"name":"Radim Pech","objecttype":"person","objectid":"11938","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/11938\/radim-pech"}],"boardgamepublisher":[{"name":"Czech Games Edition","objecttype":"company","objectid":"7345","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/7345\/czech-games-edition"},{"name":"Heidelberger Spieleverlag","objecttype":"company","objectid":"264","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/264\/heidelberger-spieleverlag"},{"name":"IELLO","objecttype":"company","objectid":"8923","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/8923\/iello"},{"name":"Rio Grande Games","objecttype":"company","objectid":"3","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/3\/rio-grande-games"}],"boardgamehonor":[],"boardgamecategory":[{"name":"Real-time","objecttype":"property","objectid":"1037","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1037\/real-time"},{"name":"Science Fiction","objecttype":"property","objectid":"1016","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1016\/science-fiction"},{"name":"Space Exploration","objecttype":"property","objectid":"1113","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1113\/space-exploration"},{"name":"Transportation","objecttype":"property","objectid":"1011","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1011\/transportation"}],"boardgamemechanic":[{"name":"Dice Rolling","objecttype":"property","objectid":"2072","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2072\/dice-rolling"},{"name":"Events","objecttype":"property","objectid":"2850","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2850\/events"},{"name":"Memory","objecttype":"property","objectid":"2047","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2047\/memory"},{"name":"Real-Time","objecttype":"property","objectid":"2831","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2831\/real-time"},{"name":"Relative Movement","objecttype":"property","objectid":"2954","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2954\/relative-movement"},{"name":"Team-Based Game","objecttype":"property","objectid":"2019","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2019\/team-based-game"}],"boardgameexpansion":[{"name":"Galaxy Trucker: Latest Models","objecttype":"thing","objectid":"144227","primarylink":0,"itemstate":"approved","href":"\/boardgame\/144227\/galaxy-trucker-latest-models"},{"name":"Galaxy Trucker: Missions","objecttype":"thing","objectid":"182027","primarylink":0,"itemstate":"approved","href":"\/boardgame\/182027\/galaxy-trucker-missions"}],"boardgameversion":[{"name":"English edition","objecttype":"version","objectid":"203782","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/203782\/english-edition"},{"name":"French edition","objecttype":"version","objectid":"203784","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/203784\/french-edition"},{"name":"German edition","objecttype":"version","objectid":"203783","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/203783\/german-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[{"name":"Galaxy Trucker","objecttype":"thing","objectid":"31481","primarylink":0,"itemstate":"approved","href":"\/boardgame\/31481\/galaxy-trucker"},{"name":"Galaxy Trucker: Another Big Expansion","objecttype":"thing","objectid":"97845","primarylink":0,"itemstate":"approved","href":"\/boardgame\/97845\/galaxy-trucker-another-big-expansion"},{"name":"Galaxy Trucker: Bonus Cards","objecttype":"thing","objectid":"40484","primarylink":0,"itemstate":"approved","href":"\/boardgame\/40484\/galaxy-trucker-bonus-cards"},{"name":"Galaxy Trucker: Even-Steven Cards","objecttype":"thing","objectid":"132435","primarylink":0,"itemstate":"approved","href":"\/boardgame\/132435\/galaxy-trucker-even-steven-cards"},{"name":"Galaxy Trucker: Rough Road Ahead","objecttype":"thing","objectid":"33963","primarylink":0,"itemstate":"approved","href":"\/boardgame\/33963\/galaxy-trucker-rough-road-ahead"},{"name":"Galaxy Trucker: The Big Expansion","objecttype":"thing","objectid":"38378","primarylink":0,"itemstate":"approved","href":"\/boardgame\/38378\/galaxy-trucker-big-expansion"}],"containedin":[],"reimplementation":[],"reimplements":[],"boardgamefamily":[],"videogamebg":[],"boardgamesubdomain":[{"name":"Thematic Games","objecttype":"family","objectid":"5496","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5496\/thematic-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":1,"boardgamepublisher":4,"boardgamehonor":0,"boardgamecategory":4,"boardgamemechanic":8,"boardgameexpansion":2,"boardgameversion":3,"expandsboardgame":0,"boardgameintegration":0,"contains":6,"containedin":0,"reimplementation":0,"reimplements":0,"boardgamefamily":0,"videogamebg":0,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":2,"primaryname":{"nameid":"757184","name":"Galaxy Trucker: Anniversary Edition","sortindex":"1","primaryname":"1","translit":"Galaxy Trucker: Anniversary Edition"},"description":"<p>In a galaxy far, far away... they need sewer systems, too. Corporation Incorporated builds them. Everyone knows their drivers&mdash;the brave men and women who fear no danger and would, if the pay was good enough, even fly through Hell.<\/p>\n\n<p>Now you can join them. You will gain access to prefabricated spaceship components cleverly made from sewer pipes. Can you build a space ship durable enough to weather storms of meteors? Armed enough to defend against pirates? Big enough to carry a large crew and valuable cargo? Fast enough to get there first?<\/p>\n\n<p>In <strong>Galaxy Trucker<\/strong>, players will frantically race to build a space-worthy space ship, simultaneously grabbing tiles from a pile of parts in the center of the table.  Players can add engines, phasers, crew modules, cargo modules, shields, and all sorts of parts to their ship.<\/p>\n\n<p>Once players finish building their ships, they launch into space.  One at a time, cards are revealed showing a current event in the flight mission.  You'll encounter good things, such as planets full of goods to load, abandoned space ships to commandeer, and decidedly less good things, such as space pirates and asteroid fields.<\/p>\n\n<p>The player best able to survive the rigors of these flights (it's not easy, as your ship will repeatedly be tested in its ability to not fall apart) while also earning the most cash will earn the title of Galaxy Trucker.<\/p>\n\n<p><strong>Galaxy Trucker: Anniversary Edition<\/strong> is a special release of Galaxy Trucker which includes all expansions to date.  Experienced galaxy truckers will appreciate the increased difficulty (sometimes bordering on insane!) the expansions can provide, while even less experienced truckers will appreciate the game-to-game variety the expansions afford.<\/p>\n\n","wiki":"<p><a class='anchor-target' name=\"Contents\"><\/a>\t\t\t\t<a class=\"anchor-target\" id=\"toc0\"><\/a>\n\t\t\t\t<div>\n\t\t\t\t\t<h3>Contents:<\/h3><\/p>\n\n<p><strong>Galaxy Trucker:<\/strong> 1 Flight board, 8 two-sided ship boards, 60 Adventure cards (20 in each level), 64 Cosmic Credit pieces in various denominations, 144 space ship components (including 4 starting components in 4 player colors), 4 numbered tiles, 40 plastic grey astronaut figures, 8 plastic alien figures in 2 different colors, 8 plastic rocket markers in 4 player colors, 36 plastic battery tokens, 56 wooden goods blocks in 4 colors, 1 two-sided card with rules for Rounds II and III, 2 dice, 1 timer, 1 rulebook.<\/p>\n\n<p><strong>The Big Expansion:<\/strong> 7 two-sided ship boards, 6 bonus Adventure cards, 24 Evil Machination cards, 25 Rough Road cards, 5 Alien Specialization cards, 20 Cosmic Credit pieces, 12 Loan tokens, 42 space ship components (including 1 starting component in 5th player color, 1 numbered tile, 14 plastic astronaut figures, 7 plastic alien figures, 2 plastic rocket markers in 5th player color, 6 plastic battery tokens, 8 wooden goods blocks in 4 colors, 1 rulebook.<\/p>\n\n<p><strong>Another Big Expansion:<\/strong> 10 two-sided ship boards, 42 space ship components, 19 Cosmic Credit pieces, 32 Adventure cards, 5 cards for the Big Expansion, 18 support team members with cards and tokens, 1 Round IV rules tile, 1 rulebook.<\/p>\n\n<p><strong>Also Included:<\/strong> 1 Overview sheet, 1 Comic Book &quot;Close Encounter&quot;, 5 Even-Steven cards.<\/p>\n\n<p><strong>Microbadges<\/strong><\/p>\n\n<p><a href=\"\/microbadge\/29152\"><img alt='Microbadge: Galaxy Trucker fan'  onmouseover=\"return overlib('Galaxy Trucker fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_29152_0.png\"><\/a> <a rel=\"nofollow\" href=\"http:\/\/boardgamegeek.com\/microbadge\/29152\" onclick=\"window.open(this.href, '_blank'); return false;\">Galaxy Trucker fan<\/a><br \/>\n<\/p>\n\n<\/div><\/div>","website":{"url":"http:\/\/czechgames.com\/en\/galaxy-trucker-anniversary-edition\/","title":"Webpage at Czech Games Publisher"},"imageid":"1575124","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/AdsPmUGOFoxBkNPE4f7GMOnZ5Zc=\/fit-in\/200x150\/pic1575124.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/uYCt8EP3IID5mkULAWyNMLjvDzo=\/fit-in\/64x64\/pic1575124.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/_i_gz7Vb3mwCpT1PgwWNiB7a-vI=\/75x75\/pic1575124.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/kbhrXCkZ-wsgUaqIigwswNQFkYs=\/fit-in\/75x75\/pic1575124.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/mZlOMlUFLd23xMitg3yRG_0fbpI=\/fit-in\/75x125\/pic1575124.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/Q0Tk7Zgm-kFu-adiRmM2ebWc9Mo=\/fit-in\/300x320\/pic1575124.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/lCr8KFtKEH_PsqNzZjyIN-E4Pl8=\/200x200\/pic1575124.jpg"},"imagepagehref":"\/image\/1575124\/galaxy-trucker-anniversary-edition","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/IUP_ntdWPE9WeywOG19MUEXskUw=\/fit-in\/246x300\/pic1575124.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/8RX_g0jd9qs6egKgUGYmwddj84s=\/800x375\/filters:quality(30)\/pic1577549.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"11"},"images":{"numitems":98},"videos":{"numitems":8}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "8.19897",
+        "reviewCount": "2698",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/IUP_ntdWPE9WeywOG19MUEXskUw=/fit-in/246x300/pic1575124.jpg",
+    "name": "Galaxy Trucker: Anniversary Edition",
+    "description": "A big box collection of the original game of speed spaceship building and explosions."
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Spyfall | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/166384/spyfall" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Spyfall">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/APP5WEuhtBGi4JbnWNgBz1LoRuU=/fit-in/445x445/pic2453926.jpg" />
+	<meta property="og:title" content="Spyfall" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/166384/spyfall" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Players ask each other probing questions to detect the Spy." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Spyfall" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/cUOFI-i8JbHp4JDYCYo9nsBx-Jw=/fit-in/1200x630/pic2453926.jpg" />
+	<meta name="twitter:description" content="Players ask each other probing questions to detect the Spy." />
+
+
+	<meta name="description" content="Players ask each other probing questions to detect the Spy.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["166384"],"companyid":["18852","25074","7162","4335","12024","2400","29797","917","155","30940","25996","30399","30521","32395","32581","22","14346","41167","7466","21053","25973","35809"],"familyid":["26783","26782","46045","55673","48496","48497","35991","49383","5498"],"propertyid":["2073","1023","1039","1079","2047","1030","2028","2892","1081","2866","2814","2017"],"personid":["69037","69038","78199"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"593","baverage":"6.79025"},{"prettyname":"Party Game Rank","shortprettyname":"Party Rank","veryshortprettyname":"Party ","subdomain":"partygames","rankobjecttype":"family","rankobjectid":5498,"rank":"41","baverage":"6.83383"}],"polls":{"userplayers":{"best":[{"min":6,"max":6}],"recommended":[{"min":4,"max":8}],"totalvotes":"176"},"playerage":"12+","languagedependence":"Some necessary text - easily memorized or small crib sheet","subdomain":"","boardgameweight":{"averageweight":1.24373576309795,"votes":"439"}},"stats":{"usersrated":"17215","average":"6.91902","baverage":"6.79025","stddev":"1.40183","avgweight":"1.2437","numweights":"439","numgeeklists":"2660","numtrading":"789","numwanting":"288","numwish":"2583","numowned":"24300","numprevowned":"2331","numcomments":"2811","numwishlistcomments":"456","numhasparts":"9","numwantparts":"6","views":"952473","playmonth":"2020-06","numplays":"93788","numplays_month":"132","numfans":351},"relatedcounts":{"news":4,"blogs":181,"weblink":53,"podcast":41},"itemid":1233651,"objecttype":"thing","objectid":166384,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/166384\/spyfall","subtype":"boardgame","subtypes":["boardgame","boardgameintegration"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Spyfall","alternatename":null,"yearpublished":"2014","minplayers":"3","maxplayers":"8","minplaytime":"15","maxplaytime":"15","minage":"13","override_rankable":0,"targetco_url":"https:\/\/goto.target.com\/c\/274613\/78775\/2092?aadid=50032599&u=http%3A%2F%2Fwww.target.com%2Fp%2Fcryptozoic-spyfall-card-game%2F-%2FA-50032599","walmart_id":null,"instructional_videoid":null,"summary_videoid":"57166","playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Players ask each other probing questions to detect the Spy.","links":{"boardgamedesigner":[{"name":"Alexandr Ushan","objecttype":"person","objectid":"78199","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/78199\/alexandr-ushan"}],"boardgameartist":[{"name":"Sergey Dulin","objecttype":"person","objectid":"69037","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/69037\/sergey-dulin"},{"name":"Uildrim","objecttype":"person","objectid":"69038","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/69038\/uildrim"}],"boardgamepublisher":[{"name":"Hobby World","objecttype":"company","objectid":"18852","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/18852\/hobby-world"},{"name":"BoardM Factory","objecttype":"company","objectid":"25074","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/25074\/boardm-factory"},{"name":"Brain Games","objecttype":"company","objectid":"7162","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/7162\/brain-games"},{"name":"Competo \/ Marektoy","objecttype":"company","objectid":"4335","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/4335\/competo-marektoy"},{"name":"Cryptozoic Entertainment","objecttype":"company","objectid":"12024","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/12024\/cryptozoic-entertainment"},{"name":"Desyllas Games","objecttype":"company","objectid":"2400","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/2400\/desyllas-games"}],"boardgamehonor":[{"name":"2014 Golden Geek Best Party Board Game Nominee","objecttype":"family","objectid":"26783","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/26783\/2014-golden-geek-best-party-board-game-nominee"},{"name":"2014 Golden Geek Most Innovative Board Game Nominee","objecttype":"family","objectid":"26782","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/26782\/2014-golden-geek-most-innovative-board-game-nomine"},{"name":"2015 Cardboard Republic Socializer Laurel Nominee","objecttype":"family","objectid":"46045","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/46045\/2015-cardboard-republic-socializer-laurel-nominee"},{"name":"2015 Vuoden Peli Party Game of the Year Nominee","objecttype":"family","objectid":"55673","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/55673\/2015-vuoden-peli-party-game-year-nominee"},{"name":"2016 \u00c5rets Spil Best Adult Game Nominee","objecttype":"family","objectid":"48496","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/48496\/2016-arets-spil-best-adult-game-nominee"},{"name":"2016 \u00c5rets Spil Best Adult Game Winner","objecttype":"family","objectid":"48497","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/48497\/2016-arets-spil-best-adult-game-winner"}],"boardgamecategory":[{"name":"Bluffing","objecttype":"property","objectid":"1023","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1023\/bluffing"},{"name":"Deduction","objecttype":"property","objectid":"1039","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1039\/deduction"},{"name":"Humor","objecttype":"property","objectid":"1079","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1079\/humor"},{"name":"Party Game","objecttype":"property","objectid":"1030","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1030\/party-game"},{"name":"Spies\/Secret Agents","objecttype":"property","objectid":"1081","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1081\/spiessecret-agents"}],"boardgamemechanic":[{"name":"Acting","objecttype":"property","objectid":"2073","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2073\/acting"},{"name":"Memory","objecttype":"property","objectid":"2047","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2047\/memory"},{"name":"Role Playing","objecttype":"property","objectid":"2028","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2028\/role-playing"},{"name":"Roles with Asymmetric Information","objecttype":"property","objectid":"2892","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2892\/roles-asymmetric-information"},{"name":"Targeted Clues","objecttype":"property","objectid":"2866","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2866\/targeted-clues"},{"name":"Traitor Game","objecttype":"property","objectid":"2814","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2814\/traitor-game"}],"boardgameexpansion":[{"name":"Spyfall: Cathedral promo cards","objecttype":"thing","objectid":"166638","primarylink":0,"itemstate":"approved","href":"\/boardgame\/166638\/spyfall-cathedral-promo-cards"},{"name":"Spyfall: Dracula's Castle","objecttype":"thing","objectid":"289184","primarylink":0,"itemstate":"approved","href":"\/boardgame\/289184\/spyfall-draculas-castle"},{"name":"Spyfall: Gaming Convention promo cards","objecttype":"thing","objectid":"191942","primarylink":0,"itemstate":"approved","href":"\/boardgame\/191942\/spyfall-gaming-convention-promo-cards"},{"name":"Spyfall: Ice Hockey Stadium promo cards","objecttype":"thing","objectid":"172193","primarylink":0,"itemstate":"approved","href":"\/boardgame\/172193\/spyfall-ice-hockey-stadium-promo-cards"},{"name":"Spyfall: Produce Farm promo cards","objecttype":"thing","objectid":"260353","primarylink":0,"itemstate":"approved","href":"\/boardgame\/260353\/spyfall-produce-farm-promo-cards"},{"name":"Spyfall: The Box Is Not Enough","objecttype":"thing","objectid":"183969","primarylink":0,"itemstate":"approved","href":"\/boardgame\/183969\/spyfall-box-not-enough"}],"boardgameversion":[{"name":"Baltic edition","objecttype":"version","objectid":"294216","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/294216\/baltic-edition"},{"name":"Chinese edition","objecttype":"version","objectid":"283255","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/283255\/chinese-edition"},{"name":"Czech edition","objecttype":"version","objectid":"330664","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/330664\/czech-edition"},{"name":"Dutch edition","objecttype":"version","objectid":"286785","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/286785\/dutch-edition"},{"name":"English first edition","objecttype":"version","objectid":"254031","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/254031\/english-first-edition"},{"name":"English second edition","objecttype":"version","objectid":"264585","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/264585\/english-second-edition"}],"expandsboardgame":[],"boardgameintegration":[{"name":"DC Spyfall","objecttype":"thing","objectid":"221371","primarylink":0,"itemstate":"approved","href":"\/boardgame\/221371\/dc-spyfall"},{"name":"Spyfall 2","objecttype":"thing","objectid":"193308","primarylink":0,"itemstate":"approved","href":"\/boardgame\/193308\/spyfall-2"},{"name":"Spyfall: Time Travel","objecttype":"thing","objectid":"256085","primarylink":0,"itemstate":"approved","href":"\/boardgame\/256085\/spyfall-time-travel"}],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[],"boardgamefamily":[{"name":"Players: One versus Many","objecttype":"family","objectid":"49383","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/49383\/players-one-versus-many"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Party Games","objecttype":"family","objectid":"5498","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5498\/party-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":2,"boardgamepublisher":22,"boardgamehonor":7,"boardgamecategory":5,"boardgamemechanic":7,"boardgameexpansion":8,"boardgameversion":23,"expandsboardgame":0,"boardgameintegration":3,"contains":0,"containedin":0,"reimplementation":0,"reimplements":0,"boardgamefamily":1,"videogamebg":0,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":9,"primaryname":{"nameid":"924350","name":"Spyfall","sortindex":"1","primaryname":"1","translit":"Spyfall"},"description":"<p><em><strong>Spyfall<\/strong><\/em> is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple!<\/p>\n\n<p><em>Spyfall<\/em> is played over several rounds, and at the start of each round all players receive cards showing the same location &mdash; a casino, a traveling circus, a pirate ship, or even a space station &mdash; except that one player receives a card that says &quot;Spy&quot; instead of the location. Players then start asking each other questions &mdash; &quot;Why are you dressed so strangely?&quot; or &quot;When was the last time we got a payday?&quot; or anything else you can come up with &mdash; trying to guess who among them is the spy. The spy doesn't know where he is, so he has to listen carefully. When it's his time to answer, he'd better create a good story!<\/p>\n\n<p>At any time during a round, one player may accuse another of being a spy. If all other players agree with the accusation, the round ends and the accused player has to reveal his identity. If the spy is uncovered, all other players score points.  However, the spy can himself end a round by announcing that he understands what the secret location is; if his guess is correct, only the spy scores points.<\/p>\n\n<p>After a few rounds of guessing, suspicion and bluffing, the game ends and whoever has scored the most points is victorious!<\/p>\n\n","wiki":"<p>Game contents:<\/p>\n\n<p>210 cards (30 decks of 7 cards each)<br \/>\n30 Spy cards<br \/>\n30 ziplock bags<br \/>\nRulebook<\/p>\n\n<p><strong>Microbadges:<\/strong><\/p>\n\n<p><a href=\"\/microbadge\/33648\"><img alt='Microbadge: Spyfall fan'  onmouseover=\"return overlib('Spyfall fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_33648_0.png\"><\/a> <a href=\"\/microbadge\/33801\"><img alt='Microbadge: Spyfall fan'  onmouseover=\"return overlib('Spyfall fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_33801_0.png\"><\/a> <a href=\"\/microbadge\/36089\"><img alt='Microbadge: Spyfall fan'  onmouseover=\"return overlib('Spyfall fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_36089_0.png\"><\/a><\/p>\n\n<p><strong>Sleeves:<\/strong><br \/>\nMTG sized<\/p>\n\n","website":{"url":"http:\/\/international.hobbyworld.ru\/spyfall","title":"Spyfall - Official publisher page"},"imageid":"2453926","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/6TauOkp3QbGx6V2m924QgMBc858=\/fit-in\/200x150\/pic2453926.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/-1l8-mEuSZ4DnQuo3FUnZ7hJMi4=\/fit-in\/64x64\/pic2453926.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/lbh30KqotJBpBU10t1L9H06afrA=\/75x75\/pic2453926.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/r5nVB-TNcaCUnLTHS_AYm71bvRI=\/fit-in\/75x75\/pic2453926.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/X_EAj2v6iNzngn1XGnyWhfHrtUg=\/fit-in\/75x125\/pic2453926.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/NpkXrGVitLkMHR0sh8Tw2DbjTg8=\/fit-in\/300x320\/pic2453926.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/llr5tFkJHyCOroHbee6EK2uLbao=\/200x200\/pic2453926.jpg"},"imagepagehref":"\/image\/2453926\/spyfall","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/8gQ9kYUqU8W5vbE1UnDqPvXHae4=\/fit-in\/246x300\/pic2453926.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/nbX6ujvv3plY0nvf1aQOoVJnSV4=\/800x375\/filters:quality(30)\/pic2250469.png","itemstate":"approved","promoted_ad":null,"special_user":null,"summary_video":{"id":"57166","type":"videos","videoid":57166,"title":"Overview of Spyfall at Spiel 2014","description":"Overview of [b][i]Spyfall[\/i][\/b] in the BGG booth at Spiel 2014.","descriptionXml":"<?xml version=\"1.0\"?>\n<xml><safehtml>Overview of &lt;strong&gt;&lt;em&gt;Spyfall&lt;\/em&gt;&lt;\/strong&gt; in the BGG booth at Spiel 2014.<\/safehtml><\/xml>\n","postdate":"2014-11-11T19:24:10+00:00","gallery":"interview","submitter":15734,"hidden":false,"blocks_ads":false,"language":{"name":"English","id":"eng","type":"languages"},"source":{"type":"things","id":"166384"},"video":{"host":"youtube","id":"jVW6HoEIfYM"},"href":"\/video\/57166\/spyfall\/overview-spyfall-spiel-2014","canonical_link":"https:\/\/boardgamegeek.com\/video\/57166\/spyfall\/overview-spyfall-spiel-2014","browse_href":"\/boardgame\/166384\/spyfall\/videos\/all","links":[{"rel":"self","uri":"\/api\/videos\/57166"},{"rel":"thumbs.total","uri":"\/api\/videos\/57166\/reactions?totalonly=1"},{"rel":"thumbs","uri":"\/api\/videos\/57166\/reactions"},{"rel":"tips","uri":"\/api\/videos\/57166\/tips"},{"rel":"tips.total","uri":"\/api\/videos\/57166\/tips?totalonly=1"},{"rel":"comments","uri":"\/api\/videos\/57166\/comments"}]}},"media":{"files":{"numitems":"63"},"images":{"numitems":107},"videos":{"numitems":111}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.91902",
+        "reviewCount": "17215",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/8gQ9kYUqU8W5vbE1UnDqPvXHae4=/fit-in/246x300/pic2453926.jpg",
+    "name": "Spyfall",
+    "description": "Players ask each other probing questions to detect the Spy."
+}
+</script>
+
+</body>
+</html>

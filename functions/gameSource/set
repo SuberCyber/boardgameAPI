@@ -1,0 +1,209 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>SET | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/1198/set" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="SET">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_letterbox/img/D_Q5N4HJ7MUbS5864DFIq3i6yzU=/fit-in/1200x630/filters:fill(auto)/pic3524881.jpg" />
+	<meta property="og:title" content="SET" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/1198/set" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="In SET, each card contains 1-3 objects, with all of the objects on a card having the same color, shape and shading, e.g., two purple shaded ovals. Colors, shapes, and shadings come in three different types: green, purple and red; oval, diamond and squiggle; and solid, shaded and outlined.
+
+All players compete simultaneously and try to claim sets of cards in a single pass through the deck. A set consists of three cards that are either all alike or all different in each attribute. For example, if all three cards have the same number of objects, but three different shapes, shadings, and colors, then those cards are a set; if two of the cards have a common attribute that is not shared by the third, they are not a set.
+
+To play, one person takes the deck and lays out twelve cards face up. The first person to spot a set collects those three cards; if the player was mistaken, then this player cannot claim a set until after another player has done so. After someone has claimed a set, the cardholder lays out three more cards. (If all players agree that no sets can be claimed, then the cardholder lays out three more cards. These cards aren&#039;t replaced after someone claims a set.) Whoever claims the most sets wins!" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="SET" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/PYHY_dm5B3_pfnci2Ms3xlS0tV4=/fit-in/1200x630/pic3524881.jpg" />
+	<meta name="twitter:description" content="In SET, each card contains 1-3 objects, with all of the objects on a card having the same color, shape and shading, e.g., two purple shaded ovals. Colors, shapes, and shadings come in three different types: green, purple and red; oval, diamond and squiggle; and solid, shaded and outlined.
+
+All players compete simultaneously and try to claim sets of cards in a single pass through the deck. A set consists of three cards that are either all alike or all different in each attribute. For example, if all three cards have the same number of objects, but three different shapes, shadings, and colors, then those cards are a set; if two of the cards have a common attribute that is not shared by the third, they are not a set.
+
+To play, one person takes the deck and lays out twelve cards face up. The first person to spot a set collects those three cards; if the player was mistaken, then this player cannot claim a set until after another player has done so. After someone has claimed a set, the cardholder lays out three more cards. (If all players agree that no sets can be claimed, then the cardholder lays out three more cards. These cards aren&#039;t replaced after someone claims a set.) Whoever claims the most sets wins!" />
+
+
+	<meta name="description" content="In SET, each card contains 1-3 objects, with all of the objects on a card having the same color, shape and shading, e.g., two purple shaded ovals. Colors, shapes, and shadings come in three different types: green, purple and red; oval, diamond and squiggle; and solid, shaded and outlined.
+
+All players compete simultaneously and try to claim sets of cards in a single pass through the deck. A set consists of three cards that are either all alike or all different in each attribute. For example, if all three cards have the same number of objects, but three different shapes, shadings, and colors, then those cards are a set; if two of the cards have a common attribute that is not shared by the third, they are not a set.
+
+To play, one person takes the deck and lays out twelve cards face up. The first person to spot a set collects those three cards; if the player was mistaken, then this player cannot claim a set until after another player has done so. After someone has claimed a set, the cardholder lays out three more cards. (If all players agree that no sets can be claimed, then the cardholder lays out three more cards. These cards aren&#039;t replaced after someone claims a set.) Whoever claims the most sets wins!">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["1198"],"companyid":["109","267","8","6784","7162","14813","2378","2366","531","11","8845","155","6275","6214","8291","9325","11107","34","9234"],"familyid":["12385","8955","4666","5499","6485","5666","17407","26829"],"propertyid":["1002","2060","1028","1037","2004"],"personid":["620","35394","11883"],"temp_co":["hot"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"1371","baverage":"6.30359"},{"prettyname":"Abstract Game Rank","shortprettyname":"Abstract Rank","veryshortprettyname":"Abstract ","subdomain":"abstracts","rankobjecttype":"family","rankobjectid":4666,"rank":"145","baverage":"6.25704"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"462","baverage":"6.30672"}],"polls":{"userplayers":{"best":[{"min":3,"max":4}],"recommended":[{"min":1,"max":8}],"totalvotes":"89"},"playerage":"6+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":1.6877828054298643,"votes":"663"}},"stats":{"usersrated":"10313","average":"6.48692","baverage":"6.30359","stddev":"1.56646","avgweight":"1.6878","numweights":"663","numgeeklists":"2088","numtrading":"364","numwanting":"35","numwish":"443","numowned":"16735","numprevowned":"1012","numcomments":"2409","numwishlistcomments":"81","numhasparts":"11","numwantparts":"7","views":"298725","playmonth":"2020-06","numplays":"31523","numplays_month":"130","numfans":199},"relatedcounts":{"news":1,"blogs":28,"weblink":75,"podcast":5},"itemid":1037,"objecttype":"thing","objectid":1198,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/1198\/set","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"SET","alternatename":null,"yearpublished":"1988","minplayers":"1","maxplayers":"20","minplaytime":"30","maxplaytime":"30","minage":"6","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":null,"links":{"boardgamedesigner":[{"name":"Marsha J. Falco","objecttype":"person","objectid":"620","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/620\/marsha-j-falco"}],"boardgameartist":[{"name":"John Langdon","objecttype":"person","objectid":"35394","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/35394\/john-langdon"},{"name":"Franz Vohwinkel","objecttype":"person","objectid":"11883","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/11883\/franz-vohwinkel"}],"boardgamepublisher":[{"name":"Set Enterprises, Inc.","objecttype":"company","objectid":"109","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/109\/set-enterprises-inc"},{"name":"999 Games","objecttype":"company","objectid":"267","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/267\/999-games"},{"name":"AMIGO","objecttype":"company","objectid":"8","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/8\/amigo"},{"name":"Bergsala Enigma","objecttype":"company","objectid":"6784","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/6784\/bergsala-enigma"},{"name":"Brain Games","objecttype":"company","objectid":"7162","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/7162\/brain-games"},{"name":"Compaya.hu - Gamer Caf\u00e9 Kft.","objecttype":"company","objectid":"14813","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/14813\/compayahu-gamer-cafe-kft"}],"boardgamehonor":[{"name":"1991 Mensa Select Winner","objecttype":"family","objectid":"12385","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/12385\/1991-mensa-select-winner"},{"name":"1995 Fairplay \u00c0 la carte Winner","objecttype":"family","objectid":"8955","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/8955\/1995-fairplay-la-carte-winner"}],"boardgamecategory":[{"name":"Card Game","objecttype":"property","objectid":"1002","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1002\/card-game"},{"name":"Puzzle","objecttype":"property","objectid":"1028","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1028\/puzzle"},{"name":"Real-time","objecttype":"property","objectid":"1037","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1037\/real-time"}],"boardgamemechanic":[{"name":"Pattern Recognition","objecttype":"property","objectid":"2060","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2060\/pattern-recognition"},{"name":"Set Collection","objecttype":"property","objectid":"2004","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2004\/set-collection"}],"boardgameexpansion":[],"boardgameversion":[{"name":"999 Dutch tiny tins edition","objecttype":"version","objectid":"439990","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/439990\/999-dutch-tiny-tins-edition"},{"name":"999 Games Dutch edition 2009","objecttype":"version","objectid":"38172","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/38172\/999-games-dutch-edition-2009"},{"name":"AMIGO German edition 2013","objecttype":"version","objectid":"193822","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/193822\/amigo-german-edition-2013"},{"name":"Brain Games Baltic edition 2015","objecttype":"version","objectid":"289126","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/289126\/brain-games-baltic-edition-2015"},{"name":"Compaya.hu Hungarian first edition","objecttype":"version","objectid":"277415","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/277415\/compayahu-hungarian-first-edition"},{"name":"Copag Brazilian edition 2013","objecttype":"version","objectid":"214625","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/214625\/copag-brazilian-edition-2013"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[{"name":"Set Cubed","objecttype":"thing","objectid":"34583","primarylink":0,"itemstate":"approved","href":"\/boardgame\/34583\/set-cubed"},{"name":"SET Junior","objecttype":"thing","objectid":"128290","primarylink":0,"itemstate":"approved","href":"\/boardgame\/128290\/set-junior"},{"name":"Set Schnupperspiel","objecttype":"thing","objectid":"168390","primarylink":0,"itemstate":"approved","href":"\/boardgame\/168390\/set-schnupperspiel"}],"reimplements":[],"boardgamefamily":[{"name":"Game: Set","objecttype":"family","objectid":"26829","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/26829\/game-set"},{"name":"Mensa Select","objecttype":"family","objectid":"6485","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/6485\/mensa-select"},{"name":"Players: Games with Solitaire Rules","objecttype":"family","objectid":"5666","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/5666\/players-games-solitaire-rules"},{"name":"Ravensburger Kartenspiele","objecttype":"family","objectid":"17407","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/17407\/ravensburger-kartenspiele"}],"videogamebg":[{"name":"SET","objecttype":"thing","objectid":"84449","primarylink":0,"itemstate":"approved","href":"\/videogame\/84449\/set"},{"name":"SET Mania \u2013 The Official SET Card Game App for The Family Game of Visual Perception","objecttype":"thing","objectid":"242862","primarylink":0,"itemstate":"approved","href":"\/videogame\/242862\/set-mania-official-set-card-game-app-family-game-v"},{"name":"SET Pro HD","objecttype":"thing","objectid":"242861","primarylink":0,"itemstate":"approved","href":"\/videogame\/242861\/set-pro-hd"}],"boardgamesubdomain":[{"name":"Abstract Games","objecttype":"family","objectid":"4666","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/4666\/abstract-games"},{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":2,"boardgamepublisher":19,"boardgamehonor":2,"boardgamecategory":3,"boardgamemechanic":2,"boardgameexpansion":0,"boardgameversion":34,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":3,"reimplements":0,"boardgamefamily":4,"videogamebg":3,"boardgamesubdomain":2,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":1,"alternatenamescount":4,"primaryname":{"nameid":"1037","name":"SET","sortindex":"1","primaryname":"1","translit":"SET"},"secondarynames":[{"nameid":"43345","name":"Set!","sortindex":"1","primaryname":"0","secondaryname":true}],"description":"<p>In <em><strong>SET<\/strong><\/em>, each card contains 1-3 objects, with all of the objects on a card having the same color, shape and shading, e.g., two purple shaded ovals. Colors, shapes, and shadings come in three different types: green, purple and red; oval, diamond and squiggle; and solid, shaded and outlined.<\/p>\n\n<p>All players compete simultaneously and try to claim sets of cards in a single pass through the deck. A <strong>set<\/strong> consists of three cards that are either all alike or all different in each attribute. For example, if all three cards have the same number of objects, but three different shapes, shadings, and colors, then those cards are a set; if two of the cards have a common attribute that is not shared by the third, they are not a set.<\/p>\n\n<p>To play, one person takes the deck and lays out twelve cards face up. The first person to spot a set collects those three cards; if the player was mistaken, then this player cannot claim a set until after another player has done so. After someone has claimed a set, the cardholder lays out three more cards. (If all players agree that no sets can be claimed, then the cardholder lays out three more cards. These cards aren't replaced after someone claims a set.) Whoever claims the most sets wins!<\/p>\n\n","wiki":"<p><strong><a class=\"\" href=\"\/wiki\/page\/Awards#\">Awards<\/a><\/strong> (from SET Enterprises web site)<br \/>\n<ul>\n    <li> 2007 Creative Child's Preferred Choice Award <\/li>\n    <li> 2007 TDMonthly Classic Toy award<\/li>\n    <li> 2005 &quot;Top 100 Games of 2005&quot; Games Quartely<\/li>\n    <li> 2004 ASTRA Hot Toys<\/li>\n    <li> 2004 Parents' Choice 'Best 25 games of the past 25 years'<\/li>\n    <li> 2002 Bernis's Major Fun award<\/li>\n    <li> 2002 NSSEA - Top New Product<\/li>\n    <li> 2001 Teachers' Choice Learning Award<\/li>\n    <li> 2001 Educational Clearinghouse A+ Award<\/li>\n    <li> 2000 Top Ten Games - Wizards of the Coast<\/li>\n    <li> 1999 Parents' Council award<\/li>\n    <li> 1998 Parents Magazine<\/li>\n    <li> 1997 Parents' Choice Award<\/li>\n    <li> 1996 Dr. Toy's 10 Best Games<\/li>\n    <li> 1996 ASTRA Top Toy Pick<\/li>\n    <li> 1995 Games Magazine 'Games 100' Award<\/li>\n    <li> 1995 Deutscher Spiele Preis<\/li>\n    <li> 1994 Games Magazine 'Games 100' Award<\/li>\n    <li> 1993 Games Magazine 'Games 100' Award<\/li>\n    <li> 1992 The Consumers Association of Quebec<\/li>\n    <li> 1992 The Canadian Toy Testing Council<\/li>\n    <li> 1992 Games Magazine 'Games 100' Award<\/li>\n    <li> 1991 The Detroit News<\/li>\n    <li> 1991 OMNI Magazine<\/li>\n    <li> 1991 <a class=\"\" href=\"\/wiki\/page\/Mensa_Select#\">Mensa Select<\/a><\/li>\n<\/ul>\n\n<\/p>\n\n<p><strong>Components<\/strong><\/p>\n\n<ul>\n    <li> 81 game cards<ul>\n        <li> each card has 1 of 3 colors (27 green, 27 purple, 27 red)<\/li>\n        <li> each card has 1 of 3 numbers (27 1-shape, 27 2-shapes, 27 3-shapes)<\/li>\n        <li> each card has 1 of 3 shadings (27 filled-in, 27 outlined, 27 shaded)<\/li>\n        <li> each card has 1 of 3 symbols (27 ovals, 27 squiggles, 27 diamonds)<\/li>\n    <\/ul><\/li>\n    <li> Rulesheet<\/li>\n<\/ul>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Microbadges#\">Microbadges<\/a><\/strong><\/p>\n\n<p><a href=\"\/microbadge\/2170\"><img alt='Microbadge: Set fan'  onmouseover=\"return overlib('Set fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_2170_0.gif\"><\/a> &ndash; <em>Set<\/em> fan<br \/>\n<a href=\"\/microbadge\/10865\"><img alt='Microbadge: Set fan - I find the braintwisting sets fastest!'  onmouseover=\"return overlib('Set fan - I find the braintwisting sets fastest!', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_10865_0.gif\"><\/a> &ndash; I find the braintwisting sets fastest<\/p>\n\n","website":{"url":"http:\/\/www.setgame.com\/set","title":"SET Official Page"},"imageid":"3524881","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/4Bv47un83Z7se_n4aXmudg1Sq4A=\/fit-in\/200x150\/pic3524881.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/EfZ-K8YqhT9HBnzhCgZvUacVa1g=\/fit-in\/64x64\/pic3524881.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/FoBJQ-3KoYFoGl21Jjb4hOqa2FY=\/75x75\/pic3524881.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/koeKJ54TlNNPZq_tObyXFBRPxuU=\/fit-in\/75x75\/pic3524881.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/fkRuxDbVIDlU_kMnIXIknJLr0eg=\/fit-in\/75x125\/pic3524881.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/704HczZqVz-nmwvV2ajsGmF2Bvc=\/fit-in\/300x320\/pic3524881.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/h7MGSIwnJhI2QJfQyov07FjzHHw=\/200x200\/pic3524881.jpg"},"imagepagehref":"\/image\/3524881\/set","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/kLDFlo0zshyd-Z8IF8dzIYqXavQ=\/fit-in\/246x300\/pic3524881.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/WsXp3paiTVyV137dqwfoZOrksEM=\/800x375\/filters:quality(30)\/pic125449.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"9"},"images":{"numitems":154},"videos":{"numitems":42}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.48692",
+        "reviewCount": "10313",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/kLDFlo0zshyd-Z8IF8dzIYqXavQ=/fit-in/246x300/pic3524881.jpg",
+    "name": "SET"
+}
+</script>
+
+</body>
+</html>

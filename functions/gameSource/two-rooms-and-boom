@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Two Rooms and a Boom | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Two Rooms and a Boom">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/WBzgCuYrhhEIerxaX6P2Zy5lUGs=/fit-in/445x445/pic2335221.png" />
+	<meta property="og:title" content="Two Rooms and a Boom" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/134352/two-rooms-and-boom" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Help the president or hunt him down in this social deduction game for 6-30 players." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Two Rooms and a Boom" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/Ov63923cqg6EwcpsLMzvsotQwOI=/fit-in/1200x630/pic2335221.png" />
+	<meta name="twitter:description" content="Help the president or hunt him down in this social deduction game for 6-30 players." />
+
+
+	<meta name="description" content="Help the president or hunt him down in this social deduction game for 6-30 players.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["134352"],"familyid":["24519","8374","56318","5498","2989"],"propertyid":["2073","1023","1002","1039","1026","1030","1120","1081","2019","2015","2017"],"personid":["65404","65405","65405"],"companyid":["24028"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"839","baverage":"6.59315"},{"prettyname":"Party Game Rank","shortprettyname":"Party Rank","veryshortprettyname":"Party ","subdomain":"partygames","rankobjecttype":"family","rankobjectid":5498,"rank":"47","baverage":"6.79561"}],"polls":{"userplayers":{"best":[{"min":10,"max":10},{"min":14,"max":14},{"min":16,"max":16},{"min":18,"max":18},{"min":20,"max":20},{"min":22,"max":22}],"recommended":[{"min":8,"max":30},{"min":31,"max":null}],"totalvotes":"54"},"playerage":"12+","languagedependence":"Some necessary text - easily memorized or small crib sheet","subdomain":"","boardgameweight":{"averageweight":1.4285714285714286,"votes":"126"}},"stats":{"usersrated":"4047","average":"7.02428","baverage":"6.59315","stddev":"1.64465","avgweight":"1.4286","numweights":"126","numgeeklists":"1177","numtrading":"142","numwanting":"248","numwish":"1591","numowned":"6771","numprevowned":"467","numcomments":"970","numwishlistcomments":"201","numhasparts":"1","numwantparts":"3","views":"518692","playmonth":"2020-06","numplays":"18476","numplays_month":"4","numfans":440},"relatedcounts":{"news":0,"blogs":57,"weblink":8,"podcast":38},"itemid":921218,"objecttype":"thing","objectid":134352,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/134352\/two-rooms-and-boom","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Two Rooms and a Boom","alternatename":null,"yearpublished":"2013","minplayers":"6","maxplayers":"30","minplaytime":"7","maxplaytime":"20","minage":"8","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Help the president or hunt him down in this social deduction game for 6-30 players.","links":{"boardgamedesigner":[{"name":"Alan Gerding","objecttype":"person","objectid":"65404","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/65404\/alan-gerding"},{"name":"Sean McCoy","objecttype":"person","objectid":"65405","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/65405\/sean-mccoy"}],"boardgameartist":[{"name":"Sean McCoy","objecttype":"person","objectid":"65405","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/65405\/sean-mccoy"}],"boardgamepublisher":[{"name":"Tuesday Knight Games","objecttype":"company","objectid":"24028","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/24028\/tuesday-knight-games"}],"boardgamehonor":[{"name":"2013 Golden Geek Best Print & Play Board Game Nominee","objecttype":"family","objectid":"24519","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/24519\/2013-golden-geek-best-print-play-board-game-nomine"}],"boardgamecategory":[{"name":"Bluffing","objecttype":"property","objectid":"1023","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1023\/bluffing"},{"name":"Card Game","objecttype":"property","objectid":"1002","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1002\/card-game"},{"name":"Deduction","objecttype":"property","objectid":"1039","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1039\/deduction"},{"name":"Negotiation","objecttype":"property","objectid":"1026","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1026\/negotiation"},{"name":"Party Game","objecttype":"property","objectid":"1030","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1030\/party-game"},{"name":"Print & Play","objecttype":"property","objectid":"1120","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1120\/print-play"}],"boardgamemechanic":[{"name":"Acting","objecttype":"property","objectid":"2073","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2073\/acting"},{"name":"Team-Based Game","objecttype":"property","objectid":"2019","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2019\/team-based-game"},{"name":"Variable Player Powers","objecttype":"property","objectid":"2015","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2015\/variable-player-powers"},{"name":"Voting","objecttype":"property","objectid":"2017","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2017\/voting"}],"boardgameexpansion":[{"name":"Two Rooms and a Boom: Necroboomicon Expansion Pack","objecttype":"thing","objectid":"219444","primarylink":0,"itemstate":"approved","href":"\/boardgame\/219444\/two-rooms-and-boom-necroboomicon-expansion-pack"}],"boardgameversion":[{"name":"First edition","objecttype":"version","objectid":"225827","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/225827\/first-edition"},{"name":"Print & Play edition","objecttype":"version","objectid":"189804","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/189804\/print-play-edition"},{"name":"Second edition","objecttype":"version","objectid":"483853","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/483853\/second-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[],"boardgamefamily":[{"name":"Crowdfunding: Kickstarter","objecttype":"family","objectid":"8374","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/8374\/crowdfunding-kickstarter"},{"name":"Game: Werewolf \/ Mafia","objecttype":"family","objectid":"2989","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/2989\/game-werewolf-mafia"},{"name":"No table needed","objecttype":"family","objectid":"56318","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/56318\/no-table-needed"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Party Games","objecttype":"family","objectid":"5498","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5498\/party-games"}],"boardgameaccessory":[],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":2,"boardgameartist":1,"boardgamepublisher":1,"boardgamehonor":1,"boardgamecategory":7,"boardgamemechanic":4,"boardgameexpansion":1,"boardgameversion":3,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":0,"boardgamefamily":3,"videogamebg":0,"boardgamesubdomain":1,"boardgameaccessory":0,"commerceweblink":0},"secondarynamescount":0,"alternatenamescount":0,"primaryname":{"nameid":"717709","name":"Two Rooms and a Boom","sortindex":"1","primaryname":"1","translit":"Two Rooms and a Boom"},"description":"<p>In <em><strong>Two Rooms and a Boom<\/strong><\/em> &ndash; a social deduction\/hidden role party game for six or more players &ndash; there are two teams: the Red Team and the Blue Team. The Blue Team has a President. The Red Team has a Bomber. Players are equally distributed between two rooms (i.e., separate playing areas). The game consists of five timed rounds. At the end of each round, some players will be swapped into opposing rooms. If the Red Team's Bomber is in the same room as the President at the end of the game, then the Red Team wins; otherwise the Blue Team wins. Lying encouraged.<\/p>\n\n","wiki":"<p><strong>Play by Forum<\/strong><\/p>\n\n<p>Interested in playing Two Rooms and a Boom right here on the forum? Check out the Play By Forum wiki: <a class=\"\" href=\"\/wiki\/page\/TwoRoomsAndABoom_PBF#\">TwoRoomsAndABoom_PBF<\/a><\/p>\n\n<p><strong>Useful Threads<\/strong><\/p>\n\n<p><a  href=\"\/thread\/921106\/tweaks-new-role-suggestions\"   >Tweaks & New Role Suggestions<\/a><\/p>\n\n<p><a  href=\"\/thread\/894065\/2r1b-pbf-waiting-room-sign-game-here\"   >2R1B PBF Waiting Room - sign up for a game here!<\/a><\/p>\n\n<p><a  href=\"\/thread\/982550\/how-i-introduce-2r1b-new-group\"   >How I Introduce 2R1B to a New Group <\/a><\/p>\n\n<p><strong><a class=\"\" href=\"\/wiki\/page\/Microbadges#\">Microbadges<\/a><\/strong><\/p>\n\n<p><a href=\"\/microbadge\/29714\"><img alt='Microbadge: Two Rooms and a Boom - Blue Team'  onmouseover=\"return overlib('Two Rooms and a Boom - Blue Team', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_29714_0.png\"><\/a> <a href=\"\/microbadge\/29715\"><img alt='Microbadge: Two Rooms and a Boom - Red Team'  onmouseover=\"return overlib('Two Rooms and a Boom - Red Team', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_29715_0.png\"><\/a> <a href=\"\/microbadge\/29716\"><img alt='Microbadge: Two Rooms and a Boom - Grey Team'  onmouseover=\"return overlib('Two Rooms and a Boom - Grey Team', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_29716_0.png\"><\/a><\/p>\n\n<p><strong><a class=\"wikilink_new\" href=\"\/wiki\/page\/Sleeves\">Sleeves<\/a><\/strong><br \/>\nCards are approximately 59mmx89mm (Yu-Gi-Oh or Bridge sized cards).<\/p>\n\n","website":{"url":"http:\/\/tworoomsandaboom.com\/","title":"Official website"},"imageid":"2335221","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/IJPe0CYJ9RC7jIvHLm7ixIHhY_Q=\/fit-in\/200x150\/pic2335221.png","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/zbuEPMv56ychGENxIJk2hCMtY3Q=\/fit-in\/64x64\/pic2335221.png","square":"https:\/\/cf.geekdo-images.com\/square\/img\/SeHcrA02OimjxnMSheRXzwTdAHc=\/75x75\/pic2335221.png","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/L2lWWGKtq3Gb0lc4ZlofKUqx0sU=\/fit-in\/75x75\/pic2335221.png","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/jZfoCC5Z1e_ciIlNlbMeX4Mox3w=\/fit-in\/75x125\/pic2335221.png","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/AaGWpOqu_1NmPhS9TJlWKUYgVWA=\/fit-in\/300x320\/pic2335221.png","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/lt4vLiS7gAveFtJwro_Qdurk7ZA=\/200x200\/pic2335221.png"},"imagepagehref":"\/image\/2335221\/two-rooms-and-boom","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/I_3Gx3MXvaZaJw7qSxhSDiXFhfE=\/fit-in\/246x300\/pic2335221.png","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/j7gVqicQCqLw8HwbtqYjLvYN1sE=\/800x375\/filters:quality(30)\/pic1769918.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"52"},"images":{"numitems":109},"videos":{"numitems":27}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.02428",
+        "reviewCount": "4047",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/I_3Gx3MXvaZaJw7qSxhSDiXFhfE=/fit-in/246x300/pic2335221.png",
+    "name": "Two Rooms and a Boom",
+    "description": "Help the president or hunt him down in this social deduction game for 6-30 players."
+}
+</script>
+
+</body>
+</html>

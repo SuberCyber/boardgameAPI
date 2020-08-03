@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Deception: Murder in Hong Kong | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Deception: Murder in Hong Kong">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph_left/img/kB9KHH9gTYQn6dXVtJq-b5B3Gq8=/fit-in/445x445/pic3033330.jpg" />
+	<meta property="og:title" content="Deception: Murder in Hong Kong" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/156129/deception-murder-hong-kong" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Interpret forensic evidence to solve a murder. Beware, the murderer may be among you!" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Deception: Murder in Hong Kong" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/SfJIE17MpvBJa3axD4lQfTuJPL4=/fit-in/1200x630/pic3033330.jpg" />
+	<meta name="twitter:description" content="Interpret forensic evidence to solve a murder. Beware, the murderer may be among you!" />
+
+
+	<meta name="description" content="Interpret forensic evidence to solve a murder. Beware, the murderer may be among you!">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["156129"],"companyid":["15983","39686","38809","39751","8820","26427","8923","9325","27470"],"personid":["102429","17988","73872","78064","61129"],"propertyid":["1023","1039","1040","1030","2027","2019","2814"],"familyid":["18230","10620","8374","46194","5498"],"temp_co":["hot"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"178","baverage":"7.29218"},{"prettyname":"Party Game Rank","shortprettyname":"Party Rank","veryshortprettyname":"Party ","subdomain":"partygames","rankobjecttype":"family","rankobjectid":5498,"rank":"8","baverage":"7.36762"}],"polls":{"userplayers":{"best":[{"min":6,"max":8}],"recommended":[{"min":5,"max":12}],"totalvotes":"177"},"playerage":"12+","languagedependence":"Moderate in-game text - needs crib sheet or paste ups","subdomain":"","boardgameweight":{"averageweight":1.6038461538461539,"votes":"260"}},"stats":{"usersrated":"14351","average":"7.50589","baverage":"7.29218","stddev":"1.32184","avgweight":"1.6038","numweights":"260","numgeeklists":"1572","numtrading":"315","numwanting":"730","numwish":"5002","numowned":"21178","numprevowned":"1333","numcomments":"2510","numwishlistcomments":"688","numhasparts":"4","numwantparts":"10","views":"799540","playmonth":"2020-06","numplays":"72697","numplays_month":"261","numfans":464},"relatedcounts":{"news":2,"blogs":135,"weblink":19,"podcast":45},"itemid":1137431,"objecttype":"thing","objectid":156129,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/156129\/deception-murder-hong-kong","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Deception: Murder in Hong Kong","alternatename":null,"yearpublished":"2014","minplayers":"4","maxplayers":"12","minplaytime":"20","maxplaytime":"20","minage":"14","override_rankable":0,"targetco_url":"","walmart_id":"150419406","instructional_videoid":null,"summary_videoid":"86008","playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Interpret forensic evidence to solve a murder. Beware, the murderer may be among you!","links":{"boardgamedesigner":[{"name":"Tobey Ho","objecttype":"person","objectid":"73872","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/73872\/tobey-ho"}],"boardgameartist":[{"name":"Marcin Adamski","objecttype":"person","objectid":"102429","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/102429\/marcin-adamski"},{"name":"Ben Carre","objecttype":"person","objectid":"17988","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/17988\/ben-carre"},{"name":"Tommy Ng","objecttype":"person","objectid":"78064","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/78064\/tommy-ng"},{"name":"Ari Wong","objecttype":"person","objectid":"61129","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/61129\/ari-wong"}],"boardgamepublisher":[{"name":"Jolly Thinkers","objecttype":"company","objectid":"15983","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/15983\/jolly-thinkers"},{"name":"Across the Board","objecttype":"company","objectid":"39686","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/39686\/across-board"},{"name":"Angry Lion Games","objecttype":"company","objectid":"38809","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/38809\/angry-lion-games"},{"name":"Do it games","objecttype":"company","objectid":"39751","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/39751\/do-it-games"},{"name":"G\u00e9m Klub Kft.","objecttype":"company","objectid":"8820","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/8820\/gem-klub-kft"},{"name":"Grey Fox Games","objecttype":"company","objectid":"26427","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/26427\/grey-fox-games"}],"boardgamehonor":[],"boardgamecategory":[{"name":"Bluffing","objecttype":"property","objectid":"1023","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1023\/bluffing"},{"name":"Deduction","objecttype":"property","objectid":"1039","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1039\/deduction"},{"name":"Murder\/Mystery","objecttype":"property","objectid":"1040","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1040\/murdermystery"},{"name":"Party Game","objecttype":"property","objectid":"1030","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1030\/party-game"}],"boardgamemechanic":[{"name":"Storytelling","objecttype":"property","objectid":"2027","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2027\/storytelling"},{"name":"Team-Based Game","objecttype":"property","objectid":"2019","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2019\/team-based-game"},{"name":"Traitor Game","objecttype":"property","objectid":"2814","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2814\/traitor-game"}],"boardgameexpansion":[{"name":"Deception\/CS-Files Theme Pack: North America","objecttype":"thing","objectid":"234719","primarylink":0,"itemstate":"approved","href":"\/boardgame\/234719\/deceptioncs-files-theme-pack-north-america"},{"name":"Deception\/CS-Files Theme Pack: Southern Europe","objecttype":"thing","objectid":"234718","primarylink":0,"itemstate":"approved","href":"\/boardgame\/234718\/deceptioncs-files-theme-pack-southern-europe"},{"name":"Deception\/CS-Files Theme Pack: Western Europe","objecttype":"thing","objectid":"234717","primarylink":0,"itemstate":"approved","href":"\/boardgame\/234717\/deceptioncs-files-theme-pack-western-europe"},{"name":"Deception\/CS-Files: Premium Role Card Pack","objecttype":"thing","objectid":"234720","primarylink":0,"itemstate":"approved","href":"\/boardgame\/234720\/deceptioncs-files-premium-role-card-pack"},{"name":"Deception\/CS-Files: Role Card Pack \u2013 Hong Kong film edition","objecttype":"thing","objectid":"286955","primarylink":0,"itemstate":"approved","href":"\/boardgame\/286955\/deceptioncs-files-role-card-pack-hong-kong-film-ed"},{"name":"Deception: Murder in Hong Kong \u2013 Brazil Promo","objecttype":"thing","objectid":"286214","primarylink":0,"itemstate":"approved","href":"\/boardgame\/286214\/deception-murder-hong-kong-brazil-promo"}],"boardgameversion":[{"name":"Chinese\/English first edition","objecttype":"version","objectid":"234706","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/234706\/chineseenglish-first-edition"},{"name":"Chinese\/English second edition","objecttype":"version","objectid":"277963","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/277963\/chineseenglish-second-edition"},{"name":"English-only first edition","objecttype":"version","objectid":"277367","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/277367\/english-only-first-edition"},{"name":"English-only second edition","objecttype":"version","objectid":"426553","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/426553\/english-only-second-edition"},{"name":"English\/German edition","objecttype":"version","objectid":"300784","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/300784\/englishgerman-edition"},{"name":"French edition","objecttype":"version","objectid":"295387","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/295387\/french-edition"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[],"reimplements":[],"boardgamefamily":[{"name":"Cities: Hong Kong","objecttype":"family","objectid":"18230","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/18230\/cities-hong-kong"},{"name":"Country: Hong Kong","objecttype":"family","objectid":"10620","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/10620\/country-hong-kong"},{"name":"Crowdfunding: Kickstarter","objecttype":"family","objectid":"8374","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/8374\/crowdfunding-kickstarter"},{"name":"Deception:  Murder in Hong Kong","objecttype":"family","objectid":"46194","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/46194\/deception-murder-hong-kong"}],"videogamebg":[],"boardgamesubdomain":[{"name":"Party Games","objecttype":"family","objectid":"5498","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5498\/party-games"}],"boardgameaccessory":[{"name":"Deception: Murder in Hong Kong \u2013 Upgrade Kit","objecttype":"thing","objectid":"253963","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/253963\/deception-murder-hong-kong-upgrade-kit"}],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":4,"boardgamepublisher":9,"boardgamehonor":0,"boardgamecategory":4,"boardgamemechanic":3,"boardgameexpansion":17,"boardgameversion":12,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":0,"reimplements":0,"boardgamefamily":4,"videogamebg":0,"boardgamesubdomain":1,"boardgameaccessory":1,"commerceweblink":0},"secondarynamescount":2,"alternatenamescount":9,"secondarynames":[{"nameid":"859981","name":"CS-Files","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"1109609","name":"Get\u00e4uscht: Mord in Hong Kong","sortindex":"1","primaryname":"0","secondaryname":true}],"primaryname":{"nameid":"1015478","name":"Deception: Murder in Hong Kong","sortindex":"1","primaryname":"1","translit":"Deception: Murder in Hong Kong"},"description":"<p><em><strong>Deception: Murder in Hong Kong<\/strong><\/em> is a game of deduction and deception for 4-12 players that plays in about 20 minutes.<\/p>\n\n<p>In the game, players take on the roles of investigators attempting to solve a murder case &ndash; but there's a twist. The killer is one of the investigators! Each player's role and team are randomly assigned at the start of play and include the unique roles of Forensic Scientist, Witness, Investigator, Murderer, and Accomplice. While the Investigators attempt to deduce the truth, the murderer's team must deceive and mislead. This is a battle of wits!<\/p>\n\n<p>The Forensic Scientist has the solution but can express the clues only using special scene tiles while the investigators (and the murderer) attempt to interpret the evidence. In order to succeed, the investigators must not only deduce the truth from the clues of the Forensic Scientist, they must also see through the misdirection being injected into the equation by the Murderer and Accomplice!<\/p>\n\n<p>Find out who among you can cut through deception to find the truth and who is capable of getting away with murder!<\/p>\n\n<p><strong>Roles<\/strong><\/p>\n\n<p><strong>Forensic Scientist<\/strong> x1<br \/>\nAs the game master, the Forensic Scientist holds the solution to the crime. They are responsible for assisting the Investigators in identifying the &ldquo;Key Evidence&rdquo; and &ldquo;Means of Murder.&rdquo; When an Investigator does that successfully, the crime is solved and the Forensic Scientist and the Investigators win the game.<\/p>\n\n<p>During the game, the Forensic Scientist is NOT allowed to hint to the solution with words, gestures, or eyes.<\/p>\n\n<p><strong>Murderer<\/strong> x1<br \/>\nWhen the crime takes place, the Murderer chooses 1 Clue card and 1 Means card as the solution to the crime. These will be the &ldquo;Key Evidence&rdquo; and &ldquo;Means of Murder&rdquo; respectively.<\/p>\n\n<p>The Murderer tries to hide their role and look for a scapegoat. Even if they are identified, the Murderer still wins the game if no one correctly identifies both the &ldquo;Key Evidence&rdquo; and the &ldquo;Means of Murder&rdquo;.<\/p>\n\n<p><strong>Investigators<\/strong> x8<br \/>\nTo solve the crime, the Investigators must analyze the hints given by the Forensic Scientist. As long as one of the Investigators correctly identifies both the &ldquo;Key Evidence&rdquo; and &ldquo;Means of Murder,&rdquo; the Murderer is arrested and the Investigators win the game (as does the Forensic Scientist).<\/p>\n\n<p>Bear in mind that the Murderer (and sometimes Accomplice) is among the Investigators! The innocent Investigators must make a vigorous effort to defend themselves from false accusation.<\/p>\n\n<p><strong>Accomplice<\/strong> x1<br \/>\nThe Accomplice is an optional role for games with six or more players. The Accomplice knows who the Murderer is, as well as the solution to the crime. The Accomplice and Murderer both win if the Murderer gets away with his crime.<\/p>\n\n<p><strong>Witness<\/strong> x1<br \/>\nThe Witness is an optional role when playing with six or more players.* The Witness is an Investigator who has witnessed the culprits leaving the crime scene. They have no way of knowing which is the Murderer and which is the Accomplice and they do not know how the crime was committed.<\/p>\n\n<p>If the Murderer is arrested but can identify the Witness, the Witness is considered to be killed, allowing the Murderer and the Accomplice to get away with murder and win the game.<\/p>\n\n","wiki":"<p><a class='anchor-target' name=\"Contents\"><\/a>\t\t\t\t<a class=\"anchor-target\" id=\"toc0\"><\/a>\n\t\t\t\t<div>\n\t\t\t\t\t<h3>Contents:<\/h3><\/p>\n\n<ul>\n    <li> 200 Clue cards<\/li>\n    <li> 90 Means cards<\/li>\n    <li> 12 Role cards<\/li>\n    <li> 32 Scene tiles<\/li>\n    <li> 6 Bullets<\/li>\n    <li> 11 Badges<\/li>\n    <li> Rule book<\/li>\n<\/ul>\n\n<p><strong>Microbadge<\/strong><\/p>\n\n<ul>\n    <li> <a href=\"\/microbadge\/35919\"><img alt='Microbadge: Deception: Murder in Hong Kong fan'  onmouseover=\"return overlib('Deception: Murder in Hong Kong fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_35919_0.png\"><\/a> Deception: Murder in Hong Kong fan<\/li>\n<\/ul>\n\n<\/div><\/div>","website":{"url":"http:\/\/www.greyfoxgames.com\/games\/deception-murder-in-hong-kong\/","title":"Grey Fox Games Deception: Murder in Hong Kong"},"imageid":"3033330","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/at_Bpsv--kgIi57NoVsPbmR444w=\/fit-in\/200x150\/pic3033330.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/--nClCluUEVZ5FyGAiFzSTNM7Bw=\/fit-in\/64x64\/pic3033330.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/2YbCFquPVEBSgqYh6TmUhMYTaNg=\/75x75\/pic3033330.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/5viklauIQIyjKIP8avpDrYOata0=\/fit-in\/75x75\/pic3033330.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/1gh73FslzNw_M1RZW7HmrvFmZo8=\/fit-in\/75x125\/pic3033330.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/Bapq00wtaz2zlk2inS3DAShIOFo=\/fit-in\/300x320\/pic3033330.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/KJ1nDXeohjJmys-nVHb1zG-NKrM=\/200x200\/pic3033330.jpg"},"imagepagehref":"\/image\/3033330\/deception-murder-hong-kong","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/uLpjgYnNCcZ0uKIYXOvsaoN_ppU=\/fit-in\/246x300\/pic3033330.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/wYMygHx9WDgvzAA-A0Y3154K1hs=\/800x375\/filters:quality(30)\/pic2568529.jpg","itemstate":"approved","promoted_ad":null,"special_user":null,"summary_video":{"id":"86008","type":"videos","videoid":86008,"title":"Overview of Deception: Murder in Hong Kong at BGG.CON 2015","description":"","descriptionXml":"<?xml version=\"1.0\"?>\n<xml\/>\n","postdate":"2015-12-12T18:50:53+00:00","gallery":"interview","submitter":15734,"hidden":false,"blocks_ads":false,"language":{"name":"English","id":"eng","type":"languages"},"source":{"type":"things","id":"156129"},"video":{"host":"youtube","id":"Dd-g4kYtoa0"},"href":"\/video\/86008\/deception-murder-hong-kong\/overview-deception-murder-hong-kong-bggcon-2015","canonical_link":"https:\/\/boardgamegeek.com\/video\/86008\/deception-murder-hong-kong\/overview-deception-murder-hong-kong-bggcon-2015","browse_href":"\/boardgame\/156129\/deception-murder-hong-kong\/videos\/all","links":[{"rel":"self","uri":"\/api\/videos\/86008"},{"rel":"thumbs.total","uri":"\/api\/videos\/86008\/reactions?totalonly=1"},{"rel":"thumbs","uri":"\/api\/videos\/86008\/reactions"},{"rel":"tips","uri":"\/api\/videos\/86008\/tips"},{"rel":"tips.total","uri":"\/api\/videos\/86008\/tips?totalonly=1"},{"rel":"comments","uri":"\/api\/videos\/86008\/comments"}]},"walmart_price":"$33.05"},"media":{"files":{"numitems":"33"},"images":{"numitems":174},"videos":{"numitems":78}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "7.50589",
+        "reviewCount": "14351",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/uLpjgYnNCcZ0uKIYXOvsaoN_ppU=/fit-in/246x300/pic3033330.jpg",
+    "name": "Deception: Murder in Hong Kong",
+    "description": "Interpret forensic evidence to solve a murder. Beware, the murderer may be among you!"
+}
+</script>
+
+</body>
+</html>

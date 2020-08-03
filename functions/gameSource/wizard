@@ -1,0 +1,198 @@
+
+<!DOCTYPE html>
+<html ng-app="GeekApp" lang="en-US" ng-cloak>
+<head>
+	<meta charset='utf-8'>
+	<meta id="vp" name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta content='yes' name='apple-mobile-web-app-capable'>
+	<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+
+			<title>Wizard | Board Game | BoardGameGeek</title>
+	
+		<link rel="canonical" href="https://boardgamegeek.com/boardgame/1465/wizard" />
+
+<link rel="apple-touch-icon" 	href="https://cf.geekdo-static.com/icons/touch-icon180.png" />
+<link rel="shortcut icon" 		href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="icon" 					href="https://cf.geekdo-static.com/icons/favicon2.ico" type="image/ico" />
+<link rel="search" 				href="/game-opensearch.xml" type="application/opensearchdescription+xml" title="BGG Game Search" />
+<meta name="apple-mobile-web-app-title" content="BGG">
+
+	<meta name="title" content="Wizard">
+
+	<meta property="og:image" content="https://cf.geekdo-images.com/opengraph/img/-Cbk3mDQt5oNdyEvuuYpHArtt3M=/fit-in/1200x630/pic5948.jpg" />
+	<meta property="og:title" content="Wizard" />
+	<meta property="og:site_name" content="BoardGameGeek" />
+	<meta property="og:url" content="https://boardgamegeek.com/boardgame/1465/wizard" />
+	<meta property="og:type" content="website" />
+	<meta property="og:description" content="Predict how many tricks you&#039;ll win, with the help of Wizards and Jesters." />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Wizard" />
+	<meta name="twitter:image:src" content="https://cf.geekdo-images.com/opengraph/img/-Cbk3mDQt5oNdyEvuuYpHArtt3M=/fit-in/1200x630/pic5948.jpg" />
+	<meta name="twitter:description" content="Predict how many tricks you&#039;ll win, with the help of Wizards and Jesters." />
+
+
+	<meta name="description" content="Predict how many tricks you&#039;ll win, with the help of Wizards and Jesters.">
+
+	<meta name="keywords" content="board game, boardgames, boardgame, board, games, game, hobby, boardgamegeek, geek, geekdo">
+
+						<link rel='stylesheet' type='text/css' href='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.css'>
+			
+	<base href="/">
+
+	
+<script>
+	var GEEK = GEEK || {};
+	GEEK.adBlock = [];
+	GEEK.adConfig = {"hideleaderboard":false,"hideskyscraper":false,"noadsense":false};
+	GEEK.adSlots = {"dfp-leaderboard":{"name":"boardgame_leaderboard_728x90"},"dfp-skyscraper":{"name":"boardgame_skyscraper_160x600"},"dfp-medrect":{"name":"boardgame_rectangle_300x250"},"dfp-medrect-reserved-home":{"name":"boardgame_reserved_home_300x250"}};
+	GEEK.googleTargets = {"gameid":["1465"],"companyid":["26059","3320","267","8","21","2378","1765","22560","8845","39558","155","9634","6214","8291","5597","3218","5936","5787","22","9234","55","468","1466"],"familyid":["13119","5499","14370"],"propertyid":["2014","1002","2040","2009"],"personid":["618","11883"]};
+	GEEK.userid = 0;
+	GEEK.domainname = 'boardgamegeek.com';
+	GEEK.domain = 'boardgame';
+	GEEK.geekitemPreload = {"item":{"itemdata":[{"datatype":"geekitem_fielddata","fieldname":"name","title":"Primary Name","primaryname":true,"required":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"name"},{"datatype":"geekitem_fielddata","fieldname":"alternatename","title":"Alternate Names","alternate":true,"unclickable":true,"fullcredits":true,"subtype":"boardgame","keyname":"alternatename"},{"datatype":"geekitem_fielddata","fieldname":"yearpublished","title":"Year Published","fullcredits":true,"subtype":"boardgame","keyname":"yearpublished"},{"datatype":"geekitem_fielddata","fieldname":"minplayers","title":"Minimum Players","subtype":"boardgame","keyname":"minplayers"},{"datatype":"geekitem_fielddata","fieldname":"maxplayers","title":"Maximum Players","subtype":"boardgame","keyname":"maxplayers"},{"datatype":"geekitem_fielddata","fieldname":"minplaytime","title":"Minimum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"minplaytime"},{"datatype":"geekitem_fielddata","fieldname":"maxplaytime","title":"Maximum Playing Time","createposttext":" minutes","posttext":" minutes","subtype":"boardgame","keyname":"maxplaytime"},{"datatype":"geekitem_fielddata","fieldname":"minage","title":"Mfg Suggested Ages","createtitle":"Minimum Age","posttext":" and up","subtype":"boardgame","keyname":"minage"},{"datatype":"geekitem_fielddata","fieldname":"override_rankable","title":"Override Rankable","table":"geekitem_items","options":[{"value":1,"title":"yes"},{"value":0,"title":"no"}],"adminonly":true,"subtype":"boardgame","keyname":"override_rankable"},{"datatype":"geekitem_fielddata","fieldname":"targetco_url","unclickable":true,"title":"Target Co Order Link","subtype":"boardgame","keyname":"targetco_url"},{"datatype":"geekitem_fielddata","fieldname":"walmart_id","unclickable":true,"title":"Walmart Item Id","nullable":true,"subtype":"boardgame","keyname":"walmart_id"},{"datatype":"geekitem_fielddata","fieldname":"instructional_videoid","unclickable":true,"title":"Promoted Instructional Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"instructional_videoid"},{"datatype":"geekitem_fielddata","fieldname":"summary_videoid","unclickable":true,"title":"Promoted Summary Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"summary_videoid"},{"datatype":"geekitem_fielddata","fieldname":"playthrough_videoid","unclickable":true,"title":"Promoted Playthrough Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"playthrough_videoid"},{"datatype":"geekitem_fielddata","fieldname":"focus_videoid","unclickable":true,"title":"Promoted In Focus Video ID","validatemethod":"ValidateVideoid","nullable":true,"subtype":"boardgame","keyname":"focus_videoid"},{"datatype":"geekitem_fielddata","fieldname":"bggstore_product","unclickable":true,"title":"Promoted BGG Store Product Name","nullable":true,"subtype":"boardgame","keyname":"bggstore_product"},{"datatype":"geekitem_fielddata","fieldname":"short_description","title":"Short Description","table":"geekitem_items","maxlength":85,"editfieldsize":60,"required":true,"subtype":"boardgame","keyname":"short_description"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgamedesigner","linktype":"boardgamedesigner","self_prefix":"src","title":"Designer","titlepl":"Designers","fullcredits":true,"keyname":"boardgamedesigner"},{"datatype":"geekitem_linkdata","other_objecttype":"person","other_subtype":"boardgameartist","linktype":"boardgameartist","self_prefix":"src","title":"Artist","titlepl":"Artists","fullcredits":true,"keyname":"boardgameartist"},{"datatype":"geekitem_linkdata","other_objecttype":"company","other_subtype":"boardgamepublisher","linktype":"boardgamepublisher","self_prefix":"src","title":"Publisher","titlepl":"Publishers","required":true,"fullcredits":true,"keyname":"boardgamepublisher"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamehonor","lookup_subtype":"boardgamehonor","linktype":"boardgamehonor","self_prefix":"src","title":"Honors","keyname":"boardgamehonor"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamecategory","lookup_subtype":"boardgamecategory","linktype":"boardgamecategory","self_prefix":"src","title":"Category","titlepl":"Categories","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamecategory"},{"datatype":"geekitem_linkdata","other_objecttype":"property","other_subtype":"boardgamemechanic","lookup_subtype":"boardgamemechanic","linktype":"boardgamemechanic","self_prefix":"src","title":"Mechanism","titlepl":"Mechanisms","showall_ctrl":true,"fullcredits":true,"keyname":"boardgamemechanic"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgameexpansion","linktype":"boardgameexpansion","self_prefix":"src","title":"Expansion","keyname":"boardgameexpansion"},{"datatype":"geekitem_linkdata","other_objecttype":"version","other_subtype":"boardgameversion","linktype":"boardgameversion","loadlinks":true,"self_prefix":"src","title":"Version","uneditable":true,"keyname":"boardgameversion"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameexpansion","self_prefix":"dst","title":"Expands","keyname":"expandsboardgame"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameintegration","correctioncomment":"Only for stand-alone games that integrate with other stand-alone games. <b>NOT<\/b> for expansions.","self_prefix":"src","title":"Integrates With","keyname":"boardgameintegration"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"dst","correctioncomment":"Items contained in this item (if this is a compilation, for example)","title":"Contains","keyname":"contains"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgamecompilation","self_prefix":"src","title":"Contained in","keyname":"containedin"},{"datatype":"geekitem_linkdata","lookup_subtype":"boardgame","other_objecttype":"thing","other_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"src","correctioncomment":"Add the \"child\" item(s) that reimplement this game","title":"Reimplemented By","keyname":"reimplementation"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgame","lookup_subtype":"boardgame","linktype":"boardgameimplementation","self_prefix":"dst","correctioncomment":"Add the \"parent\" item(s) for this game, if it reimplements a previous game","title":"Reimplements","keyname":"reimplements"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamefamily","lookup_subtype":"boardgamefamily","linktype":"boardgamefamily","self_prefix":"src","fullcredits":true,"title":"Family","keyname":"boardgamefamily"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"videogamebg","lookup_subtype":"videogame","linktype":"videogamebg","self_prefix":"src","adminonly":true,"title":"Video Game Adaptation","titlepl":"Video Game Adaptations","keyname":"videogamebg"},{"datatype":"geekitem_linkdata","other_objecttype":"family","other_subtype":"boardgamesubdomain","lookup_subtype":"boardgamesubdomain","linktype":"boardgamesubdomain","self_prefix":"src","title":"Subdomain","showall_ctrl":true,"uneditable":true,"createposttext":"Enter the subdomain for this item.","keyname":"boardgamesubdomain"},{"datatype":"geekitem_linkdata","other_objecttype":"thing","other_subtype":"boardgameaccessory","lookup_subtype":"boardgameaccessory","linktype":"boardgameaccessory","self_prefix":"src","title":"Accessory","titlepl":"Accessories","addnew":true,"keyname":"boardgameaccessory"},{"datatype":"geekitem_linkdata","linktype":"commerceweblink","other_objecttype":"weblink","other_subtype":"commerceweblink","self_prefix":"src","title":"Commerce Weblinks","adminaccess":["admgr"],"keyname":"commerceweblink"},{"datatype":"geekitem_polldata","title":"User Suggested # of Players","polltype":"numplayers","keyname":"userplayers"},{"datatype":"geekitem_polldata","title":"User Suggested Ages","polltype":"playerage","keyname":"playerage"},{"datatype":"geekitem_polldata","title":"Language Dependence","polltype":"languagedependence","keyname":"languagedependence"},{"datatype":"geekitem_polldata","title":"Subdomain","polltype":"boardgamesubdomain","keyname":"subdomain"},{"datatype":"geekitem_polldata","title":"Weight","polltype":"boardgameweight","keyname":"boardgameweight"}],"relatedlinktypes":["boardgameaccessory","contains","containedin","reimplementation","reimplements","videogamebg","boardgameintegration"],"linkedforum_types":[{"title":"Board Game Forums","linkedforum_index":"boardgames","linkdata_index":"expandsboardgame","required_subtype":null},{"title":"Expansion Forums","linkedforum_index":"boardgameexpansions","linkdata_index":"boardgameexpansion","required_subtype":null},{"title":"Compilation Item Forums","linkedforum_index":"compilationitems","linkdata_index":"contains","required_subtype":"boardgamecompilation"},{"title":"Parent Item Forums","linkedforum_index":"reimplements","linkdata_index":"reimplements","required_subtype":"boardgameimplementation"},{"title":"Reimplementation Forums","linkedforum_index":"reimplementedby","linkdata_index":"reimplementation","required_subtype":null},{"title":"Integrates With","linkedforum_index":"boardgameintegration","linkdata_index":"boardgameintegration","required_subtype":"boardgameintegration"},{"title":"Video Game Forums","linkedforum_index":"videogamebgs","linkdata_index":"videogamebg","required_subtype":null}],"subtypename":"Board Game","rankinfo":[{"prettyname":"Board Game Rank","shortprettyname":"Overall Rank","veryshortprettyname":"Overall","subdomain":null,"rankobjecttype":"subtype","rankobjectid":1,"rank":"742","baverage":"6.66515"},{"prettyname":"Family Game Rank","shortprettyname":"Family Rank","veryshortprettyname":"Family ","subdomain":"familygames","rankobjecttype":"family","rankobjectid":5499,"rank":"203","baverage":"6.71213"}],"polls":{"userplayers":{"best":[{"min":4,"max":5}],"recommended":[{"min":3,"max":6}],"totalvotes":"109"},"playerage":"10+","languagedependence":"No necessary in-game text","subdomain":"","boardgameweight":{"averageweight":1.7352342158859471,"votes":"491"}},"stats":{"usersrated":"7759","average":"6.91601","baverage":"6.66515","stddev":"1.38921","avgweight":"1.7352","numweights":"491","numgeeklists":"1504","numtrading":"316","numwanting":"35","numwish":"338","numowned":"12675","numprevowned":"712","numcomments":"1738","numwishlistcomments":"81","numhasparts":"3","numwantparts":"6","views":"337141","playmonth":"2020-06","numplays":"32756","numplays_month":"99","numfans":162},"relatedcounts":{"news":1,"blogs":56,"weblink":38,"podcast":3},"itemid":1272,"objecttype":"thing","objectid":1465,"label":"Board Game","labelpl":"Board Games","href":"\/boardgame\/1465\/wizard","subtype":"boardgame","subtypes":["boardgame"],"versioninfo":{"kickstarter_widget_url":"","gamepageorderurl":null,"shopifyitem":null},"name":"Wizard","alternatename":null,"yearpublished":"1984","minplayers":"3","maxplayers":"6","minplaytime":"45","maxplaytime":"45","minage":"10","override_rankable":0,"targetco_url":"","walmart_id":null,"instructional_videoid":null,"summary_videoid":null,"playthrough_videoid":null,"focus_videoid":null,"bggstore_product":null,"short_description":"Predict how many tricks you'll win, with the help of Wizards and Jesters.","links":{"boardgamedesigner":[{"name":"Ken Fisher","objecttype":"person","objectid":"618","primarylink":0,"itemstate":"approved","href":"\/boardgamedesigner\/618\/ken-fisher"}],"boardgameartist":[{"name":"Franz Vohwinkel","objecttype":"person","objectid":"11883","primarylink":0,"itemstate":"approved","href":"\/boardgameartist\/11883\/franz-vohwinkel"}],"boardgamepublisher":[{"name":"K. Fisher Enterprises Ltd.","objecttype":"company","objectid":"26059","primarylink":1,"itemstate":"approved","href":"\/boardgamepublisher\/26059\/k-fisher-enterprises-ltd"},{"name":"(Unknown)","objecttype":"company","objectid":"3320","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/3320\/unknown"},{"name":"999 Games","objecttype":"company","objectid":"267","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/267\/999-games"},{"name":"AMIGO","objecttype":"company","objectid":"8","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/8\/amigo"},{"name":"Canada Games","objecttype":"company","objectid":"21","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/21\/canada-games"},{"name":"Copag Cards","objecttype":"company","objectid":"2378","primarylink":0,"itemstate":"approved","href":"\/boardgamepublisher\/2378\/copag-cards"}],"boardgamehonor":[{"name":"2011 Nederlandse Spellenprijs Nominee","objecttype":"family","objectid":"13119","primarylink":0,"itemstate":"approved","href":"\/boardgamehonor\/13119\/2011-nederlandse-spellenprijs-nominee"}],"boardgamecategory":[{"name":"Card Game","objecttype":"property","objectid":"1002","primarylink":0,"itemstate":"approved","href":"\/boardgamecategory\/1002\/card-game"}],"boardgamemechanic":[{"name":"Betting and Bluffing","objecttype":"property","objectid":"2014","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2014\/betting-and-bluffing"},{"name":"Hand Management","objecttype":"property","objectid":"2040","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2040\/hand-management"},{"name":"Trick-taking","objecttype":"property","objectid":"2009","primarylink":0,"itemstate":"approved","href":"\/boardgamemechanic\/2009\/trick-taking"}],"boardgameexpansion":[{"name":"Brettspiel Adventskalender 2015","objecttype":"thing","objectid":"178656","primarylink":0,"itemstate":"approved","href":"\/boardgame\/178656\/brettspiel-adventskalender-2015"},{"name":"Wizard: The Christmas Wizards","objecttype":"thing","objectid":"189897","primarylink":0,"itemstate":"approved","href":"\/boardgame\/189897\/wizard-christmas-wizards"}],"boardgameversion":[{"name":"999 Games Dutch edition 2011","objecttype":"version","objectid":"80496","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/80496\/999-games-dutch-edition-2011"},{"name":"999 Games Dutch edition 2016","objecttype":"version","objectid":"376856","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/376856\/999-games-dutch-edition-2016"},{"name":"AMIGO 30 Jahre edition","objecttype":"version","objectid":"54653","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/54653\/amigo-30-jahre-edition"},{"name":"AMIGO edition 2005 in tin box","objecttype":"version","objectid":"30110","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/30110\/amigo-edition-2005-tin-box"},{"name":"AMIGO edition 2005 in tin box, 500 numbered copies","objecttype":"version","objectid":"94266","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/94266\/amigo-edition-2005-tin-box-500-numbered-copies"},{"name":"AMIGO edition 2010","objecttype":"version","objectid":"69747","primarylink":0,"itemstate":"approved","href":"\/boardgameversion\/69747\/amigo-edition-2010"}],"expandsboardgame":[],"boardgameintegration":[],"contains":[],"containedin":[],"reimplementation":[{"name":"Wizard Junior","objecttype":"thing","objectid":"25866","primarylink":0,"itemstate":"approved","href":"\/boardgame\/25866\/wizard-junior"},{"name":"Wizard W\u00fcrfelspiel","objecttype":"thing","objectid":"286547","primarylink":0,"itemstate":"approved","href":"\/boardgame\/286547\/wizard-wurfelspiel"},{"name":"Wizard: Jubil\u00e4umsedition","objecttype":"thing","objectid":"191475","primarylink":0,"itemstate":"approved","href":"\/boardgame\/191475\/wizard-jubilaumsedition"}],"reimplements":[],"boardgamefamily":[{"name":"Game: Wizard (Amigo)","objecttype":"family","objectid":"14370","primarylink":0,"itemstate":"approved","href":"\/boardgamefamily\/14370\/game-wizard-amigo"}],"videogamebg":[{"name":"Wizard","objecttype":"thing","objectid":"248998","primarylink":0,"itemstate":"approved","href":"\/videogame\/248998\/wizard"}],"boardgamesubdomain":[{"name":"Family Games","objecttype":"family","objectid":"5499","primarylink":0,"itemstate":"approved","href":"\/boardgamesubdomain\/5499\/family-games"}],"boardgameaccessory":[{"name":"Wizard: Coins","objecttype":"thing","objectid":"159061","primarylink":0,"itemstate":"approved","href":"\/boardgameaccessory\/159061\/wizard-coins"}],"commerceweblink":[]},"linkcounts":{"boardgamedesigner":1,"boardgameartist":1,"boardgamepublisher":23,"boardgamehonor":1,"boardgamecategory":1,"boardgamemechanic":3,"boardgameexpansion":2,"boardgameversion":55,"expandsboardgame":0,"boardgameintegration":0,"contains":0,"containedin":0,"reimplementation":3,"reimplements":0,"boardgamefamily":1,"videogamebg":1,"boardgamesubdomain":1,"boardgameaccessory":1,"commerceweblink":0},"secondarynamescount":2,"alternatenamescount":13,"secondarynames":[{"nameid":"182955","name":"Fantasy Wizard","sortindex":"1","primaryname":"0","secondaryname":true},{"nameid":"319875","name":"\u795e\u673a\u5999\u7b97","sortindex":"1","primaryname":"0","secondaryname":true}],"primaryname":{"nameid":"1272","name":"Wizard","sortindex":"1","primaryname":"1","translit":"Wizard"},"description":"<p>The trick-taking game <em><strong>Wizard<\/strong><\/em> uses a sixty-card deck that consists of the traditional 52-card deck (1-13 in four suits) along with four Wizards (high) and four Jesters (low).<\/p>\n\n<p>Players compete over multiple rounds based on the number of players, and whoever ends with the highest score wins. In each round, players are dealt a hand of cards &mdash; one card in the first round, two cards in the second, three in the third, etc. &mdash; then trump is determined by flipping the top card of the undealt deck; if a suit is revealed, that suit is trump, while if the card turned up is a Jester, it is turned down and there is no trump for that round. If the card turned up is a Wizard, the dealer chooses one of the 4 suits as the trump suit. The dealer cannot choose &quot;no trump&quot;. On the last round of each game all cards are dealt out so there is no trump. Players then state how many tricks they expect to win in the round.<\/p>\n\n<p>The playing and winning of the tricks uses mostly standard trick-taking rules. If a player leads a suited card, then all other players must follow suit, if possible. If a player leads a Jester, then the second player determines the suit led. If a player leads a Wizard, then those who follow can play whatever they want. However, in all cases a player may <em>always<\/em> play a Wizard or Jester, even if they hold cards in the suit led.<\/p>\n\n<p>After each player has played a card, determine the winner of the trick as follows: If one or more Wizards were played, the player of the first Wizard wins the trick, collects the cards, and leads to the next trick. If not, whoever played the highest trump wins the trick. If not, whoever played the highest card of the suit led wins the trick. If all players played Jesters, whoever played the first Jester wins.<\/p>\n\n<p>After all tricks have been played, players tally their score for the round. If a player matched their bid, winning exactly as many tricks as stated at the start of the round, they score 20 points, plus 10 points for each trick taken. If a player missed their bid, they lose 10 points for each trick that they were off, whether they took more or fewer than predicted.<\/p>\n\n<p>A common variant in <em>Wizard<\/em> is to not allow the total number of tricks bid in a round to match the round number, thereby forcing (at least) one player to be off each round.<\/p>\n\n","wiki":"<p><strong>Microbadges<\/strong><\/p>\n\n<p><a href=\"\/microbadge\/21685\"><img alt='Microbadge: Wizard fan'  onmouseover=\"return overlib('Wizard fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_21685_1.png\"><\/a> <a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/microbadge\/21685\" onclick=\"window.open(this.href, '_blank'); return false;\">Wizard (Ken Fisher) fan<\/a><\/p>\n\n<p><a href=\"\/microbadge\/24231\"><img alt='Microbadge: Wizard fan'  onmouseover=\"return overlib('Wizard fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_24231_0.png\"><\/a> <a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/microbadge\/24231\" onclick=\"window.open(this.href, '_blank'); return false;\">Wizard (Ken Fisher) fan - Dwarves<\/a><\/p>\n\n<p><a href=\"\/microbadge\/24232\"><img alt='Microbadge: Wizard fan'  onmouseover=\"return overlib('Wizard fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_24232_0.png\"><\/a> <a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/microbadge\/24232\" onclick=\"window.open(this.href, '_blank'); return false;\">Wizard (Ken Fisher) fan - Elves<\/a><\/p>\n\n<p><a href=\"\/microbadge\/24229\"><img alt='Microbadge: Wizard fan'  onmouseover=\"return overlib('Wizard fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_24229_0.png\"><\/a> <a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/microbadge\/24229\" onclick=\"window.open(this.href, '_blank'); return false;\">Wizard (Ken Fisher) fan - Giants<\/a><\/p>\n\n<p><a href=\"\/microbadge\/24233\"><img alt='Microbadge: Wizard fan'  onmouseover=\"return overlib('Wizard fan', WRAP );\" onmouseout=\"return nd();\" title=''src=\"data:image\/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\"onload=\"lzld(this)\"onerror=\"lzld(this)\"class='mbimg'data-frz-src=\"https:\/\/cf.geekdo-static.com\/mbs\/mb_24233_0.png\"><\/a> <a rel=\"nofollow\" href=\"http:\/\/www.boardgamegeek.com\/microbadge\/24233\" onclick=\"window.open(this.href, '_blank'); return false;\">Wizard (Ken Fisher) fan - Humans<\/a><\/p>\n\n","website":{"url":false},"imageid":"5948","images":{"thumb":"https:\/\/cf.geekdo-images.com\/thumb\/img\/ZXopotqE3J8QK3rJjUl0pJqT_Ys=\/fit-in\/200x150\/pic5948.jpg","micro":"https:\/\/cf.geekdo-images.com\/micro\/img\/rxXJvSB2vJs5u9CynypIIhi2DKM=\/fit-in\/64x64\/pic5948.jpg","square":"https:\/\/cf.geekdo-images.com\/square\/img\/AX2maXuUBaRpKZzEjs2Dx_2dcDc=\/75x75\/pic5948.jpg","squarefit":"https:\/\/cf.geekdo-images.com\/squarefit\/img\/JZUwmnxQ1766UbCuU1EN8SXvFSo=\/fit-in\/75x75\/pic5948.jpg","tallthumb":"https:\/\/cf.geekdo-images.com\/tallthumb\/img\/G2KbiP3fMyg5VR-QsszTAYKIirQ=\/fit-in\/75x125\/pic5948.jpg","previewthumb":"https:\/\/cf.geekdo-images.com\/previewthumb\/img\/4NTl78Mo38gpaEHUqJajsczS0JY=\/fit-in\/300x320\/pic5948.jpg","square200":"https:\/\/cf.geekdo-images.com\/square200\/img\/s0ggPIsMqJaMnwsq7d2j_AdpRis=\/200x200\/pic5948.jpg"},"imagepagehref":"\/image\/5948\/wizard","imageurl":"https:\/\/cf.geekdo-images.com\/itemrep\/img\/TNlVthx82Y4DrIhlAucB-CrMF1M=\/fit-in\/246x300\/pic5948.jpg","topimageurl":"https:\/\/cf.geekdo-images.com\/itemheader\/img\/ok7vnzry_3lLLQkF15Ln8nIb_FM=\/800x375\/filters:quality(30)\/pic202369.jpg","itemstate":"approved","promoted_ad":null,"special_user":null},"media":{"files":{"numitems":"19"},"images":{"numitems":215},"videos":{"numitems":15}},"videogalleries":{"galleries":[{"type":"all","name":"All"},{"type":"review","name":"Review"},{"type":"session","name":"Session"},{"type":"instructional","name":"Instructional"},{"type":"interview","name":"Interview"},{"type":"unboxing","name":"Unboxing"},{"type":"humor","name":"Humor"},{"type":"other","name":"Other"}]}};
+	GEEK.geekitemSettings = {"fluidlayout":false,"absolutedates":false,"fulldescriptions":false,"overview_nohot":false,"recentitems_showcount":5,"modules":{"boardgameperson":[{"name":"description","enabled":true}],"boardgame":[{"name":"promotedvideos","enabled":true},{"name":"media","enabled":true},{"name":"description","enabled":true},{"name":"awards","enabled":true},{"name":"marketplace","adblock":"blockbuyacopy","enabled":true},{"name":"videos","enabled":true},{"name":"reviews","enabled":true},{"name":"recs","enabled":true},{"name":"forums","enabled":true},{"name":"files","enabled":true},{"name":"wiki","enabled":true},{"name":"moregame","enabled":true}]}};
+	GEEK.geekitemModules = {"media":{"name":"media","html":"<media-module><\/media-module>","prettyname":"Images"},"promotedvideos":{"name":"promotedvideos","html":"<promotedvideos-module geekitem=\"overviewctrl.geekitem\"><\/promotedvideos-module>","prettyname":"Promoted Videos"},"classification":{"name":"classification","html":"<classifications-module geekitem=\"overviewctrl.geekitem\"><\/classifications-module>","prettyname":"Classification"},"description":{"name":"description","html":"<description-module wikitext=\"overviewctrl.geekitem.data.item.description\" geekitem=\"overviewctrl.geekitem\"><\/description-module>","prettyname":"Description"},"marketplace":{"name":"marketplace","html":"<marketplace-module geekitem=\"overviewctrl.geekitem\"><\/marketplace-module>","prettyname":"Marketplace"},"videos":{"name":"videos","html":"<span class='hidden-xs'>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module ng-if='!overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module>\n\t\t\t\t\t\t\t\t\t\t\t<videos-overview-module-recent ng-if='overviewctrl.geekitemSettings.overview_nohot'><\/videos-overview-module-recent>\n\t\t\t\t\t\t\t\t\t <\/span>","prettyname":"Videos"},"reviews":{"name":"reviews","html":"<reviews-module disablelocation=\"true\"><\/reviews-module>","prettyname":"Reviews"},"forums":{"name":"forums","html":"<forums-overview-module disablelocation=\"true\"><\/forums-overview-module>","prettyname":"Forums"},"recs":{"name":"recs","html":"<recs-module-overview><\/recs-module-overview>","prettyname":"Recommended Games"},"files":{"name":"files","html":"<files-overview-module disablelocation=\"true\"><\/files-overview-module>","prettyname":"Files"},"wiki":{"name":"wiki","html":"<wiki-module wikitext=\"overviewctrl.geekitem.data.item.wiki\"><\/wiki-module>","prettyname":"Wiki"},"moregame":{"name":"moregame","html":"<more-game-module geekitem=\"overviewctrl.geekitem\"><\/more-game-module>","prettyname":"More of this Game"},"textad":{"name":"textad","html":"<text-ad-module geekitem=\"overviewctrl.geekitem\"><\/text-ad-module>","prettyname":"Text Ad","noconfig":true}};
+	GEEK.geekGlobalSettings = {"shutdown_file_ops":"1","shutdown_storeimage_ops":"0","shutdown_edit_avatar":"0","shutdown_file_upload":"0","shutdown_file_download":"0","shutdown_image_upload":"0"};
+	GEEK.geekimageSettings = {"galleries":{"all":{"name":"all","prettyname":"All","description":""},"game":{"name":"game","prettyname":"Game","description":" Images where the focus is on the unaltered game, box, and\/or components."},"people":{"name":"people","prettyname":"People","description":"Images where people are prominently featured with the game."},"creative":{"name":"creative","prettyname":"Creative","description":"Images of the game that contain creative elements such as modified components (including custom painted miniatures), fun situations, storage solutions, screen shots of online implementations, advertisements, prototypes, or artwork. Any images where the game has been added to or altered."}}};
+	GEEK.legacy = 0;
+	GEEK.apiurlsPrefix = 'https://api.geekdo.com';
+
+	
+		GEEK.apiurls = {
+		'amazon': '/api/amazon',
+		'files': '/api/files',
+		'geekitems': '/api/geekitems',
+		'images': '/api/images',
+		'threads': '/api/forums/threads',
+	 	'forums': '/api/forums',
+		'videos': '/api/videos',
+		'hotness': '/api/hotness',
+		'dynamicinfo': '/api/dynamicinfo',
+		'subtypeinfo': '/api/subtypeinfo',
+		'geekbay': '/api/geekbay',
+		'geekmarket': '/geekmarket/api/v1',
+	    'geekmarketapi': '/api/geekmarket',
+		'geeklists': '/api/geeklists',
+		'reviews': '/api/forumreviews',
+		'collections': '/api/collections',
+		'linkeditems': '/api/geekitem/linkeditems',
+		'subscriptions': '/api/subscriptions',
+	    'fans': '/api/fans',
+	    'geekpreviews': '/api/geekpreviews',
+	    'geekpreviewitems': '/api/geekpreviewitems',
+	   	'geekpreviewparentitems': '/api/geekpreviewparentitems',
+		'recs': '/api/geekitem/recs',
+	    'awards': '/api/geekawards'
+	};
+</script>
+
+							<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekangular17_master2_5ee7e17863a56.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekui_master2_5ee7e1778c010.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitem_master2_5ee7e1777ef91.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollection_master2_5ee7e177f40a2.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekoutputtemplates_master2_5ee7e1791ae2b.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekitemtemplates_master2_5ee7e179244f8.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekcollectiontemplates_master2_5ee7e17955844.js'></script>
+					<script type='text/javascript' src='https://cf.geekdo-static.com/static/geekuicommontemplates_master2_5ee7e17921f5c.js'></script>
+				
+</head>
+
+
+<body ng-controller="GeekOutput_LayoutCtrl as layoutctrl"
+		ng-class="{ 'has-no-max-width' : layoutctrl.geekitemSettings.fluidlayout }">
+
+
+<div>
+	<div hide-ad-block="blockleaderboard">
+		<div class="advertisement advertisement-leaderboard">
+			<div class='center-block' ng-dfp-ad="dfp-leaderboard"></div>
+		</div>
+	</div>
+
+	
+<div id="global-header-outer" class='global-header-outer'
+	  ng-controller="NavCtrl as navctrl"
+	  click-out="navctrl.closeMobileMenu()">
+
+	<geeknav-menu></geeknav-menu>
+</div>
+
+
+	
+	<main class='global-body'
+		  id="mainbody"
+		  ng-class="{ 'has-overlay-sidebar': layoutctrl.showOverlaySidebar, 'has-hidden-fixed-sidebar': layoutctrl.localStorage.hideFixedSidebar }">
+		
+		<a id='mainbodytarget' tabindex="-1"></a>
+		<div class='global-body-content-container container-fluid'>
+			<!-- <button class="btn btn-primary hidden-xs btn-lg feedback-trigger"
+						login-required
+					  feedback-widget
+					  ng-click="feedbackctrl.openFeedback()">
+				<i class="fi-comments"></i>&nbsp; Feedback
+			</button> -->
+
+			<geekoutput-sidebar deactivate-overlay-sidebar='layoutctrl.deactivateOverlaySidebar' show-overlay-sidebar='layoutctrl.showOverlaySidebar'></geekoutput-sidebar>
+
+			
+			<div class='global-body-content pending'  ng-class="{'ready': layoutctrl.ready}">
+				<a id='maincontenttarget' tabindex="-1"></a>
+			
+								<geekitem linkshowcount="6" subtype="boardgame"></geekitem>
+
+
+				<div class='global-body-content-secondary'>
+					<geekoutput-footer></geekoutput-footer>
+				</div>
+			</div>
+
+			<div class='global-body-ad' hide-ad-block="blockskyscraper">
+				<div class='advertisement advertisement-top'>
+					<div class="center-block advertisement-adsense-skyscraper" ng-dfp-ad="dfp-skyscraper"></div>
+										<iframe src="/amazon/iframeskyscraperad" class="amazon_skyscraper_ad" title="Amazon ad"></iframe>
+				</div>
+			</div>
+
+		</div>
+	</main>
+</div>
+
+
+<script>
+	window.google_analytics_uacct = "UA-104725-1";
+	(function ( i, s, o, g, r, a, m ) {
+		i[ 'GoogleAnalyticsObject' ] = r;
+		i[ r ] = i[ r ] || function () {
+				(i[ r ].q = i[ r ].q || []).push( arguments )
+			}, i[ r ].l = 1 * new Date();
+		a = s.createElement( o ), m = s.getElementsByTagName( o )[ 0 ];
+		a.async = 1;
+		a.src = g;
+		m.parentNode.insertBefore( a, m )
+	})
+	( window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga' );
+	ga( 'create', 'UA-104725-1', 'auto' );
+	ga( 'require', 'displayfeatures' );
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Product",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "6.91601",
+        "reviewCount": "7759",
+        "bestRating": "10",
+        "worstRating": "1"
+    },
+    "image": "https://cf.geekdo-images.com/itemrep/img/TNlVthx82Y4DrIhlAucB-CrMF1M=/fit-in/246x300/pic5948.jpg",
+    "name": "Wizard",
+    "description": "Predict how many tricks you'll win, with the help of Wizards and Jesters."
+}
+</script>
+
+</body>
+</html>
